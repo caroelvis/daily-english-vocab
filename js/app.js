@@ -26,46 +26,57 @@
     leisure: '休閒運動',
   };
 
+  /** @type {Array<{id:number,word:string,zh:string,emoji:string,category:string,image?:string}>} */
+  let words = [];
+  let recentFlashIds = [];
+  const RECENT_LIMIT = 40;
 
-  // ——— Analytics (events → FastAPI POST /events) ———
-  const ANALYTICS_BASE = (window.ANALYTICS_BASE || 'http://127.0.0.1:8000').replace(/\/$/, '');
-  const SESSION_KEY = 'de_vocab_session_id';
 
-  function uuid() {
-    if (window.crypto && crypto.randomUUID) return crypto.randomUUID();
-    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
-      const r = (Math.random() * 16) | 0;
-      const v = c === 'x' ? r : (r & 0x3) | 0x8;
-      return v.toString(16);
-    });
+  // ——— Usage analytics (fire-and-forget; site works if API down) ———
+  const ANALYTICS_DEFAULT = 'http://127.0.0.1:8000';
+  const SESSION_KEY = 'vocab_session_id';
+  const MODE_KEY = 'vocab_current_mode';
+
+  function analyticsApiBase() {
+    try {
+      if (typeof window.VOCAB_ANALYTICS_API === 'string' && window.VOCAB_ANALYTICS_API) {
+        return window.VOCAB_ANALYTICS_API.replace(/\/$/, '');
+      }
+      if (typeof window.ANALYTICS_BASE === 'string' && window.ANALYTICS_BASE) {
+        return window.ANALYTICS_BASE.replace(/\/$/, '');
+      }
+      const stored = localStorage.getItem('vocab_analytics_api');
+      if (stored) return stored.replace(/\/$/, '');
+    } catch (_) { /* ignore */ }
+    return ANALYTICS_DEFAULT;
   }
 
   function getSessionId() {
     try {
       let id = sessionStorage.getItem(SESSION_KEY);
       if (!id) {
-        id = uuid();
+        id = (window.crypto && crypto.randomUUID)
+          ? crypto.randomUUID()
+          : ('s_' + Date.now().toString(36) + '_' + Math.random().toString(36).slice(2, 10));
         sessionStorage.setItem(SESSION_KEY, id);
       }
       return id;
     } catch (_) {
-      return uuid();
+      return 'anon_' + Date.now().toString(36);
     }
   }
 
-  function track(type, extra) {
-    const payload = Object.assign(
-      {
-        type: type,
-        session_id: getSessionId(),
-        ts: new Date().toISOString(),
-      },
-      extra || {}
-    );
+  function trackEvent(event, mode) {
+    const payload = {
+      session_id: getSessionId(),
+      event: event,
+      ts: Date.now(),
+    };
+    if (mode) payload.mode = mode;
+    const url = analyticsApiBase() + '/events';
     const body = JSON.stringify(payload);
-    const url = ANALYTICS_BASE + '/events';
     try {
-      if (type === 'session_end' && navigator.sendBeacon) {
+      if (event === 'session_end' && navigator.sendBeacon) {
         const blob = new Blob([body], { type: 'application/json' });
         navigator.sendBeacon(url, blob);
         return;
@@ -76,29 +87,28 @@
         body: body,
         keepalive: true,
         mode: 'cors',
-      }).catch(function () { /* ignore */ });
-    } catch (_) {
-      /* never block UI */
-    }
-  }
-
-  function trackSessionStart() {
-    track('session_start');
+      }).catch(function () { /* API optional */ });
+    } catch (_) { /* ignore */ }
   }
 
   function trackModeEnter(mode) {
-    if (mode !== 'flashcard' && mode !== 'quiz') return;
-    track('mode_enter', { mode: mode });
+    try { sessionStorage.setItem(MODE_KEY, mode); } catch (_) {}
+    trackEvent('mode_enter', mode);
   }
 
-  function trackSessionEnd() {
-    track('session_end');
+  let sessionEnded = false;
+  function startAnalytics() {
+    trackEvent('session_start');
+    // Default view is flashcard
+    trackModeEnter('flashcard');
+
+    window.addEventListener('pagehide', function () {
+      if (sessionEnded) return;
+      sessionEnded = true;
+      trackEvent('session_end');
+    });
   }
 
-  /** @type {Array<{id:number,word:string,zh:string,emoji:string,category:string,image?:string}>} */
-  let words = [];
-  let recentFlashIds = [];
-  const RECENT_LIMIT = 40;
 
   // Quiz state
   let quizIndex = 0; // completed questions (0..100)
@@ -485,6 +495,7 @@
     }
 
     flashMeta.textContent = `共 ${words.length} 個單字`;
+    startAnalytics();
     nextFlashcard();
 
     document.querySelectorAll('.nav-btn').forEach((btn) => {
@@ -508,11 +519,6 @@
         if (currentFlash) speak(currentFlash.word);
       }
     });
-
-    trackSessionStart();
-    trackModeEnter('flashcard');
-    window.addEventListener('pagehide', trackSessionEnd);
-    window.addEventListener('beforeunload', trackSessionEnd);
   }
 
   init();
