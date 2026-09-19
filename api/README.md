@@ -7,8 +7,11 @@
 | Method | Path | 說明 |
 |--------|------|------|
 | `POST` | `/events` | 寫入一筆或多筆事件 |
-| `GET` | `/stats` | 彙總統計 |
+| `GET` | `/stats` | **HTML** 使用統計儀表板（繁體中文，適合手機瀏覽） |
+| `GET` | `/stats.json` | 與過去 `/stats` 相同的 JSON 彙總 |
 | `GET` | `/health` | 健康檢查 |
+
+瀏覽器請開：`/stats`。程式或腳本請用：`/stats.json`。
 
 ### 事件格式
 
@@ -27,12 +30,15 @@
 
 批次：`{ "events": [ ... ] }`。
 
-### `/stats` 回傳
+### `/stats.json` 回傳
 
 - `unique_sessions`：不重複 `session_id` 數
 - `avg_session_duration_sec`：各 session 的 `session_end − session_start`（缺則用首末事件）平均值（秒）
 - `avg_flashcard_time_sec`：每次進入閃卡模式到切換／結束的時段平均值（秒）
 - `avg_quiz_time_sec`：同上，測驗模式
+- `sample_counts`：各指標的樣本數
+
+缺資料的欄位為 `null`；HTML `/stats` 會顯示「尚無資料」。
 
 ## 本機執行
 
@@ -45,6 +51,8 @@ uvicorn main:app --reload --host 127.0.0.1 --port 8000
 ```
 
 API 預設：<http://127.0.0.1:8000>  
+儀表板：<http://127.0.0.1:8000/stats>  
+JSON：<http://127.0.0.1:8000/stats.json>  
 文件：<http://127.0.0.1:8000/docs>
 
 資料庫檔案：`api/analytics.db`（執行後自動建立）。
