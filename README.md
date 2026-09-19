@@ -45,12 +45,33 @@ python3 -m http.server 8080
 daily-english-vocab/
 ├── index.html          # 主頁（閃卡＋測驗）
 ├── css/styles.css
-├── js/app.js
+├── js/app.js           # 前端邏輯＋用量埋點
 ├── data/words.json     # 單字資料（id, word, zh, emoji, category, image）
+├── api/                # 用量分析 API（獨立執行，非 Pages）
+│   ├── main.py
+│   ├── requirements.txt
+│   └── README.md
 └── README.md
 ```
 
-無需建置步驟、無後端。不依賴 git remote / CloudAgent。
+前端為純靜態，**無需建置**。GitHub Pages **只託管靜態檔**；用量分析 API 需另行本機或伺服器執行。
+
+
+## 用量分析（本機 API）
+
+前端會以 fire-and-forget 方式回報：`session_start`、`mode_enter`（flashcard｜quiz）、`session_end`（`pagehide` beacon）。API 掛掉不影響學習功能。
+
+```bash
+cd api
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+uvicorn main:app --reload --host 127.0.0.1 --port 8000
+```
+
+- 預設 API：`http://127.0.0.1:8000`
+- 統計：`GET /stats`（獨立 session 數、平均 session／閃卡／測驗時長）
+- 自訂位址：設定 `window.VOCAB_ANALYTICS_API` 或 `localStorage.vocab_analytics_api`
+- 詳見 [`api/README.md`](api/README.md)
 
 ## 單字資料
 
