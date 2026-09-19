@@ -42,6 +42,9 @@
       if (typeof window.VOCAB_ANALYTICS_API === 'string' && window.VOCAB_ANALYTICS_API) {
         return window.VOCAB_ANALYTICS_API.replace(/\/$/, '');
       }
+      if (typeof window.ANALYTICS_BASE === 'string' && window.ANALYTICS_BASE) {
+        return window.ANALYTICS_BASE.replace(/\/$/, '');
+      }
       const stored = localStorage.getItem('vocab_analytics_api');
       if (stored) return stored.replace(/\/$/, '');
     } catch (_) { /* ignore */ }
