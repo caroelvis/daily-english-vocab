@@ -26,6 +26,75 @@
     leisure: '休閒運動',
   };
 
+
+  // ——— Analytics (events → FastAPI POST /events) ———
+  const ANALYTICS_BASE = (window.ANALYTICS_BASE || 'http://127.0.0.1:8000').replace(/\/$/, '');
+  const SESSION_KEY = 'de_vocab_session_id';
+
+  function uuid() {
+    if (window.crypto && crypto.randomUUID) return crypto.randomUUID();
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
+      const r = (Math.random() * 16) | 0;
+      const v = c === 'x' ? r : (r & 0x3) | 0x8;
+      return v.toString(16);
+    });
+  }
+
+  function getSessionId() {
+    try {
+      let id = sessionStorage.getItem(SESSION_KEY);
+      if (!id) {
+        id = uuid();
+        sessionStorage.setItem(SESSION_KEY, id);
+      }
+      return id;
+    } catch (_) {
+      return uuid();
+    }
+  }
+
+  function track(type, extra) {
+    const payload = Object.assign(
+      {
+        type: type,
+        session_id: getSessionId(),
+        ts: new Date().toISOString(),
+      },
+      extra || {}
+    );
+    const body = JSON.stringify(payload);
+    const url = ANALYTICS_BASE + '/events';
+    try {
+      if (type === 'session_end' && navigator.sendBeacon) {
+        const blob = new Blob([body], { type: 'application/json' });
+        navigator.sendBeacon(url, blob);
+        return;
+      }
+      fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: body,
+        keepalive: true,
+        mode: 'cors',
+      }).catch(function () { /* ignore */ });
+    } catch (_) {
+      /* never block UI */
+    }
+  }
+
+  function trackSessionStart() {
+    track('session_start');
+  }
+
+  function trackModeEnter(mode) {
+    if (mode !== 'flashcard' && mode !== 'quiz') return;
+    track('mode_enter', { mode: mode });
+  }
+
+  function trackSessionEnd() {
+    track('session_end');
+  }
+
   /** @type {Array<{id:number,word:string,zh:string,emoji:string,category:string,image?:string}>} */
   let words = [];
   let recentFlashIds = [];
@@ -390,6 +459,7 @@
         startQuiz();
       }
     }
+    trackModeEnter(mode);
   }
 
   // ——— Init ———
@@ -438,6 +508,11 @@
         if (currentFlash) speak(currentFlash.word);
       }
     });
+
+    trackSessionStart();
+    trackModeEnter('flashcard');
+    window.addEventListener('pagehide', trackSessionEnd);
+    window.addEventListener('beforeunload', trackSessionEnd);
   }
 
   init();
