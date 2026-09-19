@@ -30,6 +30,9 @@
   let words = [];
   let recentFlashIds = [];
   const RECENT_LIMIT = 40;
+  /** @type {Array<object>} history of prior flashcards (most recent at end) */
+  let flashHistory = [];
+  const HISTORY_LIMIT = 50;
 
 
   // ——— Usage analytics (fire-and-forget; site works if API down) ———
@@ -129,6 +132,7 @@
   const flashMeta = $('#flash-meta');
   const autoSpeak = $('#auto-speak');
   const btnSpeak = $('#btn-speak');
+  const btnPrevFlash = $('#btn-prev-flash');
   const btnNextFlash = $('#btn-next-flash');
   const quizImage = $('#quiz-image');
   const quizEmoji = $('#quiz-emoji');
@@ -176,8 +180,9 @@
     imgEl.alt = word.word;
     emojiEl.textContent = word.emoji || '📦';
     emojiEl.style.display = '';
+    emojiEl.setAttribute('aria-hidden', 'true');
 
-    // Colored card vibe behind emoji via category hue
+    // Soft category color behind large emoji fallback
     const wrap = imgEl.parentElement;
     if (wrap) {
       const hues = {
@@ -187,19 +192,33 @@
         money: 45, tech: 195, education: 20, services: 350, leisure: 155,
       };
       const h = hues[word.category] ?? 220;
-      wrap.style.background = `linear-gradient(145deg, hsl(${h} 35% 28%), hsl(${h} 40% 16%))`;
+      wrap.style.background =
+        `linear-gradient(145deg, hsl(${h} 42% 32% / 0.95), hsl(${h} 38% 18% / 0.98))`;
+      wrap.classList.remove('image-error');
+      wrap.classList.add('image-pending');
     }
 
-    if (!word.image) return;
+    if (!word.image) {
+      if (wrap) {
+        wrap.classList.remove('image-pending');
+        wrap.classList.add('image-error');
+      }
+      return;
+    }
 
     const onOk = () => {
       imgEl.classList.add('loaded');
+      if (wrap) wrap.classList.remove('image-pending', 'image-error');
       imgEl.removeEventListener('load', onOk);
       imgEl.removeEventListener('error', onErr);
     };
     const onErr = () => {
       imgEl.classList.remove('loaded');
       imgEl.removeAttribute('src');
+      if (wrap) {
+        wrap.classList.remove('image-pending');
+        wrap.classList.add('image-error');
+      }
       imgEl.removeEventListener('load', onOk);
       imgEl.removeEventListener('error', onErr);
     };
@@ -292,6 +311,11 @@
   }
 
   // ——— Flashcard ———
+  function updatePrevButton() {
+    if (!btnPrevFlash) return;
+    btnPrevFlash.disabled = flashHistory.length === 0;
+  }
+
   function showFlashcard(word) {
     currentFlash = word;
     recentFlashIds.push(word.id);
@@ -302,12 +326,23 @@
     flashCategory.textContent = CATEGORY_ZH[word.category] || word.category;
     setImage(flashImage, flashEmoji, word);
     flashMeta.textContent = `共 ${words.length} 個單字 · #${word.id}`;
+    updatePrevButton();
 
     if (autoSpeak.checked) speak(word.word);
   }
 
   function nextFlashcard() {
+    if (currentFlash) {
+      flashHistory.push(currentFlash);
+      if (flashHistory.length > HISTORY_LIMIT) flashHistory.shift();
+    }
     const word = pickRandomWord(recentFlashIds);
+    showFlashcard(word);
+  }
+
+  function prevFlashcard() {
+    if (!flashHistory.length) return;
+    const word = flashHistory.pop();
     showFlashcard(word);
   }
 
@@ -504,16 +539,20 @@
     btnSpeak.addEventListener('click', () => {
       if (currentFlash) speak(currentFlash.word);
     });
+    if (btnPrevFlash) btnPrevFlash.addEventListener('click', prevFlashcard);
     btnNextFlash.addEventListener('click', nextFlashcard);
     $('#btn-restart-quiz').addEventListener('click', startQuiz);
 
-    // Keyboard: N = next flash, Space = speak (when flash mode)
+    // Keyboard: N = next, B / ← = previous, Space = speak (flash mode only)
     document.addEventListener('keydown', (e) => {
       if (e.target.matches('input, textarea, button')) return;
       if (!flashView.classList.contains('active')) return;
       if (e.key === 'n' || e.key === 'N') {
         e.preventDefault();
         nextFlashcard();
+      } else if (e.key === 'b' || e.key === 'B' || e.key === 'ArrowLeft') {
+        e.preventDefault();
+        prevFlashcard();
       } else if (e.key === ' ') {
         e.preventDefault();
         if (currentFlash) speak(currentFlash.word);
