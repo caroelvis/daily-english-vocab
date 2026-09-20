@@ -1117,7 +1117,7 @@ const WORDS = [
     "zh": "牛排",
     "emoji": "🥩",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22steak%22%20%28%E7%89%9B%E6%8E%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=876137&nologo=true&model=flux"
+    "image": "images/words/140.webp"
   },
   {
     "id": 141,
@@ -1125,7 +1125,7 @@ const WORDS = [
     "zh": "雞肉",
     "emoji": "🍗",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22chicken%22%20%28%E9%9B%9E%E8%82%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=244562&nologo=true&model=flux"
+    "image": "images/words/141.webp"
   },
   {
     "id": 142,
@@ -1133,7 +1133,7 @@ const WORDS = [
     "zh": "牛肉",
     "emoji": "🥩",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22beef%22%20%28%E7%89%9B%E8%82%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=573916&nologo=true&model=flux"
+    "image": "images/words/142.webp"
   },
   {
     "id": 143,
@@ -1141,7 +1141,7 @@ const WORDS = [
     "zh": "豬肉",
     "emoji": "🥓",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pork%22%20%28%E8%B1%AC%E8%82%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=413851&nologo=true&model=flux"
+    "image": "images/words/143.webp"
   },
   {
     "id": 144,
@@ -1149,7 +1149,7 @@ const WORDS = [
     "zh": "海鮮",
     "emoji": "🦐",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22seafood%22%20%28%E6%B5%B7%E9%AE%AE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=328386&nologo=true&model=flux"
+    "image": "images/words/144.webp"
   },
   {
     "id": 145,
@@ -1157,7 +1157,7 @@ const WORDS = [
     "zh": "蝦",
     "emoji": "🦐",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22shrimp%22%20%28%E8%9D%A6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=791729&nologo=true&model=flux"
+    "image": "images/words/145.webp"
   },
   {
     "id": 146,
@@ -1165,7 +1165,7 @@ const WORDS = [
     "zh": "螃蟹",
     "emoji": "🦀",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22crab%22%20%28%E8%9E%83%E8%9F%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=720613&nologo=true&model=flux"
+    "image": "images/words/146.webp"
   },
   {
     "id": 147,
@@ -1173,7 +1173,7 @@ const WORDS = [
     "zh": "蛋",
     "emoji": "🥚",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22egg%22%20%28%E8%9B%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=849752&nologo=true&model=flux"
+    "image": "images/words/147.webp"
   },
   {
     "id": 148,
@@ -1181,7 +1181,7 @@ const WORDS = [
     "zh": "豆腐",
     "emoji": "🧈",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tofu%22%20%28%E8%B1%86%E8%85%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=795105&nologo=true&model=flux"
+    "image": "images/words/148.webp"
   },
   {
     "id": 149,
@@ -1189,7 +1189,7 @@ const WORDS = [
     "zh": "起司",
     "emoji": "🧀",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cheese%22%20%28%E8%B5%B7%E5%8F%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=840586&nologo=true&model=flux"
+    "image": "images/words/149.webp"
   },
   {
     "id": 150,
