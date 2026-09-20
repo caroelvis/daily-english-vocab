@@ -1757,7 +1757,7 @@
     "zh": "煮沸",
     "emoji": "♨️",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22boil%22%20%28%E7%85%AE%E6%B2%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=992997&nologo=true&model=flux"
+    "image": "images/words/220.webp"
   },
   {
     "id": 221,
@@ -1765,7 +1765,7 @@
     "zh": "燒烤",
     "emoji": "🍖",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22grill%22%20%28%E7%87%92%E7%83%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=784855&nologo=true&model=flux"
+    "image": "images/words/221.webp"
   },
   {
     "id": 222,
@@ -1773,7 +1773,7 @@
     "zh": "蒸",
     "emoji": "♨️",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22steam%22%20%28%E8%92%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=238193&nologo=true&model=flux"
+    "image": "images/words/222.webp"
   },
   {
     "id": 223,
@@ -1781,7 +1781,7 @@
     "zh": "品嚐",
     "emoji": "👅",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22taste%22%20%28%E5%93%81%E5%9A%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=372577&nologo=true&model=flux"
+    "image": "images/words/223.webp"
   },
   {
     "id": 224,
@@ -1789,7 +1789,7 @@
     "zh": "味道",
     "emoji": "😋",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22flavor%22%20%28%E5%91%B3%E9%81%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=328236&nologo=true&model=flux"
+    "image": "images/words/224.webp"
   },
   {
     "id": 225,
@@ -1797,7 +1797,7 @@
     "zh": "素食者",
     "emoji": "🥦",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22vegetarian%22%20%28%E7%B4%A0%E9%A3%9F%E8%80%85%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=432337&nologo=true&model=flux"
+    "image": "images/words/225.webp"
   },
   {
     "id": 226,
@@ -1805,7 +1805,7 @@
     "zh": "純素者",
     "emoji": "🌱",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22vegan%22%20%28%E7%B4%94%E7%B4%A0%E8%80%85%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=208496&nologo=true&model=flux"
+    "image": "images/words/226.webp"
   },
   {
     "id": 227,
@@ -1813,7 +1813,7 @@
     "zh": "過敏",
     "emoji": "🤧",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22allergy%22%20%28%E9%81%8E%E6%95%8F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=492079&nologo=true&model=flux"
+    "image": "images/words/227.webp"
   },
   {
     "id": 228,
@@ -1821,7 +1821,7 @@
     "zh": "有機的",
     "emoji": "🌿",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22organic%22%20%28%E6%9C%89%E6%A9%9F%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=427269&nologo=true&model=flux"
+    "image": "images/words/228.webp"
   },
   {
     "id": 229,
@@ -1829,7 +1829,7 @@
     "zh": "鬆餅",
     "emoji": "🥞",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pancake%22%20%28%E9%AC%86%E9%A4%85%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=687239&nologo=true&model=flux"
+    "image": "images/words/229.webp"
   },
   {
     "id": 230,
