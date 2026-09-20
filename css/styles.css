@@ -601,3 +601,12 @@ body {
     flex: 1;
   }
 }
+
+.quiz-listen-actions {
+  display: flex;
+  justify-content: center;
+  margin: 0.35rem 0 0.85rem;
+}
+.quiz-listen-actions .btn-speak {
+  min-width: 9rem;
+}

@@ -108,10 +108,15 @@
       </div>
 
       <article class="card quiz-card" id="quiz-card">
-        <p class="quiz-prompt">看圖選出正確的英文單字</p>
+        <p class="quiz-prompt">看圖選出正確的英文單字 · 可先聽發音練聽力</p>
         <div class="image-wrap quiz-image-wrap">
           <img id="quiz-image" alt="測驗圖片" decoding="async" />
           <div class="emoji-fallback" id="quiz-emoji" aria-hidden="true">📦</div>
+        </div>
+        <div class="quiz-listen-actions">
+          <button type="button" class="btn btn-speak" id="btn-quiz-speak" title="播放本題發音">
+            <span class="btn-icon">🔊</span> 聽發音
+          </button>
         </div>
         <div class="options" id="quiz-options" role="group" aria-label="選項"></div>
         <p class="try-hint" id="quiz-try-hint" hidden>再試一次！</p>

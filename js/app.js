@@ -143,6 +143,7 @@
   const quizOptions = $('#quiz-options');
   const quizTryHint = $('#quiz-try-hint');
   const quizCard = $('#quiz-card');
+  const btnQuizSpeak = $('#btn-quiz-speak');
   const resultsCard = $('#results-card');
   const quizProgressFill = $('#quiz-progress-fill');
   const quizProgressText = $('#quiz-progress-text');
@@ -698,6 +699,13 @@
     btnSpeak.addEventListener('click', () => {
       if (currentFlash) speak(currentFlash.word);
     });
+    if (btnQuizSpeak) {
+      btnQuizSpeak.addEventListener('click', () => {
+        if (currentQuestion && currentQuestion.answer) {
+          speak(currentQuestion.answer.word);
+        }
+      });
+    }
     if (btnPrevFlash) btnPrevFlash.addEventListener('click', prevFlashcard);
     btnNextFlash.addEventListener('click', nextFlashcard);
     $('#btn-restart-quiz').addEventListener('click', startQuiz);
