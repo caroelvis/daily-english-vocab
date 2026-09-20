@@ -2077,7 +2077,7 @@
     "zh": "卡布奇諾",
     "emoji": "☕",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cappuccino%22%20%28%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AB%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=667915&nologo=true&model=flux"
+    "image": "images/words/260.webp"
   },
   {
     "id": 261,
@@ -2085,7 +2085,7 @@
     "zh": "綠茶",
     "emoji": "🍵",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22green%20tea%22%20%28%E7%B6%A0%E8%8C%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=346602&nologo=true&model=flux"
+    "image": "images/words/261.webp"
   },
   {
     "id": 262,
