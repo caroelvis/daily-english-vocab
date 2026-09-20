@@ -877,7 +877,7 @@ const WORDS = [
     "zh": "食物",
     "emoji": "🍲",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22food%22%20%28%E9%A3%9F%E7%89%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=942927&nologo=true&model=flux"
+    "image": "images/words/110.webp"
   },
   {
     "id": 111,
@@ -885,7 +885,7 @@ const WORDS = [
     "zh": "餐",
     "emoji": "🍱",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22meal%22%20%28%E9%A4%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=501833&nologo=true&model=flux"
+    "image": "images/words/111.webp"
   },
   {
     "id": 112,
@@ -893,7 +893,7 @@ const WORDS = [
     "zh": "早餐",
     "emoji": "🥐",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22breakfast%22%20%28%E6%97%A9%E9%A4%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=889932&nologo=true&model=flux"
+    "image": "images/words/112.webp"
   },
   {
     "id": 113,
@@ -901,7 +901,7 @@ const WORDS = [
     "zh": "午餐",
     "emoji": "🍱",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lunch%22%20%28%E5%8D%88%E9%A4%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=745871&nologo=true&model=flux"
+    "image": "images/words/113.webp"
   },
   {
     "id": 114,
@@ -909,7 +909,7 @@ const WORDS = [
     "zh": "晚餐",
     "emoji": "🍝",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dinner%22%20%28%E6%99%9A%E9%A4%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=562339&nologo=true&model=flux"
+    "image": "images/words/114.webp"
   },
   {
     "id": 115,
@@ -917,7 +917,7 @@ const WORDS = [
     "zh": "零食",
     "emoji": "🍿",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22snack%22%20%28%E9%9B%B6%E9%A3%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=251465&nologo=true&model=flux"
+    "image": "images/words/115.webp"
   },
   {
     "id": 116,
@@ -925,7 +925,7 @@ const WORDS = [
     "zh": "甜點",
     "emoji": "🍰",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dessert%22%20%28%E7%94%9C%E9%BB%9E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=599892&nologo=true&model=flux"
+    "image": "images/words/116.webp"
   },
   {
     "id": 117,
@@ -933,7 +933,7 @@ const WORDS = [
     "zh": "食譜",
     "emoji": "👩‍🍳",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22recipe%22%20%28%E9%A3%9F%E8%AD%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=928270&nologo=true&model=flux"
+    "image": "images/words/117.webp"
   },
   {
     "id": 118,
@@ -941,7 +941,7 @@ const WORDS = [
     "zh": "食材",
     "emoji": "🥕",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ingredient%22%20%28%E9%A3%9F%E6%9D%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=722405&nologo=true&model=flux"
+    "image": "images/words/118.webp"
   },
   {
     "id": 119,
@@ -949,7 +949,7 @@ const WORDS = [
     "zh": "菜單",
     "emoji": "🍽️",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22menu%22%20%28%E8%8F%9C%E5%96%AE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=729549&nologo=true&model=flux"
+    "image": "images/words/119.webp"
   },
   {
     "id": 120,
