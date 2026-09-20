@@ -9333,7 +9333,7 @@ window.VOCAB_WORDS = [
     "zh": "蛇",
     "emoji": "🐍",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22snake%22%20%28%E8%9B%87%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=193086&nologo=true&model=flux"
+    "image": "images/words/1167.webp"
   },
   {
     "id": 1168,
@@ -9341,7 +9341,7 @@ window.VOCAB_WORDS = [
     "zh": "青蛙",
     "emoji": "🐸",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22frog%22%20%28%E9%9D%92%E8%9B%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=894299&nologo=true&model=flux"
+    "image": "images/words/1168.webp"
   },
   {
     "id": 1169,
