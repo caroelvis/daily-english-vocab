@@ -1517,7 +1517,7 @@ const WORDS = [
     "zh": "醬油",
     "emoji": "🥢",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22soy%20sauce%22%20%28%E9%86%AC%E6%B2%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=559421&nologo=true&model=flux"
+    "image": "images/words/190.webp"
   },
   {
     "id": 191,
@@ -1525,7 +1525,7 @@ const WORDS = [
     "zh": "番茄醬",
     "emoji": "🍅",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ketchup%22%20%28%E7%95%AA%E8%8C%84%E9%86%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=413774&nologo=true&model=flux"
+    "image": "images/words/191.webp"
   },
   {
     "id": 192,
@@ -1533,7 +1533,7 @@ const WORDS = [
     "zh": "芥末",
     "emoji": "🟡",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mustard%22%20%28%E8%8A%A5%E6%9C%AB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=535539&nologo=true&model=flux"
+    "image": "images/words/192.webp"
   },
   {
     "id": 193,
@@ -1541,7 +1541,7 @@ const WORDS = [
     "zh": "美乃滋",
     "emoji": "🥚",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mayonnaise%22%20%28%E7%BE%8E%E4%B9%83%E6%BB%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=446722&nologo=true&model=flux"
+    "image": "images/words/193.webp"
   },
   {
     "id": 194,
@@ -1549,7 +1549,7 @@ const WORDS = [
     "zh": "香料",
     "emoji": "🌶️",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22spice%22%20%28%E9%A6%99%E6%96%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=459661&nologo=true&model=flux"
+    "image": "images/words/194.webp"
   },
   {
     "id": 195,
@@ -1557,7 +1557,7 @@ const WORDS = [
     "zh": "香草",
     "emoji": "🌿",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22herb%22%20%28%E9%A6%99%E8%8D%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=724055&nologo=true&model=flux"
+    "image": "images/words/195.webp"
   },
   {
     "id": 196,
@@ -1565,7 +1565,7 @@ const WORDS = [
     "zh": "麵粉",
     "emoji": "🌾",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22flour%22%20%28%E9%BA%B5%E7%B2%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=537551&nologo=true&model=flux"
+    "image": "images/words/196.webp"
   },
   {
     "id": 197,
@@ -1573,7 +1573,7 @@ const WORDS = [
     "zh": "蜂蜜",
     "emoji": "🍯",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22honey%22%20%28%E8%9C%82%E8%9C%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=210141&nologo=true&model=flux"
+    "image": "images/words/197.webp"
   },
   {
     "id": 198,
@@ -1581,7 +1581,7 @@ const WORDS = [
     "zh": "果醬",
     "emoji": "🍓",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22jam%22%20%28%E6%9E%9C%E9%86%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=13401&nologo=true&model=flux"
+    "image": "images/words/198.webp"
   },
   {
     "id": 199,
@@ -1589,7 +1589,7 @@ const WORDS = [
     "zh": "水",
     "emoji": "💧",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22water%22%20%28%E6%B0%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=887636&nologo=true&model=flux"
+    "image": "images/words/199.webp"
   },
   {
     "id": 200,
