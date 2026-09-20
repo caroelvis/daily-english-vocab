@@ -165,7 +165,7 @@ window.VOCAB_WORDS = [
     "zh": "院子",
     "emoji": "🌳",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22yard%22%20%28%E9%99%A2%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=381610&nologo=true&model=flux"
+    "image": "images/words/21.webp"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@ window.VOCAB_WORDS = [
     "zh": "圍籬",
     "emoji": "🪵",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fence%22%20%28%E5%9C%8D%E7%B1%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=597571&nologo=true&model=flux"
+    "image": "images/words/22.webp"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@ window.VOCAB_WORDS = [
     "zh": "信箱",
     "emoji": "📮",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mailbox%22%20%28%E4%BF%A1%E7%AE%B1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=805228&nologo=true&model=flux"
+    "image": "images/words/23.webp"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@ window.VOCAB_WORDS = [
     "zh": "鑰匙",
     "emoji": "🔑",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22key%22%20%28%E9%91%B0%E5%8C%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=355339&nologo=true&model=flux"
+    "image": "images/words/24.webp"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@ window.VOCAB_WORDS = [
     "zh": "鎖",
     "emoji": "🔒",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lock%22%20%28%E9%8E%96%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=608094&nologo=true&model=flux"
+    "image": "images/words/25.webp"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@ window.VOCAB_WORDS = [
     "zh": "燈",
     "emoji": "💡",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22light%22%20%28%E7%87%88%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=552770&nologo=true&model=flux"
+    "image": "images/words/26.webp"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@ window.VOCAB_WORDS = [
     "zh": "檯燈",
     "emoji": "🪔",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lamp%22%20%28%E6%AA%AF%E7%87%88%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=577163&nologo=true&model=flux"
+    "image": "images/words/27.webp"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@ window.VOCAB_WORDS = [
     "zh": "開關",
     "emoji": "🔌",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22switch%22%20%28%E9%96%8B%E9%97%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=216868&nologo=true&model=flux"
+    "image": "images/words/28.webp"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@ window.VOCAB_WORDS = [
     "zh": "插座",
     "emoji": "🔌",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22outlet%22%20%28%E6%8F%92%E5%BA%A7%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=733585&nologo=true&model=flux"
+    "image": "images/words/29.webp"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@ window.VOCAB_WORDS = [
     "zh": "風扇",
     "emoji": "🌀",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fan%22%20%28%E9%A2%A8%E6%89%87%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=533746&nologo=true&model=flux"
+    "image": "images/words/30.webp"
   },
   {
     "id": 31,
