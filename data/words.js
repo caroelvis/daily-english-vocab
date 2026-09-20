@@ -9429,7 +9429,7 @@ window.VOCAB_WORDS = [
     "zh": "鵝",
     "emoji": "🪿",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22goose%22%20%28%E9%B5%9D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=747492&nologo=true&model=flux"
+    "image": "images/words/1179.webp"
   },
   {
     "id": 1180,
@@ -9437,7 +9437,7 @@ window.VOCAB_WORDS = [
     "zh": "火雞",
     "emoji": "🦃",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22turkey%22%20%28%E7%81%AB%E9%9B%9E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=108764&nologo=true&model=flux"
+    "image": "images/words/1180.webp"
   },
   {
     "id": 1181,
@@ -9445,7 +9445,7 @@ window.VOCAB_WORDS = [
     "zh": "驢",
     "emoji": "🫏",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22donkey%22%20%28%E9%A9%A2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=331253&nologo=true&model=flux"
+    "image": "images/words/1181.webp"
   },
   {
     "id": 1182,
@@ -9453,7 +9453,7 @@ window.VOCAB_WORDS = [
     "zh": "騾",
     "emoji": "🐴",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mule%22%20%28%E9%A8%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=64251&nologo=true&model=flux"
+    "image": "images/words/1182.webp"
   },
   {
     "id": 1183,
@@ -9461,7 +9461,7 @@ window.VOCAB_WORDS = [
     "zh": "公牛",
     "emoji": "🐂",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ox%22%20%28%E5%85%AC%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=754279&nologo=true&model=flux"
+    "image": "images/words/1183.webp"
   },
   {
     "id": 1184,
@@ -9469,7 +9469,7 @@ window.VOCAB_WORDS = [
     "zh": "鬥牛",
     "emoji": "🐂",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bull%22%20%28%E9%AC%A5%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=507039&nologo=true&model=flux"
+    "image": "images/words/1184.webp"
   },
   {
     "id": 1185,
@@ -9477,7 +9477,7 @@ window.VOCAB_WORDS = [
     "zh": "小牛",
     "emoji": "🐄",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22calf%22%20%28%E5%B0%8F%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=23049&nologo=true&model=flux"
+    "image": "images/words/1185.webp"
   },
   {
     "id": 1186,
@@ -9485,7 +9485,7 @@ window.VOCAB_WORDS = [
     "zh": "小羊",
     "emoji": "🐑",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lamb%22%20%28%E5%B0%8F%E7%BE%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=470484&nologo=true&model=flux"
+    "image": "images/words/1186.webp"
   },
   {
     "id": 1187,
@@ -9493,7 +9493,7 @@ window.VOCAB_WORDS = [
     "zh": "小馬",
     "emoji": "🐴",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pony%22%20%28%E5%B0%8F%E9%A6%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=990850&nologo=true&model=flux"
+    "image": "images/words/1187.webp"
   },
   {
     "id": 1188,
@@ -9501,7 +9501,7 @@ window.VOCAB_WORDS = [
     "zh": "獅子",
     "emoji": "🦁",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lion%22%20%28%E7%8D%85%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=546403&nologo=true&model=flux"
+    "image": "images/words/1188.webp"
   },
   {
     "id": 1189,
