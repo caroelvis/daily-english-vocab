@@ -610,3 +610,134 @@ body {
 .quiz-listen-actions .btn-speak {
   min-width: 9rem;
 }
+
+/* ——— Content tabs: 單字 | 句子 ——— */
+.content-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+  background: rgba(255, 255, 255, 0.04);
+  padding: 0.35rem;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+.content-btn {
+  appearance: none;
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-weight: 600;
+  padding: 0.7rem 0.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+}
+.content-btn:hover { color: var(--text); background: rgba(255,255,255,0.04); }
+.content-btn.active {
+  background: linear-gradient(135deg, #a78bfa, #c084fc);
+  color: #fff;
+  box-shadow: 0 6px 18px rgba(167, 139, 250, 0.4);
+}
+
+.sub-nav-wrap {
+  position: relative;
+  z-index: 1;
+  width: min(560px, 100% - 1.5rem);
+  margin: 0 auto 0.75rem;
+}
+.sub-nav-wrap .mode-nav {
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .site-header {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .content-nav { width: 240px; }
+  .mode-nav { width: 100%; }
+}
+
+/* Sentence flash card */
+.sentence-scene-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 5.5rem;
+  margin: 0 auto 1rem;
+  border-radius: 16px;
+  background: linear-gradient(145deg, hsl(250 42% 32% / 0.95), hsl(260 38% 18% / 0.98));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.scene-emoji {
+  font-size: clamp(2.5rem, 12vw, 3.5rem);
+  line-height: 1;
+  filter: drop-shadow(0 8px 16px rgba(0,0,0,0.35));
+}
+.scene-emoji.small {
+  font-size: 2rem;
+  flex-shrink: 0;
+}
+.scene-pill {
+  position: absolute;
+  top: 0.65rem;
+  left: 0.65rem;
+}
+
+.en-sentence {
+  font-family: var(--font-en);
+  font-size: clamp(1.15rem, 4.6vw, 1.55rem);
+  font-weight: 700;
+  margin: 0 0 0.65rem;
+  letter-spacing: -0.01em;
+  line-height: 1.45;
+  background: linear-gradient(90deg, #fff, #c7d2fe);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-align: center;
+  word-break: break-word;
+}
+.sentence-block .zh-gloss {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.sentence-quiz-prompt-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem 1.1rem;
+  margin: 0 0 0.85rem;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.sentence-quiz-zh {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.options-sentences .option-btn,
+.option-sentence {
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.4;
+  padding: 0.85rem 1rem;
+  white-space: normal;
+}
+
+#scene-field[hidden],
+#category-field[hidden] {
+  display: none !important;
+}

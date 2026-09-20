@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="description" content="每日英語單字 — 閃卡與測驗，適合日常生活" />
+  <meta name="description" content="每日英語單字與生活情境句子 — 閃卡與測驗" />
   <title>每日英語單字 · Daily English Vocab</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -25,6 +25,17 @@
         <p class="tagline">Daily English · 生活必備</p>
       </div>
     </div>
+    <nav class="content-nav" role="tablist" aria-label="學習內容">
+      <button type="button" class="content-btn active" data-content="words" role="tab" aria-selected="true" id="tab-words">
+        <span class="nav-emoji" aria-hidden="true">🔤</span> 單字
+      </button>
+      <button type="button" class="content-btn" data-content="sentences" role="tab" aria-selected="false" id="tab-sentences">
+        <span class="nav-emoji" aria-hidden="true">💬</span> 句子
+      </button>
+    </nav>
+  </header>
+
+  <div class="sub-nav-wrap">
     <nav class="mode-nav" role="tablist" aria-label="學習模式">
       <button type="button" class="nav-btn active" data-mode="flashcard" role="tab" aria-selected="true">
         <span class="nav-emoji">🃏</span> 閃卡
@@ -33,13 +44,19 @@
         <span class="nav-emoji">✅</span> 測驗
       </button>
     </nav>
-  </header>
+  </div>
 
   <div class="shared-filters" id="shared-filters">
     <div class="panel filter-panel">
-      <label class="filter-field" for="category-select">
+      <label class="filter-field" for="category-select" id="category-field">
         <span class="filter-label">分類</span>
         <select id="category-select" class="filter-select" aria-label="單字分類">
+          <option value="all">全部</option>
+        </select>
+      </label>
+      <label class="filter-field" for="scene-select" id="scene-field" hidden>
+        <span class="filter-label">情境</span>
+        <select id="scene-select" class="filter-select" aria-label="句子情境">
           <option value="all">全部</option>
         </select>
       </label>
@@ -55,8 +72,8 @@
   </div>
 
   <main>
-    <!-- FLASHCARD -->
-    <section id="flashcard-view" class="view active" aria-label="閃卡模式">
+    <!-- WORD FLASHCARD -->
+    <section id="flashcard-view" class="view active" aria-label="單字閃卡" data-content="words">
       <div class="panel controls-bar">
         <label class="toggle">
           <input type="checkbox" id="auto-speak" />
@@ -79,13 +96,13 @@
         </div>
         <div class="card-actions">
           <button type="button" class="btn btn-prev" id="btn-prev-flash" title="上一個單字" disabled>
-            <span aria-hidden="true">←</span> 上一個單字
+            <span aria-hidden="true">←</span> 上一個
           </button>
           <button type="button" class="btn btn-speak" id="btn-speak" title="播放發音">
             <span class="btn-icon">🔊</span> 發音
           </button>
           <button type="button" class="btn btn-primary btn-next" id="btn-next-flash">
-            下一個單字 <span aria-hidden="true">→</span>
+            下一個 <span aria-hidden="true">→</span>
           </button>
         </div>
       </article>
@@ -93,8 +110,8 @@
       <p class="hint">「下一個」隨機抽詞 · 「上一個」回到上一張 · 快捷鍵 N / B 或 ←</p>
     </section>
 
-    <!-- QUIZ -->
-    <section id="quiz-view" class="view" aria-label="測驗模式" hidden>
+    <!-- WORD QUIZ -->
+    <section id="quiz-view" class="view" aria-label="單字測驗" hidden data-content="words">
       <div class="panel quiz-progress-bar">
         <div class="progress-track">
           <div class="progress-fill" id="quiz-progress-fill"></div>
@@ -122,7 +139,6 @@
         <p class="try-hint" id="quiz-try-hint" hidden>再試一次！</p>
       </article>
 
-      <!-- Results -->
       <article class="card results-card" id="results-card" hidden>
         <div class="results-hero">
           <span class="results-emoji" id="results-emoji">🎉</span>
@@ -145,17 +161,107 @@
         </button>
       </article>
     </section>
+
+    <!-- SENTENCE FLASH -->
+    <section id="sentence-flash-view" class="view" aria-label="句子閃卡" hidden data-content="sentences">
+      <div class="panel controls-bar">
+        <label class="toggle">
+          <input type="checkbox" id="sentence-auto-speak" />
+          <span>自動發音</span>
+        </label>
+        <span class="meta" id="sentence-flash-meta">載入中…</span>
+      </div>
+
+      <article class="card flash-card sentence-card" id="sentence-flash-card">
+        <div class="card-glow"></div>
+        <div class="sentence-scene-wrap">
+          <span class="scene-emoji" id="sentence-scene-emoji" aria-hidden="true">🏫</span>
+          <span class="category-pill scene-pill" id="sentence-scene-pill">—</span>
+        </div>
+        <div class="word-block sentence-block">
+          <h2 class="en-sentence" id="sentence-en">…</h2>
+          <p class="zh-gloss" id="sentence-zh">…</p>
+        </div>
+        <div class="card-actions">
+          <button type="button" class="btn btn-prev" id="btn-prev-sentence" title="上一句" disabled>
+            <span aria-hidden="true">←</span> 上一個
+          </button>
+          <button type="button" class="btn btn-speak" id="btn-speak-sentence" title="播放整句發音">
+            <span class="btn-icon">🔊</span> 發音
+          </button>
+          <button type="button" class="btn btn-primary btn-next" id="btn-next-sentence">
+            下一個 <span aria-hidden="true">→</span>
+          </button>
+        </div>
+      </article>
+
+      <p class="hint">「下一個」隨機抽句 · 「上一個」回到上一張 · 快捷鍵 N / B 或 ←</p>
+    </section>
+
+    <!-- SENTENCE QUIZ -->
+    <section id="sentence-quiz-view" class="view" aria-label="句子測驗" hidden data-content="sentences">
+      <div class="panel quiz-progress-bar">
+        <div class="progress-track">
+          <div class="progress-fill" id="sentence-quiz-progress-fill"></div>
+        </div>
+        <div class="quiz-stats-inline">
+          <span id="sentence-quiz-progress-text">第 0 / 50 題</span>
+          <span class="sep">·</span>
+          <span class="stat-ok" id="sentence-quiz-live-correct">✓ 0</span>
+          <span class="stat-bad" id="sentence-quiz-live-wrong">✗ 0</span>
+        </div>
+      </div>
+
+      <article class="card quiz-card" id="sentence-quiz-card">
+        <p class="quiz-prompt">看中文，選出正確的英文句子 · 可先聽發音</p>
+        <div class="sentence-quiz-prompt-box">
+          <span class="scene-emoji small" id="sentence-quiz-emoji" aria-hidden="true">💬</span>
+          <p class="sentence-quiz-zh" id="sentence-quiz-zh">…</p>
+        </div>
+        <div class="quiz-listen-actions">
+          <button type="button" class="btn btn-speak" id="btn-sentence-quiz-speak" title="播放正確句子發音">
+            <span class="btn-icon">🔊</span> 聽發音
+          </button>
+        </div>
+        <div class="options options-sentences" id="sentence-quiz-options" role="group" aria-label="句子選項"></div>
+        <p class="try-hint" id="sentence-quiz-try-hint" hidden>再試一次！</p>
+      </article>
+
+      <article class="card results-card" id="sentence-results-card" hidden>
+        <div class="results-hero">
+          <span class="results-emoji" id="sentence-results-emoji">🎉</span>
+          <h2>測驗完成！</h2>
+          <p class="results-sub" id="sentence-results-sub">共完成 50 題</p>
+        </div>
+        <div class="results-grid">
+          <div class="result-box ok">
+            <span class="result-num" id="sentence-results-correct">0</span>
+            <span class="result-label">答對</span>
+          </div>
+          <div class="result-box bad">
+            <span class="result-num" id="sentence-results-wrong">0</span>
+            <span class="result-label">答錯（兩次錯誤）</span>
+          </div>
+        </div>
+        <p class="accuracy" id="sentence-results-accuracy">正確率 —</p>
+        <button type="button" class="btn btn-primary btn-wide" id="btn-restart-sentence-quiz">
+          重新開始測驗
+        </button>
+      </article>
+    </section>
   </main>
 
   <footer class="site-footer">
-    <p>純靜態網站 · 可離線開啟（圖片需網路）· speechSynthesis 發音</p>
+    <p>純靜態網站 · 可離線開啟（單字圖片需網路）· speechSynthesis 發音</p>
   </footer>
 
   <div id="toast" class="toast" hidden role="status"></div>
 
   <script src="data/words.js"></script>
+  <script src="data/sentences.js"></script>
   <!-- Analytics API (Render). Override locally with localStorage vocab_analytics_api if needed. -->
   <script>window.VOCAB_ANALYTICS_API = 'https://daily-english-vocab-api.onrender.com';</script>
   <script src="js/app.js" defer></script>
+  <script src="js/sentences.js" defer></script>
 </body>
 </html>

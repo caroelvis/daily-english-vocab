@@ -1,6 +1,6 @@
 /**
- * Daily English Vocab — Flashcard + Quiz
- * Traditional Chinese UI · English vocabulary
+ * Daily English Vocab — Words + Sentences (Flashcard + Quiz)
+ * Traditional Chinese UI · English vocabulary & spoken sentences
  */
 (function () {
   'use strict';
@@ -9,6 +9,10 @@
   let quizTotal = 50;
   /** Selected category key, or 'all' for every word. */
   let selectedCategory = 'all';
+  /** Primary content: 'words' | 'sentences'. */
+  let contentType = 'words';
+  /** Learning mode within content: 'flashcard' | 'quiz'. */
+  let learningMode = 'flashcard';
 
   const CATEGORY_ZH = {
     home: '居家',
@@ -308,11 +312,12 @@
     }
   }
 
-  function speak(text) {
+  function speak(text, opts) {
     if (!window.speechSynthesis) {
       showToast('此瀏覽器不支援語音朗讀');
       return;
     }
+    const rate = (opts && typeof opts.rate === 'number') ? opts.rate : 0.78;
     window.speechSynthesis.cancel();
     // Some browsers need a short tick after cancel before speaking again
     const run = () => {
@@ -320,7 +325,7 @@
       const u = new SpeechSynthesisUtterance(text);
       u.lang = (preferredVoice && preferredVoice.lang) || 'en-US';
       // Slower + slightly lower pitch sounds clearer for learners
-      u.rate = 0.78;
+      u.rate = rate;
       u.pitch = 1.0;
       u.volume = 1;
       if (preferredVoice) u.voice = preferredVoice;
@@ -570,28 +575,78 @@
 
   // ——— Navigation ———
   function setMode(mode) {
+    learningMode = mode;
     document.querySelectorAll('.nav-btn').forEach((b) => {
       const on = b.dataset.mode === mode;
       b.classList.toggle('active', on);
       b.setAttribute('aria-selected', on ? 'true' : 'false');
     });
     if (quizSizeField) quizSizeField.hidden = mode !== 'quiz';
-    if (mode === 'flashcard') {
-      flashView.classList.add('active');
-      flashView.hidden = false;
-      quizView.classList.remove('active');
-      quizView.hidden = true;
-    } else {
-      quizView.classList.add('active');
-      quizView.hidden = false;
+    applyContentAndMode();
+    // Analytics API only accepts mode flashcard|quiz — never send for sentence content
+    if (contentType === 'words') {
+      trackModeEnter(mode);
+    }
+  }
+
+  function hideWordViews() {
+    if (flashView) {
       flashView.classList.remove('active');
       flashView.hidden = true;
-      // Start (or restart) when idle / after settings reset
-      if (!quizActive && quizIndex === 0 && !currentQuestion) {
-        startQuiz();
+    }
+    if (quizView) {
+      quizView.classList.remove('active');
+      quizView.hidden = true;
+    }
+  }
+
+  function applyContentAndMode() {
+    const categoryField = document.getElementById('category-field');
+    const sceneField = document.getElementById('scene-field');
+    const SM = window.SentenceMode;
+
+    if (contentType === 'words') {
+      if (categoryField) categoryField.hidden = false;
+      if (sceneField) sceneField.hidden = true;
+      if (SM && typeof SM.hideAll === 'function') SM.hideAll();
+      if (learningMode === 'flashcard') {
+        flashView.classList.add('active');
+        flashView.hidden = false;
+        quizView.classList.remove('active');
+        quizView.hidden = true;
+      } else {
+        quizView.classList.add('active');
+        quizView.hidden = false;
+        flashView.classList.remove('active');
+        flashView.hidden = true;
+        if (!quizActive && quizIndex === 0 && !currentQuestion) {
+          startQuiz();
+        }
+      }
+    } else {
+      if (categoryField) categoryField.hidden = true;
+      if (sceneField) sceneField.hidden = false;
+      hideWordViews();
+      if (SM && typeof SM.showMode === 'function') {
+        SM.showMode(learningMode);
       }
     }
-    trackModeEnter(mode);
+  }
+
+  function setContentType(next) {
+    if (next !== 'words' && next !== 'sentences') return;
+    contentType = next;
+    document.querySelectorAll('.content-btn').forEach((b) => {
+      const on = b.dataset.content === next;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-selected', on ? 'true' : 'false');
+    });
+    applyContentAndMode();
+    // Do NOT send mode_enter for sentences (API Literal flashcard|quiz only).
+    // When returning to words, re-track current learning mode.
+    if (contentType === 'words') {
+      trackModeEnter(learningMode);
+    }
   }
 
   function populateCategorySelect() {
@@ -644,9 +699,12 @@
       btn.classList.toggle('active', on);
       btn.setAttribute('aria-pressed', on ? 'true' : 'false');
     });
-    if (quizView.classList.contains('active')) {
+    if (window.SentenceMode && typeof window.SentenceMode.setQuizSize === 'function') {
+      window.SentenceMode.setQuizSize(n);
+    }
+    if (contentType === 'words' && quizView.classList.contains('active')) {
       startQuiz();
-    } else {
+    } else if (contentType === 'words') {
       quizIndex = 0;
       quizCorrect = 0;
       quizWrong = 0;
@@ -685,6 +743,9 @@
     startAnalytics();
     nextFlashcard();
 
+    document.querySelectorAll('.content-btn').forEach((btn) => {
+      btn.addEventListener('click', () => setContentType(btn.dataset.content));
+    });
     document.querySelectorAll('.nav-btn').forEach((btn) => {
       btn.addEventListener('click', () => setMode(btn.dataset.mode));
     });
@@ -710,10 +771,10 @@
     btnNextFlash.addEventListener('click', nextFlashcard);
     $('#btn-restart-quiz').addEventListener('click', startQuiz);
 
-    // Keyboard: N = next, B / ← = previous, Space = speak (flash mode only)
+    // Keyboard: N = next, B / ← = previous, Space = speak (word flash mode only)
     document.addEventListener('keydown', (e) => {
       if (e.target.matches('input, textarea, button, select')) return;
-      if (!flashView.classList.contains('active')) return;
+      if (contentType !== 'words' || !flashView.classList.contains('active')) return;
       if (e.key === 'n' || e.key === 'N') {
         e.preventDefault();
         nextFlashcard();
@@ -726,6 +787,14 @@
       }
     });
   }
+
+  window.VocabApp = {
+    speak: speak,
+    shuffle: shuffle,
+    showToast: showToast,
+    getContentType: function () { return contentType; },
+    getLearningMode: function () { return learningMode; },
+  };
 
   init();
 })();
