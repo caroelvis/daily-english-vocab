@@ -85,7 +85,7 @@ window.VOCAB_WORDS = [
     "zh": "門",
     "emoji": "🚪",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22door%22%20%28%E9%96%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=767255&nologo=true&model=flux"
+    "image": "images/words/11.webp"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@ window.VOCAB_WORDS = [
     "zh": "窗戶",
     "emoji": "🪟",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22window%22%20%28%E7%AA%97%E6%88%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=464036&nologo=true&model=flux"
+    "image": "images/words/12.webp"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@ window.VOCAB_WORDS = [
     "zh": "地板",
     "emoji": "🪵",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22floor%22%20%28%E5%9C%B0%E6%9D%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=250314&nologo=true&model=flux"
+    "image": "images/words/13.webp"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@ window.VOCAB_WORDS = [
     "zh": "天花板",
     "emoji": "⬜",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ceiling%22%20%28%E5%A4%A9%E8%8A%B1%E6%9D%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=82505&nologo=true&model=flux"
+    "image": "images/words/14.webp"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@ window.VOCAB_WORDS = [
     "zh": "牆壁",
     "emoji": "🧱",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22wall%22%20%28%E7%89%86%E5%A3%81%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=997403&nologo=true&model=flux"
+    "image": "images/words/15.webp"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@ window.VOCAB_WORDS = [
     "zh": "屋頂",
     "emoji": "🏚️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22roof%22%20%28%E5%B1%8B%E9%A0%82%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=742498&nologo=true&model=flux"
+    "image": "images/words/16.webp"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@ window.VOCAB_WORDS = [
     "zh": "樓梯",
     "emoji": "🪜",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22stairs%22%20%28%E6%A8%93%E6%A2%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=209496&nologo=true&model=flux"
+    "image": "images/words/17.webp"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@ window.VOCAB_WORDS = [
     "zh": "電梯",
     "emoji": "🛗",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22elevator%22%20%28%E9%9B%BB%E6%A2%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=112977&nologo=true&model=flux"
+    "image": "images/words/18.webp"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@ window.VOCAB_WORDS = [
     "zh": "車庫",
     "emoji": "🔧",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22garage%22%20%28%E8%BB%8A%E5%BA%AB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=123851&nologo=true&model=flux"
+    "image": "images/words/19.webp"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@ window.VOCAB_WORDS = [
     "zh": "花園",
     "emoji": "🌷",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22garden%22%20%28%E8%8A%B1%E5%9C%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=663336&nologo=true&model=flux"
+    "image": "images/words/20.webp"
   },
   {
     "id": 21,
