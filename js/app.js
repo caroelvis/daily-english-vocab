@@ -5,7 +5,11 @@
 (function () {
   'use strict';
 
-  const QUIZ_TOTAL = 100;
+  /** Default quiz length; overridden by UI (20 / 50 / 100). */
+  let quizTotal = 50;
+  /** Selected category key, or 'all' for every word. */
+  let selectedCategory = 'all';
+
   const CATEGORY_ZH = {
     home: '居家',
     food: '飲食',
@@ -114,7 +118,7 @@
 
 
   // Quiz state
-  let quizIndex = 0; // completed questions (0..100)
+  let quizIndex = 0; // completed questions (0..quizTotal)
   let quizCorrect = 0;
   let quizWrong = 0;
   let currentQuestion = null; // { answer, options, attempts }
@@ -145,6 +149,9 @@
   const quizLiveCorrect = $('#quiz-live-correct');
   const quizLiveWrong = $('#quiz-live-wrong');
   const toastEl = $('#toast');
+  const categorySelect = $('#category-select');
+  const quizSizeField = $('#quiz-size-field');
+  const resultsSub = $('#results-sub');
 
   let currentFlash = null;
 
@@ -158,10 +165,27 @@
     return a;
   }
 
-  function pickRandomWord(excludeIds) {
+  function getActiveWords() {
+    if (selectedCategory === 'all') return words;
+    return words.filter((w) => w.category === selectedCategory);
+  }
+
+  function categoryLabel(key) {
+    if (key === 'all') return '全部';
+    return CATEGORY_ZH[key] || key;
+  }
+
+  /**
+   * Pick a random word from the filtered pool (or an explicit pool).
+   * @param {number[]} [excludeIds]
+   * @param {Array} [poolOverride] optional pool (e.g. all words for distractors)
+   */
+  function pickRandomWord(excludeIds, poolOverride) {
+    const source = poolOverride || getActiveWords();
     const exclude = new Set(excludeIds || []);
-    let pool = words.filter((w) => !exclude.has(w.id));
-    if (pool.length === 0) pool = words;
+    let pool = source.filter((w) => !exclude.has(w.id));
+    if (pool.length === 0) pool = source.slice();
+    if (pool.length === 0) return null;
     return pool[Math.floor(Math.random() * pool.length)];
   }
 
@@ -325,18 +349,48 @@
     flashZh.textContent = word.zh;
     flashCategory.textContent = CATEGORY_ZH[word.category] || word.category;
     setImage(flashImage, flashEmoji, word);
-    flashMeta.textContent = `共 ${words.length} 個單字 · #${word.id}`;
+    const poolLen = getActiveWords().length;
+    flashMeta.textContent = `共 ${poolLen} 個單字 · #${word.id}`;
     updatePrevButton();
 
     if (autoSpeak.checked) speak(word.word);
   }
 
+  function showEmptyFlashPool() {
+    currentFlash = null;
+    flashWord.textContent = '—';
+    flashZh.textContent = '此分類目前沒有單字';
+    flashCategory.textContent = categoryLabel(selectedCategory);
+    flashMeta.textContent = '共 0 個單字';
+    flashImage.classList.remove('loaded');
+    flashImage.removeAttribute('src');
+    flashEmoji.textContent = '📭';
+    const wrap = flashImage.parentElement;
+    if (wrap) {
+      wrap.classList.remove('image-pending');
+      wrap.classList.add('image-error');
+      wrap.style.background =
+        'linear-gradient(145deg, hsl(220 30% 28% / 0.95), hsl(220 28% 16% / 0.98))';
+    }
+    updatePrevButton();
+    showToast('此分類沒有單字，請選其他分類');
+  }
+
   function nextFlashcard() {
+    const active = getActiveWords();
+    if (!active.length) {
+      showEmptyFlashPool();
+      return;
+    }
     if (currentFlash) {
       flashHistory.push(currentFlash);
       if (flashHistory.length > HISTORY_LIMIT) flashHistory.shift();
     }
     const word = pickRandomWord(recentFlashIds);
+    if (!word) {
+      showEmptyFlashPool();
+      return;
+    }
     showFlashcard(word);
   }
 
@@ -349,28 +403,31 @@
   // ——— Quiz ———
   function updateQuizChrome() {
     const done = quizIndex;
-    const pct = Math.min(100, (done / QUIZ_TOTAL) * 100);
+    const total = quizTotal;
+    const pct = total > 0 ? Math.min(100, (done / total) * 100) : 0;
     quizProgressFill.style.width = pct + '%';
-    quizProgressText.textContent = `第 ${Math.min(done + (quizActive ? 1 : 0), QUIZ_TOTAL)} / ${QUIZ_TOTAL} 題`;
-    // When showing a question, display "current question number" as done+1
-    if (quizActive && quizIndex < QUIZ_TOTAL) {
-      quizProgressText.textContent = `第 ${quizIndex + 1} / ${QUIZ_TOTAL} 題`;
+    quizProgressText.textContent = `第 ${Math.min(done + (quizActive ? 1 : 0), total)} / ${total} 題`;
+    if (quizActive && quizIndex < total) {
+      quizProgressText.textContent = `第 ${quizIndex + 1} / ${total} 題`;
     }
     quizLiveCorrect.textContent = `✓ ${quizCorrect}`;
     quizLiveWrong.textContent = `✗ ${quizWrong}`;
   }
 
   function buildQuestion() {
+    const active = getActiveWords();
+    if (!active.length) return null;
     const answer = pickRandomWord([]);
-    // 2 wrong options from other words
+    if (!answer) return null;
+    // Distractors from same filtered pool when possible; else fall back to all words
+    const distractorSource = active.length >= 3 ? active : words;
     const distractors = [];
     const used = new Set([answer.id]);
     let guard = 0;
     while (distractors.length < 2 && guard < 200) {
       guard++;
-      const w = pickRandomWord([...used]);
-      if (used.has(w.id)) continue;
-      // Prefer different word spelling
+      const w = pickRandomWord([...used], distractorSource);
+      if (!w || used.has(w.id)) continue;
       if (w.word.toLowerCase() === answer.word.toLowerCase()) continue;
       used.add(w.id);
       distractors.push(w);
@@ -380,12 +437,37 @@
   }
 
   function renderQuestion() {
-    if (quizIndex >= QUIZ_TOTAL) {
+    if (quizIndex >= quizTotal) {
       showResults();
+      return;
+    }
+    if (!getActiveWords().length) {
+      quizActive = false;
+      quizCard.hidden = false;
+      resultsCard.hidden = true;
+      quizOptions.innerHTML = '';
+      quizTryHint.hidden = true;
+      quizEmoji.textContent = '📭';
+      quizImage.classList.remove('loaded');
+      quizImage.removeAttribute('src');
+      const wrap = quizImage.parentElement;
+      if (wrap) {
+        wrap.classList.remove('image-pending');
+        wrap.classList.add('image-error');
+      }
+      const empty = document.createElement('p');
+      empty.className = 'empty-pool-msg';
+      empty.textContent = '此分類目前沒有單字，請改選其他分類後再測驗。';
+      quizOptions.appendChild(empty);
+      updateQuizChrome();
       return;
     }
     quizActive = true;
     currentQuestion = buildQuestion();
+    if (!currentQuestion) {
+      showToast('無法出題，請更換分類');
+      return;
+    }
     quizTryHint.hidden = true;
     quizCard.hidden = false;
     resultsCard.hidden = true;
@@ -422,7 +504,7 @@
       quizActive = false;
       updateQuizChrome();
       setTimeout(() => {
-        if (quizIndex >= QUIZ_TOTAL) showResults();
+        if (quizIndex >= quizTotal) showResults();
         else renderQuestion();
       }, 550);
       return;
@@ -446,7 +528,7 @@
       updateQuizChrome();
       showToast(`正確答案：${answer.word}`, 1400);
       setTimeout(() => {
-        if (quizIndex >= QUIZ_TOTAL) showResults();
+        if (quizIndex >= quizTotal) showResults();
         else renderQuestion();
       }, 900);
     } else {
@@ -461,14 +543,16 @@
     resultsCard.hidden = false;
     $('#results-correct').textContent = String(quizCorrect);
     $('#results-wrong').textContent = String(quizWrong);
+    const total = quizTotal;
     const acc = quizCorrect === 0 && quizWrong === 0
       ? 0
-      : Math.round((quizCorrect / QUIZ_TOTAL) * 100);
+      : Math.round((quizCorrect / total) * 100);
     $('#results-accuracy').textContent = `正確率 ${acc}%`;
     const emoji = acc >= 90 ? '🏆' : acc >= 70 ? '🎉' : acc >= 50 ? '👍' : '💪';
     $('#results-emoji').textContent = emoji;
+    if (resultsSub) resultsSub.textContent = `共完成 ${total} 題`;
     quizProgressFill.style.width = '100%';
-    quizProgressText.textContent = `第 ${QUIZ_TOTAL} / ${QUIZ_TOTAL} 題 · 完成`;
+    quizProgressText.textContent = `第 ${total} / ${total} 題 · 完成`;
     quizLiveCorrect.textContent = `✓ ${quizCorrect}`;
     quizLiveWrong.textContent = `✗ ${quizWrong}`;
   }
@@ -490,6 +574,7 @@
       b.classList.toggle('active', on);
       b.setAttribute('aria-selected', on ? 'true' : 'false');
     });
+    if (quizSizeField) quizSizeField.hidden = mode !== 'quiz';
     if (mode === 'flashcard') {
       flashView.classList.add('active');
       flashView.hidden = false;
@@ -500,11 +585,74 @@
       quizView.hidden = false;
       flashView.classList.remove('active');
       flashView.hidden = true;
-      if (quizIndex === 0 && !currentQuestion && resultsCard.hidden) {
+      // Start (or restart) when idle / after settings reset
+      if (!quizActive && quizIndex === 0 && !currentQuestion) {
         startQuiz();
       }
     }
     trackModeEnter(mode);
+  }
+
+  function populateCategorySelect() {
+    if (!categorySelect) return;
+    const present = new Set(words.map((w) => w.category));
+    // Keep order of CATEGORY_ZH keys; append any unknown categories
+    const keys = Object.keys(CATEGORY_ZH).filter((k) => present.has(k));
+    present.forEach((k) => {
+      if (!CATEGORY_ZH[k] && !keys.includes(k)) keys.push(k);
+    });
+    // Clear except first "all" option
+    while (categorySelect.options.length > 1) categorySelect.remove(1);
+    keys.forEach((key) => {
+      const opt = document.createElement('option');
+      opt.value = key;
+      opt.textContent = CATEGORY_ZH[key] || key;
+      categorySelect.appendChild(opt);
+    });
+    categorySelect.value = selectedCategory;
+  }
+
+  function applyCategoryChange(newCat) {
+    selectedCategory = newCat || 'all';
+    // Reset flash recent/history for the new pool
+    recentFlashIds = [];
+    flashHistory = [];
+    currentFlash = null;
+    updatePrevButton();
+    if (flashView.classList.contains('active')) {
+      nextFlashcard();
+    }
+    // Always reset quiz counters; restart if quiz view is showing
+    quizIndex = 0;
+    quizCorrect = 0;
+    quizWrong = 0;
+    currentQuestion = null;
+    quizActive = false;
+    if (resultsCard) resultsCard.hidden = true;
+    if (quizView.classList.contains('active')) {
+      startQuiz();
+    }
+  }
+
+  function applyQuizSize(size) {
+    const n = Number(size);
+    if (![20, 50, 100].includes(n)) return;
+    quizTotal = n;
+    document.querySelectorAll('.size-chip').forEach((btn) => {
+      const on = Number(btn.dataset.size) === n;
+      btn.classList.toggle('active', on);
+      btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    if (quizView.classList.contains('active')) {
+      startQuiz();
+    } else {
+      quizIndex = 0;
+      quizCorrect = 0;
+      quizWrong = 0;
+      currentQuestion = null;
+      quizActive = false;
+      if (resultsCard) resultsCard.hidden = true;
+    }
   }
 
   // ——— Init ———
@@ -529,12 +677,23 @@
       return;
     }
 
-    flashMeta.textContent = `共 ${words.length} 個單字`;
+    populateCategorySelect();
+    flashMeta.textContent = `共 ${getActiveWords().length} 個單字`;
+    // Sync size-chip UI with default quizTotal
+    applyQuizSize(quizTotal);
     startAnalytics();
     nextFlashcard();
 
     document.querySelectorAll('.nav-btn').forEach((btn) => {
       btn.addEventListener('click', () => setMode(btn.dataset.mode));
+    });
+    if (categorySelect) {
+      categorySelect.addEventListener('change', () => {
+        applyCategoryChange(categorySelect.value);
+      });
+    }
+    document.querySelectorAll('.size-chip').forEach((btn) => {
+      btn.addEventListener('click', () => applyQuizSize(btn.dataset.size));
     });
     btnSpeak.addEventListener('click', () => {
       if (currentFlash) speak(currentFlash.word);
@@ -545,7 +704,7 @@
 
     // Keyboard: N = next, B / ← = previous, Space = speak (flash mode only)
     document.addEventListener('keydown', (e) => {
-      if (e.target.matches('input, textarea, button')) return;
+      if (e.target.matches('input, textarea, button, select')) return;
       if (!flashView.classList.contains('active')) return;
       if (e.key === 'n' || e.key === 'N') {
         e.preventDefault();

@@ -35,6 +35,25 @@
     </nav>
   </header>
 
+  <div class="shared-filters" id="shared-filters">
+    <div class="panel filter-panel">
+      <label class="filter-field" for="category-select">
+        <span class="filter-label">分類</span>
+        <select id="category-select" class="filter-select" aria-label="單字分類">
+          <option value="all">全部</option>
+        </select>
+      </label>
+      <div class="filter-field quiz-size-field" id="quiz-size-field" hidden>
+        <span class="filter-label" id="quiz-size-label">題數</span>
+        <div class="size-chips" role="group" aria-labelledby="quiz-size-label">
+          <button type="button" class="size-chip" data-size="20" aria-pressed="false">20</button>
+          <button type="button" class="size-chip active" data-size="50" aria-pressed="true">50</button>
+          <button type="button" class="size-chip" data-size="100" aria-pressed="false">100</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <main>
     <!-- FLASHCARD -->
     <section id="flashcard-view" class="view active" aria-label="閃卡模式">
@@ -81,7 +100,7 @@
           <div class="progress-fill" id="quiz-progress-fill"></div>
         </div>
         <div class="quiz-stats-inline">
-          <span id="quiz-progress-text">第 0 / 100 題</span>
+          <span id="quiz-progress-text">第 0 / 50 題</span>
           <span class="sep">·</span>
           <span class="stat-ok" id="quiz-live-correct">✓ 0</span>
           <span class="stat-bad" id="quiz-live-wrong">✗ 0</span>
@@ -103,7 +122,7 @@
         <div class="results-hero">
           <span class="results-emoji" id="results-emoji">🎉</span>
           <h2>測驗完成！</h2>
-          <p class="results-sub">共完成 100 題</p>
+          <p class="results-sub" id="results-sub">共完成 50 題</p>
         </div>
         <div class="results-grid">
           <div class="result-box ok">
