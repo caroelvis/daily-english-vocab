@@ -245,7 +245,7 @@ window.VOCAB_WORDS = [
     "zh": "冷氣",
     "emoji": "❄️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22air%20conditioner%22%20%28%E5%86%B7%E6%B0%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=373111&nologo=true&model=flux"
+    "image": "images/words/31.webp"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@ window.VOCAB_WORDS = [
     "zh": "暖氣",
     "emoji": "🌡️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22heater%22%20%28%E6%9A%96%E6%B0%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=51797&nologo=true&model=flux"
+    "image": "images/words/32.webp"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@ window.VOCAB_WORDS = [
     "zh": "毯子",
     "emoji": "🧣",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22blanket%22%20%28%E6%AF%AF%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=284725&nologo=true&model=flux"
+    "image": "images/words/33.webp"
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@ window.VOCAB_WORDS = [
     "zh": "枕頭",
     "emoji": "🧸",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pillow%22%20%28%E6%9E%95%E9%A0%AD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=38941&nologo=true&model=flux"
+    "image": "images/words/34.webp"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@ window.VOCAB_WORDS = [
     "zh": "床墊",
     "emoji": "🛏️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mattress%22%20%28%E5%BA%8A%E5%A2%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=882262&nologo=true&model=flux"
+    "image": "images/words/35.webp"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@ window.VOCAB_WORDS = [
     "zh": "床單",
     "emoji": "🧻",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sheet%22%20%28%E5%BA%8A%E5%96%AE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=207912&nologo=true&model=flux"
+    "image": "images/words/36.webp"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@ window.VOCAB_WORDS = [
     "zh": "窗簾",
     "emoji": "🪟",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22curtain%22%20%28%E7%AA%97%E7%B0%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=954252&nologo=true&model=flux"
+    "image": "images/words/37.webp"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@ window.VOCAB_WORDS = [
     "zh": "鏡子",
     "emoji": "🪞",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mirror%22%20%28%E9%8F%A1%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=84541&nologo=true&model=flux"
+    "image": "images/words/38.webp"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@ window.VOCAB_WORDS = [
     "zh": "衣櫃",
     "emoji": "🚪",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22closet%22%20%28%E8%A1%A3%E6%AB%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=871518&nologo=true&model=flux"
+    "image": "images/words/39.webp"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@ window.VOCAB_WORDS = [
     "zh": "抽屜",
     "emoji": "🗃️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22drawer%22%20%28%E6%8A%BD%E5%B1%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=635427&nologo=true&model=flux"
+    "image": "images/words/40.webp"
   },
   {
     "id": 41,
