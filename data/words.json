@@ -1597,7 +1597,7 @@
     "zh": "果汁",
     "emoji": "🧃",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22juice%22%20%28%E6%9E%9C%E6%B1%81%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=751578&nologo=true&model=flux"
+    "image": "images/words/200.webp"
   },
   {
     "id": 201,
@@ -1605,7 +1605,7 @@
     "zh": "咖啡",
     "emoji": "☕",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22coffee%22%20%28%E5%92%96%E5%95%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=820144&nologo=true&model=flux"
+    "image": "images/words/201.webp"
   },
   {
     "id": 202,
@@ -1613,7 +1613,7 @@
     "zh": "茶",
     "emoji": "🍵",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tea%22%20%28%E8%8C%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=380338&nologo=true&model=flux"
+    "image": "images/words/202.webp"
   },
   {
     "id": 203,
@@ -1621,7 +1621,7 @@
     "zh": "汽水",
     "emoji": "🥤",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22soda%22%20%28%E6%B1%BD%E6%B0%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=53553&nologo=true&model=flux"
+    "image": "images/words/203.webp"
   },
   {
     "id": 204,
@@ -1629,7 +1629,7 @@
     "zh": "啤酒",
     "emoji": "🍺",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22beer%22%20%28%E5%95%A4%E9%85%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=227672&nologo=true&model=flux"
+    "image": "images/words/204.webp"
   },
   {
     "id": 205,
@@ -1637,7 +1637,7 @@
     "zh": "葡萄酒",
     "emoji": "🍷",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22wine%22%20%28%E8%91%A1%E8%90%84%E9%85%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=998867&nologo=true&model=flux"
+    "image": "images/words/205.webp"
   },
   {
     "id": 206,
@@ -1645,7 +1645,7 @@
     "zh": "雞尾酒",
     "emoji": "🍸",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cocktail%22%20%28%E9%9B%9E%E5%B0%BE%E9%85%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=878419&nologo=true&model=flux"
+    "image": "images/words/206.webp"
   },
   {
     "id": 207,
@@ -1653,7 +1653,7 @@
     "zh": "冰沙",
     "emoji": "🧋",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22smoothie%22%20%28%E5%86%B0%E6%B2%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=206196&nologo=true&model=flux"
+    "image": "images/words/207.webp"
   },
   {
     "id": 208,
@@ -1661,7 +1661,7 @@
     "zh": "辣的",
     "emoji": "🌶️",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22spicy%22%20%28%E8%BE%A3%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=923993&nologo=true&model=flux"
+    "image": "images/words/208.webp"
   },
   {
     "id": 209,
@@ -1669,7 +1669,7 @@
     "zh": "甜的",
     "emoji": "🍬",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sweet%22%20%28%E7%94%9C%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=358566&nologo=true&model=flux"
+    "image": "images/words/209.webp"
   },
   {
     "id": 210,
