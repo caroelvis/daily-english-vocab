@@ -325,7 +325,7 @@ window.VOCAB_WORDS = [
     "zh": "架子",
     "emoji": "🗄️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22shelf%22%20%28%E6%9E%B6%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=903828&nologo=true&model=flux"
+    "image": "images/words/41.webp"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@ window.VOCAB_WORDS = [
     "zh": "桌子",
     "emoji": "🪑",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22table%22%20%28%E6%A1%8C%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=994108&nologo=true&model=flux"
+    "image": "images/words/42.webp"
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@ window.VOCAB_WORDS = [
     "zh": "椅子",
     "emoji": "🪑",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22chair%22%20%28%E6%A4%85%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=893145&nologo=true&model=flux"
+    "image": "images/words/43.webp"
   },
   {
     "id": 44,
@@ -349,7 +349,7 @@ window.VOCAB_WORDS = [
     "zh": "沙發",
     "emoji": "🛋️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sofa%22%20%28%E6%B2%99%E7%99%BC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=802465&nologo=true&model=flux"
+    "image": "images/words/44.webp"
   },
   {
     "id": 45,
@@ -357,7 +357,7 @@ window.VOCAB_WORDS = [
     "zh": "書桌",
     "emoji": "🖥️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22desk%22%20%28%E6%9B%B8%E6%A1%8C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=395888&nologo=true&model=flux"
+    "image": "images/words/45.webp"
   },
   {
     "id": 46,
@@ -365,7 +365,7 @@ window.VOCAB_WORDS = [
     "zh": "櫥櫃",
     "emoji": "🗄️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cabinet%22%20%28%E6%AB%A5%E6%AB%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=400699&nologo=true&model=flux"
+    "image": "images/words/46.webp"
   },
   {
     "id": 47,
@@ -373,7 +373,7 @@ window.VOCAB_WORDS = [
     "zh": "冰箱",
     "emoji": "🧊",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22refrigerator%22%20%28%E5%86%B0%E7%AE%B1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=18577&nologo=true&model=flux"
+    "image": "images/words/47.webp"
   },
   {
     "id": 48,
@@ -381,7 +381,7 @@ window.VOCAB_WORDS = [
     "zh": "冷凍庫",
     "emoji": "🧊",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22freezer%22%20%28%E5%86%B7%E5%87%8D%E5%BA%AB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=61127&nologo=true&model=flux"
+    "image": "images/words/48.webp"
   },
   {
     "id": 49,
@@ -389,7 +389,7 @@ window.VOCAB_WORDS = [
     "zh": "爐灶",
     "emoji": "🔥",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22stove%22%20%28%E7%88%90%E7%81%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=64046&nologo=true&model=flux"
+    "image": "images/words/49.webp"
   },
   {
     "id": 50,
@@ -397,7 +397,7 @@ window.VOCAB_WORDS = [
     "zh": "烤箱",
     "emoji": "🔥",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22oven%22%20%28%E7%83%A4%E7%AE%B1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=486948&nologo=true&model=flux"
+    "image": "images/words/50.webp"
   },
   {
     "id": 51,
