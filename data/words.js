@@ -5,7 +5,7 @@ window.VOCAB_WORDS = [
     "zh": "家",
     "emoji": "🏠",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22home%22%20%28%E5%AE%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=946769&nologo=true&model=flux"
+    "image": "images/words/1.webp"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@ window.VOCAB_WORDS = [
     "zh": "房子",
     "emoji": "🏡",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22house%22%20%28%E6%88%BF%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=839203&nologo=true&model=flux"
+    "image": "images/words/2.webp"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@ window.VOCAB_WORDS = [
     "zh": "公寓",
     "emoji": "🏢",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22apartment%22%20%28%E5%85%AC%E5%AF%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=331416&nologo=true&model=flux"
+    "image": "images/words/3.webp"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@ window.VOCAB_WORDS = [
     "zh": "房間",
     "emoji": "🛋️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22room%22%20%28%E6%88%BF%E9%96%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=757010&nologo=true&model=flux"
+    "image": "images/words/4.webp"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@ window.VOCAB_WORDS = [
     "zh": "臥室",
     "emoji": "🛏️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bedroom%22%20%28%E8%87%A5%E5%AE%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=353643&nologo=true&model=flux"
+    "image": "images/words/5.webp"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@ window.VOCAB_WORDS = [
     "zh": "浴室",
     "emoji": "🚽",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bathroom%22%20%28%E6%B5%B4%E5%AE%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=916403&nologo=true&model=flux"
+    "image": "images/words/6.webp"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@ window.VOCAB_WORDS = [
     "zh": "廚房",
     "emoji": "🍳",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22kitchen%22%20%28%E5%BB%9A%E6%88%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=301386&nologo=true&model=flux"
+    "image": "images/words/7.webp"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@ window.VOCAB_WORDS = [
     "zh": "客廳",
     "emoji": "🛋️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22living%20room%22%20%28%E5%AE%A2%E5%BB%B3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=67791&nologo=true&model=flux"
+    "image": "images/words/8.webp"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@ window.VOCAB_WORDS = [
     "zh": "餐廳",
     "emoji": "🍽️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dining%20room%22%20%28%E9%A4%90%E5%BB%B3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=340648&nologo=true&model=flux"
+    "image": "images/words/9.webp"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@ window.VOCAB_WORDS = [
     "zh": "陽台",
     "emoji": "🏙️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22balcony%22%20%28%E9%99%BD%E5%8F%B0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=426046&nologo=true&model=flux"
+    "image": "images/words/10.webp"
   },
   {
     "id": 11,
