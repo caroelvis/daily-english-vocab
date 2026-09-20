@@ -1997,7 +1997,7 @@ window.VOCAB_WORDS = [
     "zh": "薑",
     "emoji": "🫚",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ginger%22%20%28%E8%96%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=52321&nologo=true&model=flux"
+    "image": "images/words/250.webp"
   },
   {
     "id": 251,
@@ -2005,7 +2005,7 @@ window.VOCAB_WORDS = [
     "zh": "辣椒",
     "emoji": "🌶️",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22chili%22%20%28%E8%BE%A3%E6%A4%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=690938&nologo=true&model=flux"
+    "image": "images/words/251.webp"
   },
   {
     "id": 252,
@@ -2013,7 +2013,7 @@ window.VOCAB_WORDS = [
     "zh": "橄欖",
     "emoji": "🫒",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22olive%22%20%28%E6%A9%84%E6%AC%96%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=933011&nologo=true&model=flux"
+    "image": "images/words/252.webp"
   },
   {
     "id": 253,
@@ -2021,7 +2021,7 @@ window.VOCAB_WORDS = [
     "zh": "香腸",
     "emoji": "🌭",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sausage%22%20%28%E9%A6%99%E8%85%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=814294&nologo=true&model=flux"
+    "image": "images/words/253.webp"
   },
   {
     "id": 254,
@@ -2029,7 +2029,7 @@ window.VOCAB_WORDS = [
     "zh": "培根",
     "emoji": "🥓",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bacon%22%20%28%E5%9F%B9%E6%A0%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=128350&nologo=true&model=flux"
+    "image": "images/words/254.webp"
   },
   {
     "id": 255,
@@ -2037,7 +2037,7 @@ window.VOCAB_WORDS = [
     "zh": "火腿",
     "emoji": "🍖",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ham%22%20%28%E7%81%AB%E8%85%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=647827&nologo=true&model=flux"
+    "image": "images/words/255.webp"
   },
   {
     "id": 256,
@@ -2045,7 +2045,7 @@ window.VOCAB_WORDS = [
     "zh": "鮭魚",
     "emoji": "🍣",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22salmon%22%20%28%E9%AE%AD%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=721858&nologo=true&model=flux"
+    "image": "images/words/256.webp"
   },
   {
     "id": 257,
@@ -2053,7 +2053,7 @@ window.VOCAB_WORDS = [
     "zh": "鮪魚",
     "emoji": "🐟",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tuna%22%20%28%E9%AE%AA%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=974620&nologo=true&model=flux"
+    "image": "images/words/257.webp"
   },
   {
     "id": 258,
@@ -2061,7 +2061,7 @@ window.VOCAB_WORDS = [
     "zh": "珍珠奶茶",
     "emoji": "🧋",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bubble%20tea%22%20%28%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=98319&nologo=true&model=flux"
+    "image": "images/words/258.webp"
   },
   {
     "id": 259,
@@ -2069,7 +2069,7 @@ window.VOCAB_WORDS = [
     "zh": "拿鐵",
     "emoji": "🥛",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22latte%22%20%28%E6%8B%BF%E9%90%B5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=392458&nologo=true&model=flux"
+    "image": "images/words/259.webp"
   },
   {
     "id": 260,
