@@ -1037,7 +1037,7 @@ const WORDS = [
     "zh": "麵包",
     "emoji": "🍞",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bread%22%20%28%E9%BA%B5%E5%8C%85%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=429505&nologo=true&model=flux"
+    "image": "images/words/130.webp"
   },
   {
     "id": 131,
@@ -1045,7 +1045,7 @@ const WORDS = [
     "zh": "米飯",
     "emoji": "🍚",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rice%22%20%28%E7%B1%B3%E9%A3%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=453683&nologo=true&model=flux"
+    "image": "images/words/131.webp"
   },
   {
     "id": 132,
@@ -1053,7 +1053,7 @@ const WORDS = [
     "zh": "麵條",
     "emoji": "🍜",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22noodle%22%20%28%E9%BA%B5%E6%A2%9D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=739911&nologo=true&model=flux"
+    "image": "images/words/132.webp"
   },
   {
     "id": 133,
@@ -1061,7 +1061,7 @@ const WORDS = [
     "zh": "義大利麵",
     "emoji": "🍝",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pasta%22%20%28%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=544961&nologo=true&model=flux"
+    "image": "images/words/133.webp"
   },
   {
     "id": 134,
@@ -1069,7 +1069,7 @@ const WORDS = [
     "zh": "湯",
     "emoji": "🍲",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22soup%22%20%28%E6%B9%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=803691&nologo=true&model=flux"
+    "image": "images/words/134.webp"
   },
   {
     "id": 135,
@@ -1077,7 +1077,7 @@ const WORDS = [
     "zh": "沙拉",
     "emoji": "🥗",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22salad%22%20%28%E6%B2%99%E6%8B%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=781559&nologo=true&model=flux"
+    "image": "images/words/135.webp"
   },
   {
     "id": 136,
@@ -1085,7 +1085,7 @@ const WORDS = [
     "zh": "三明治",
     "emoji": "🥪",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sandwich%22%20%28%E4%B8%89%E6%98%8E%E6%B2%BB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=372414&nologo=true&model=flux"
+    "image": "images/words/136.webp"
   },
   {
     "id": 137,
@@ -1093,7 +1093,7 @@ const WORDS = [
     "zh": "漢堡",
     "emoji": "🍔",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22burger%22%20%28%E6%BC%A2%E5%A0%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=629672&nologo=true&model=flux"
+    "image": "images/words/137.webp"
   },
   {
     "id": 138,
@@ -1101,7 +1101,7 @@ const WORDS = [
     "zh": "披薩",
     "emoji": "🍕",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pizza%22%20%28%E6%8A%AB%E8%96%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=902742&nologo=true&model=flux"
+    "image": "images/words/138.webp"
   },
   {
     "id": 139,
@@ -1109,7 +1109,7 @@ const WORDS = [
     "zh": "壽司",
     "emoji": "🍣",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sushi%22%20%28%E5%A3%BD%E5%8F%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=786793&nologo=true&model=flux"
+    "image": "images/words/139.webp"
   },
   {
     "id": 140,
