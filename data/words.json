@@ -1277,7 +1277,7 @@
     "zh": "香蕉",
     "emoji": "🍌",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22banana%22%20%28%E9%A6%99%E8%95%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=22652&nologo=true&model=flux"
+    "image": "images/words/160.webp"
   },
   {
     "id": 161,
@@ -1285,7 +1285,7 @@
     "zh": "橘子",
     "emoji": "🍊",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22orange%22%20%28%E6%A9%98%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=518352&nologo=true&model=flux"
+    "image": "images/words/161.webp"
   },
   {
     "id": 162,
@@ -1293,7 +1293,7 @@
     "zh": "葡萄",
     "emoji": "🍇",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22grape%22%20%28%E8%91%A1%E8%90%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=473000&nologo=true&model=flux"
+    "image": "images/words/162.webp"
   },
   {
     "id": 163,
@@ -1301,7 +1301,7 @@
     "zh": "草莓",
     "emoji": "🍓",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22strawberry%22%20%28%E8%8D%89%E8%8E%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=848727&nologo=true&model=flux"
+    "image": "images/words/163.webp"
   },
   {
     "id": 164,
@@ -1309,7 +1309,7 @@
     "zh": "西瓜",
     "emoji": "🍉",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22watermelon%22%20%28%E8%A5%BF%E7%93%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=720170&nologo=true&model=flux"
+    "image": "images/words/164.webp"
   },
   {
     "id": 165,
@@ -1317,7 +1317,7 @@
     "zh": "鳳梨",
     "emoji": "🍍",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pineapple%22%20%28%E9%B3%B3%E6%A2%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=162734&nologo=true&model=flux"
+    "image": "images/words/165.webp"
   },
   {
     "id": 166,
@@ -1325,7 +1325,7 @@
     "zh": "芒果",
     "emoji": "🥭",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mango%22%20%28%E8%8A%92%E6%9E%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=79489&nologo=true&model=flux"
+    "image": "images/words/166.webp"
   },
   {
     "id": 167,
@@ -1333,7 +1333,7 @@
     "zh": "桃子",
     "emoji": "🍑",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22peach%22%20%28%E6%A1%83%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=340334&nologo=true&model=flux"
+    "image": "images/words/167.webp"
   },
   {
     "id": 168,
@@ -1341,7 +1341,7 @@
     "zh": "檸檬",
     "emoji": "🍋",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lemon%22%20%28%E6%AA%B8%E6%AA%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=488059&nologo=true&model=flux"
+    "image": "images/words/168.webp"
   },
   {
     "id": 169,
@@ -1349,7 +1349,7 @@
     "zh": "櫻桃",
     "emoji": "🍒",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cherry%22%20%28%E6%AB%BB%E6%A1%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=716020&nologo=true&model=flux"
+    "image": "images/words/169.webp"
   },
   {
     "id": 170,
