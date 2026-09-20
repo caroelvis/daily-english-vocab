@@ -9269,7 +9269,7 @@ window.VOCAB_WORDS = [
     "zh": "兔子",
     "emoji": "🐇",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rabbit%22%20%28%E5%85%94%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=543695&nologo=true&model=flux"
+    "image": "images/words/1159.webp"
   },
   {
     "id": 1160,
@@ -9277,7 +9277,7 @@ window.VOCAB_WORDS = [
     "zh": "倉鼠",
     "emoji": "🐹",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hamster%22%20%28%E5%80%89%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=668778&nologo=true&model=flux"
+    "image": "images/words/1160.webp"
   },
   {
     "id": 1161,
@@ -9285,7 +9285,7 @@ window.VOCAB_WORDS = [
     "zh": "天竺鼠",
     "emoji": "🐹",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22guinea%20pig%22%20%28%E5%A4%A9%E7%AB%BA%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=862854&nologo=true&model=flux"
+    "image": "images/words/1161.webp"
   },
   {
     "id": 1162,
@@ -9293,7 +9293,7 @@ window.VOCAB_WORDS = [
     "zh": "金魚",
     "emoji": "🐠",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22goldfish%22%20%28%E9%87%91%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=750810&nologo=true&model=flux"
+    "image": "images/words/1162.webp"
   },
   {
     "id": 1163,
@@ -9301,7 +9301,7 @@ window.VOCAB_WORDS = [
     "zh": "鸚鵡",
     "emoji": "🦜",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22parrot%22%20%28%E9%B8%9A%E9%B5%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=694749&nologo=true&model=flux"
+    "image": "images/words/1163.webp"
   },
   {
     "id": 1164,
@@ -9309,7 +9309,7 @@ window.VOCAB_WORDS = [
     "zh": "烏龜",
     "emoji": "🐢",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22turtle%22%20%28%E7%83%8F%E9%BE%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=498906&nologo=true&model=flux"
+    "image": "images/words/1164.webp"
   },
   {
     "id": 1165,
@@ -9317,7 +9317,7 @@ window.VOCAB_WORDS = [
     "zh": "陸龜",
     "emoji": "🐢",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tortoise%22%20%28%E9%99%B8%E9%BE%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=274447&nologo=true&model=flux"
+    "image": "images/words/1165.webp"
   },
   {
     "id": 1166,
@@ -9325,7 +9325,7 @@ window.VOCAB_WORDS = [
     "zh": "蜥蜴",
     "emoji": "🦎",
     "category": "animals",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lizard%22%20%28%E8%9C%A5%E8%9C%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=521068&nologo=true&model=flux"
+    "image": "images/words/1166.webp"
   },
   {
     "id": 1167,
