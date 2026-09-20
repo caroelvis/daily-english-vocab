@@ -1357,7 +1357,7 @@
     "zh": "藍莓",
     "emoji": "🫐",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22blueberry%22%20%28%E8%97%8D%E8%8E%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=605477&nologo=true&model=flux"
+    "image": "images/words/170.webp"
   },
   {
     "id": 171,
@@ -1365,7 +1365,7 @@
     "zh": "蔬菜",
     "emoji": "🥬",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22vegetable%22%20%28%E8%94%AC%E8%8F%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=592992&nologo=true&model=flux"
+    "image": "images/words/171.webp"
   },
   {
     "id": 172,
@@ -1373,7 +1373,7 @@
     "zh": "胡蘿蔔",
     "emoji": "🥕",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22carrot%22%20%28%E8%83%A1%E8%98%BF%E8%94%94%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=522464&nologo=true&model=flux"
+    "image": "images/words/172.webp"
   },
   {
     "id": 173,
@@ -1381,7 +1381,7 @@
     "zh": "番茄",
     "emoji": "🍅",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tomato%22%20%28%E7%95%AA%E8%8C%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=593026&nologo=true&model=flux"
+    "image": "images/words/173.webp"
   },
   {
     "id": 174,
@@ -1389,7 +1389,7 @@
     "zh": "馬鈴薯",
     "emoji": "🥔",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22potato%22%20%28%E9%A6%AC%E9%88%B4%E8%96%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=26409&nologo=true&model=flux"
+    "image": "images/words/174.webp"
   },
   {
     "id": 175,
@@ -1397,7 +1397,7 @@
     "zh": "洋蔥",
     "emoji": "🧅",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22onion%22%20%28%E6%B4%8B%E8%94%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=734261&nologo=true&model=flux"
+    "image": "images/words/175.webp"
   },
   {
     "id": 176,
@@ -1405,7 +1405,7 @@
     "zh": "大蒜",
     "emoji": "🧄",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22garlic%22%20%28%E5%A4%A7%E8%92%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=597752&nologo=true&model=flux"
+    "image": "images/words/176.webp"
   },
   {
     "id": 177,
@@ -1413,7 +1413,7 @@
     "zh": "黃瓜",
     "emoji": "🥒",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cucumber%22%20%28%E9%BB%83%E7%93%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=617663&nologo=true&model=flux"
+    "image": "images/words/177.webp"
   },
   {
     "id": 178,
@@ -1421,7 +1421,7 @@
     "zh": "萵苣",
     "emoji": "🥗",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lettuce%22%20%28%E8%90%B5%E8%8B%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=794872&nologo=true&model=flux"
+    "image": "images/words/178.webp"
   },
   {
     "id": 179,
@@ -1429,7 +1429,7 @@
     "zh": "花椰菜",
     "emoji": "🥦",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22broccoli%22%20%28%E8%8A%B1%E6%A4%B0%E8%8F%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=568165&nologo=true&model=flux"
+    "image": "images/words/179.webp"
   },
   {
     "id": 180,
