@@ -405,7 +405,7 @@ window.VOCAB_WORDS = [
     "zh": "微波爐",
     "emoji": "📡",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22microwave%22%20%28%E5%BE%AE%E6%B3%A2%E7%88%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=241355&nologo=true&model=flux"
+    "image": "images/words/51.webp"
   },
   {
     "id": 52,
@@ -413,7 +413,7 @@ window.VOCAB_WORDS = [
     "zh": "洗碗機",
     "emoji": "🫧",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dishwasher%22%20%28%E6%B4%97%E7%A2%97%E6%A9%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=361123&nologo=true&model=flux"
+    "image": "images/words/52.webp"
   },
   {
     "id": 53,
@@ -421,7 +421,7 @@ window.VOCAB_WORDS = [
     "zh": "洗衣機",
     "emoji": "🫧",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22washing%20machine%22%20%28%E6%B4%97%E8%A1%A3%E6%A9%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=44030&nologo=true&model=flux"
+    "image": "images/words/53.webp"
   },
   {
     "id": 54,
@@ -429,7 +429,7 @@ window.VOCAB_WORDS = [
     "zh": "烘衣機",
     "emoji": "🌀",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dryer%22%20%28%E7%83%98%E8%A1%A3%E6%A9%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=885103&nologo=true&model=flux"
+    "image": "images/words/54.webp"
   },
   {
     "id": 55,
@@ -437,7 +437,7 @@ window.VOCAB_WORDS = [
     "zh": "吸塵器",
     "emoji": "🧹",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22vacuum%22%20%28%E5%90%B8%E5%A1%B5%E5%99%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=990898&nologo=true&model=flux"
+    "image": "images/words/55.webp"
   },
   {
     "id": 56,
@@ -445,7 +445,7 @@ window.VOCAB_WORDS = [
     "zh": "掃帚",
     "emoji": "🧹",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22broom%22%20%28%E6%8E%83%E5%B8%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=737378&nologo=true&model=flux"
+    "image": "images/words/56.webp"
   },
   {
     "id": 57,
@@ -453,7 +453,7 @@ window.VOCAB_WORDS = [
     "zh": "拖把",
     "emoji": "🪣",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mop%22%20%28%E6%8B%96%E6%8A%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=388389&nologo=true&model=flux"
+    "image": "images/words/57.webp"
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@ window.VOCAB_WORDS = [
     "zh": "垃圾桶",
     "emoji": "🗑️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22trash%20can%22%20%28%E5%9E%83%E5%9C%BE%E6%A1%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=976019&nologo=true&model=flux"
+    "image": "images/words/58.webp"
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@ window.VOCAB_WORDS = [
     "zh": "回收",
     "emoji": "♻️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22recycle%22%20%28%E5%9B%9E%E6%94%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=946176&nologo=true&model=flux"
+    "image": "images/words/59.webp"
   },
   {
     "id": 60,
@@ -477,7 +477,7 @@ window.VOCAB_WORDS = [
     "zh": "馬桶",
     "emoji": "🚽",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22toilet%22%20%28%E9%A6%AC%E6%A1%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=743802&nologo=true&model=flux"
+    "image": "images/words/60.webp"
   },
   {
     "id": 61,
