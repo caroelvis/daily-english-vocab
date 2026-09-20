@@ -1677,7 +1677,7 @@ const WORDS = [
     "zh": "酸的",
     "emoji": "🍋",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sour%22%20%28%E9%85%B8%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=450396&nologo=true&model=flux"
+    "image": "images/words/210.webp"
   },
   {
     "id": 211,
@@ -1685,7 +1685,7 @@ const WORDS = [
     "zh": "苦的",
     "emoji": "😖",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bitter%22%20%28%E8%8B%A6%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=126078&nologo=true&model=flux"
+    "image": "images/words/211.webp"
   },
   {
     "id": 212,
@@ -1693,7 +1693,7 @@ const WORDS = [
     "zh": "鹹的",
     "emoji": "🧂",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22salty%22%20%28%E9%B9%B9%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=462832&nologo=true&model=flux"
+    "image": "images/words/212.webp"
   },
   {
     "id": 213,
@@ -1701,7 +1701,7 @@ const WORDS = [
     "zh": "新鮮的",
     "emoji": "🌿",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fresh%22%20%28%E6%96%B0%E9%AE%AE%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=439611&nologo=true&model=flux"
+    "image": "images/words/213.webp"
   },
   {
     "id": 214,
@@ -1709,7 +1709,7 @@ const WORDS = [
     "zh": "美味的",
     "emoji": "😋",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22delicious%22%20%28%E7%BE%8E%E5%91%B3%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=194724&nologo=true&model=flux"
+    "image": "images/words/214.webp"
   },
   {
     "id": 215,
@@ -1717,7 +1717,7 @@ const WORDS = [
     "zh": "飢餓的",
     "emoji": "🤤",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hungry%22%20%28%E9%A3%A2%E9%A4%93%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=216606&nologo=true&model=flux"
+    "image": "images/words/215.webp"
   },
   {
     "id": 216,
@@ -1725,7 +1725,7 @@ const WORDS = [
     "zh": "口渴的",
     "emoji": "🥤",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22thirsty%22%20%28%E5%8F%A3%E6%B8%B4%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=463605&nologo=true&model=flux"
+    "image": "images/words/216.webp"
   },
   {
     "id": 217,
@@ -1733,7 +1733,7 @@ const WORDS = [
     "zh": "烹飪",
     "emoji": "👨‍🍳",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cook%22%20%28%E7%83%B9%E9%A3%AA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=415030&nologo=true&model=flux"
+    "image": "images/words/217.webp"
   },
   {
     "id": 218,
@@ -1741,7 +1741,7 @@ const WORDS = [
     "zh": "烘烤",
     "emoji": "👨‍🍳",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bake%22%20%28%E7%83%98%E7%83%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=193335&nologo=true&model=flux"
+    "image": "images/words/218.webp"
   },
   {
     "id": 219,
@@ -1749,7 +1749,7 @@ const WORDS = [
     "zh": "油炸",
     "emoji": "🍳",
     "category": "food",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fry%22%20%28%E6%B2%B9%E7%82%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=99215&nologo=true&model=flux"
+    "image": "images/words/219.webp"
   },
   {
     "id": 220,
