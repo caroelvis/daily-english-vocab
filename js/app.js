@@ -32,6 +32,7 @@
     education: '教育',
     services: '公共服務',
     leisure: '休閒運動',
+    animals: '動物',
   };
 
   /** @type {Array<{id:number,word:string,zh:string,emoji:string,category:string,image?:string}>} */
@@ -219,6 +220,7 @@
         transport: 200, weather: 160, health: 0, work: 220,
         travel: 35, daily: 170, people: 270, basics: 140,
         money: 45, tech: 195, education: 20, services: 350, leisure: 155,
+        animals: 85,
       };
       const h = hues[word.category] ?? 220;
       wrap.style.background =

@@ -27,7 +27,7 @@ python3 -m http.server 8080
 
 ### 單字 · 分類篩選 📂
 
-- 頂部可選擇**分類**（居家、飲食、購物…）或「全部」。
+- 頂部可選擇**分類**（居家、飲食、購物、動物…）或「全部」。單字分類含 `animals`（動物）等；篩選下拉選單由 `CATEGORY_ZH` 與資料自動重建。
 - 閃卡與測驗都會只從選定分類抽題；切換分類會重置閃卡紀錄，並重新開始測驗。
 
 ### 句子 · 情境篩選 💬
@@ -101,5 +101,5 @@ uvicorn main:app --reload --host 127.0.0.1 --port 8000
 
 ## 資料欄位
 
-- 單字：`{ id, word, zh, emoji, category, image }`（約 1000+）
+- 單字：`{ id, word, zh, emoji, category, image }`（約 1300+，含動物等分類）
 - 句子：`{ id, scene, en, zh }`（約 700）

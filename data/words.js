@@ -9262,5 +9262,1341 @@ window.VOCAB_WORDS = [
     "emoji": "🏃",
     "category": "leisure",
     "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22jogging%22%20%28%E6%85%A2%E8%B7%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=702645&nologo=true&model=flux"
+  },
+  {
+    "id": 1159,
+    "word": "rabbit",
+    "zh": "兔子",
+    "emoji": "🐇",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rabbit%22%20%28%E5%85%94%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=543695&nologo=true&model=flux"
+  },
+  {
+    "id": 1160,
+    "word": "hamster",
+    "zh": "倉鼠",
+    "emoji": "🐹",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hamster%22%20%28%E5%80%89%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=668778&nologo=true&model=flux"
+  },
+  {
+    "id": 1161,
+    "word": "guinea pig",
+    "zh": "天竺鼠",
+    "emoji": "🐹",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22guinea%20pig%22%20%28%E5%A4%A9%E7%AB%BA%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=862854&nologo=true&model=flux"
+  },
+  {
+    "id": 1162,
+    "word": "goldfish",
+    "zh": "金魚",
+    "emoji": "🐠",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22goldfish%22%20%28%E9%87%91%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=750810&nologo=true&model=flux"
+  },
+  {
+    "id": 1163,
+    "word": "parrot",
+    "zh": "鸚鵡",
+    "emoji": "🦜",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22parrot%22%20%28%E9%B8%9A%E9%B5%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=694749&nologo=true&model=flux"
+  },
+  {
+    "id": 1164,
+    "word": "turtle",
+    "zh": "烏龜",
+    "emoji": "🐢",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22turtle%22%20%28%E7%83%8F%E9%BE%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=498906&nologo=true&model=flux"
+  },
+  {
+    "id": 1165,
+    "word": "tortoise",
+    "zh": "陸龜",
+    "emoji": "🐢",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tortoise%22%20%28%E9%99%B8%E9%BE%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=274447&nologo=true&model=flux"
+  },
+  {
+    "id": 1166,
+    "word": "lizard",
+    "zh": "蜥蜴",
+    "emoji": "🦎",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lizard%22%20%28%E8%9C%A5%E8%9C%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=521068&nologo=true&model=flux"
+  },
+  {
+    "id": 1167,
+    "word": "snake",
+    "zh": "蛇",
+    "emoji": "🐍",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22snake%22%20%28%E8%9B%87%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=193086&nologo=true&model=flux"
+  },
+  {
+    "id": 1168,
+    "word": "frog",
+    "zh": "青蛙",
+    "emoji": "🐸",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22frog%22%20%28%E9%9D%92%E8%9B%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=894299&nologo=true&model=flux"
+  },
+  {
+    "id": 1169,
+    "word": "toad",
+    "zh": "蟾蜍",
+    "emoji": "🐸",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22toad%22%20%28%E8%9F%BE%E8%9C%8D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=749309&nologo=true&model=flux"
+  },
+  {
+    "id": 1170,
+    "word": "horse",
+    "zh": "馬",
+    "emoji": "🐴",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22horse%22%20%28%E9%A6%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=10382&nologo=true&model=flux"
+  },
+  {
+    "id": 1171,
+    "word": "cow",
+    "zh": "乳牛",
+    "emoji": "🐄",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cow%22%20%28%E4%B9%B3%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=552125&nologo=true&model=flux"
+  },
+  {
+    "id": 1172,
+    "word": "pig",
+    "zh": "豬",
+    "emoji": "🐷",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pig%22%20%28%E8%B1%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=245571&nologo=true&model=flux"
+  },
+  {
+    "id": 1173,
+    "word": "sheep",
+    "zh": "綿羊",
+    "emoji": "🐑",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sheep%22%20%28%E7%B6%BF%E7%BE%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=363810&nologo=true&model=flux"
+  },
+  {
+    "id": 1174,
+    "word": "goat",
+    "zh": "山羊",
+    "emoji": "🐐",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22goat%22%20%28%E5%B1%B1%E7%BE%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=640301&nologo=true&model=flux"
+  },
+  {
+    "id": 1175,
+    "word": "rooster",
+    "zh": "公雞",
+    "emoji": "🐓",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rooster%22%20%28%E5%85%AC%E9%9B%9E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=471104&nologo=true&model=flux"
+  },
+  {
+    "id": 1176,
+    "word": "hen",
+    "zh": "母雞",
+    "emoji": "🐔",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hen%22%20%28%E6%AF%8D%E9%9B%9E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=252684&nologo=true&model=flux"
+  },
+  {
+    "id": 1177,
+    "word": "chick",
+    "zh": "小雞",
+    "emoji": "🐤",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22chick%22%20%28%E5%B0%8F%E9%9B%9E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=447182&nologo=true&model=flux"
+  },
+  {
+    "id": 1178,
+    "word": "duck",
+    "zh": "鴨",
+    "emoji": "🦆",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22duck%22%20%28%E9%B4%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=78094&nologo=true&model=flux"
+  },
+  {
+    "id": 1179,
+    "word": "goose",
+    "zh": "鵝",
+    "emoji": "🪿",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22goose%22%20%28%E9%B5%9D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=747492&nologo=true&model=flux"
+  },
+  {
+    "id": 1180,
+    "word": "turkey",
+    "zh": "火雞",
+    "emoji": "🦃",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22turkey%22%20%28%E7%81%AB%E9%9B%9E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=108764&nologo=true&model=flux"
+  },
+  {
+    "id": 1181,
+    "word": "donkey",
+    "zh": "驢",
+    "emoji": "🫏",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22donkey%22%20%28%E9%A9%A2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=331253&nologo=true&model=flux"
+  },
+  {
+    "id": 1182,
+    "word": "mule",
+    "zh": "騾",
+    "emoji": "🐴",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mule%22%20%28%E9%A8%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=64251&nologo=true&model=flux"
+  },
+  {
+    "id": 1183,
+    "word": "ox",
+    "zh": "公牛",
+    "emoji": "🐂",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ox%22%20%28%E5%85%AC%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=754279&nologo=true&model=flux"
+  },
+  {
+    "id": 1184,
+    "word": "bull",
+    "zh": "鬥牛",
+    "emoji": "🐂",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bull%22%20%28%E9%AC%A5%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=507039&nologo=true&model=flux"
+  },
+  {
+    "id": 1185,
+    "word": "calf",
+    "zh": "小牛",
+    "emoji": "🐄",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22calf%22%20%28%E5%B0%8F%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=23049&nologo=true&model=flux"
+  },
+  {
+    "id": 1186,
+    "word": "lamb",
+    "zh": "小羊",
+    "emoji": "🐑",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lamb%22%20%28%E5%B0%8F%E7%BE%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=470484&nologo=true&model=flux"
+  },
+  {
+    "id": 1187,
+    "word": "pony",
+    "zh": "小馬",
+    "emoji": "🐴",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pony%22%20%28%E5%B0%8F%E9%A6%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=990850&nologo=true&model=flux"
+  },
+  {
+    "id": 1188,
+    "word": "lion",
+    "zh": "獅子",
+    "emoji": "🦁",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lion%22%20%28%E7%8D%85%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=546403&nologo=true&model=flux"
+  },
+  {
+    "id": 1189,
+    "word": "tiger",
+    "zh": "老虎",
+    "emoji": "🐯",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tiger%22%20%28%E8%80%81%E8%99%8E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=331956&nologo=true&model=flux"
+  },
+  {
+    "id": 1190,
+    "word": "leopard",
+    "zh": "豹",
+    "emoji": "🐆",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22leopard%22%20%28%E8%B1%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=261256&nologo=true&model=flux"
+  },
+  {
+    "id": 1191,
+    "word": "cheetah",
+    "zh": "獵豹",
+    "emoji": "🐆",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cheetah%22%20%28%E7%8D%B5%E8%B1%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=744740&nologo=true&model=flux"
+  },
+  {
+    "id": 1192,
+    "word": "jaguar",
+    "zh": "美洲豹",
+    "emoji": "🐆",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22jaguar%22%20%28%E7%BE%8E%E6%B4%B2%E8%B1%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=583310&nologo=true&model=flux"
+  },
+  {
+    "id": 1193,
+    "word": "panther",
+    "zh": "黑豹",
+    "emoji": "🐈‍⬛",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22panther%22%20%28%E9%BB%91%E8%B1%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=734349&nologo=true&model=flux"
+  },
+  {
+    "id": 1194,
+    "word": "bear",
+    "zh": "熊",
+    "emoji": "🐻",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bear%22%20%28%E7%86%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=492342&nologo=true&model=flux"
+  },
+  {
+    "id": 1195,
+    "word": "polar bear",
+    "zh": "北極熊",
+    "emoji": "🐻‍❄️",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22polar%20bear%22%20%28%E5%8C%97%E6%A5%B5%E7%86%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=682245&nologo=true&model=flux"
+  },
+  {
+    "id": 1196,
+    "word": "panda",
+    "zh": "熊貓",
+    "emoji": "🐼",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22panda%22%20%28%E7%86%8A%E8%B2%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=487023&nologo=true&model=flux"
+  },
+  {
+    "id": 1197,
+    "word": "koala",
+    "zh": "無尾熊",
+    "emoji": "🐨",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22koala%22%20%28%E7%84%A1%E5%B0%BE%E7%86%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=549136&nologo=true&model=flux"
+  },
+  {
+    "id": 1198,
+    "word": "kangaroo",
+    "zh": "袋鼠",
+    "emoji": "🦘",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22kangaroo%22%20%28%E8%A2%8B%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=846435&nologo=true&model=flux"
+  },
+  {
+    "id": 1199,
+    "word": "wallaby",
+    "zh": "小袋鼠",
+    "emoji": "🦘",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22wallaby%22%20%28%E5%B0%8F%E8%A2%8B%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=436689&nologo=true&model=flux"
+  },
+  {
+    "id": 1200,
+    "word": "elephant",
+    "zh": "大象",
+    "emoji": "🐘",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22elephant%22%20%28%E5%A4%A7%E8%B1%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=569038&nologo=true&model=flux"
+  },
+  {
+    "id": 1201,
+    "word": "giraffe",
+    "zh": "長頸鹿",
+    "emoji": "🦒",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22giraffe%22%20%28%E9%95%B7%E9%A0%B8%E9%B9%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=54702&nologo=true&model=flux"
+  },
+  {
+    "id": 1202,
+    "word": "zebra",
+    "zh": "斑馬",
+    "emoji": "🦓",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22zebra%22%20%28%E6%96%91%E9%A6%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=183168&nologo=true&model=flux"
+  },
+  {
+    "id": 1203,
+    "word": "hippo",
+    "zh": "河馬",
+    "emoji": "🦛",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hippo%22%20%28%E6%B2%B3%E9%A6%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=848349&nologo=true&model=flux"
+  },
+  {
+    "id": 1204,
+    "word": "rhinoceros",
+    "zh": "犀牛",
+    "emoji": "🦏",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rhinoceros%22%20%28%E7%8A%80%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=574488&nologo=true&model=flux"
+  },
+  {
+    "id": 1205,
+    "word": "camel",
+    "zh": "駱駝",
+    "emoji": "🐫",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22camel%22%20%28%E9%A7%B1%E9%A7%9D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=728268&nologo=true&model=flux"
+  },
+  {
+    "id": 1206,
+    "word": "llama",
+    "zh": "羊駝",
+    "emoji": "🦙",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22llama%22%20%28%E7%BE%8A%E9%A7%9D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=171257&nologo=true&model=flux"
+  },
+  {
+    "id": 1207,
+    "word": "alpaca",
+    "zh": "阿爾帕卡",
+    "emoji": "🦙",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22alpaca%22%20%28%E9%98%BF%E7%88%BE%E5%B8%95%E5%8D%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=55574&nologo=true&model=flux"
+  },
+  {
+    "id": 1208,
+    "word": "deer",
+    "zh": "鹿",
+    "emoji": "🦌",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22deer%22%20%28%E9%B9%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=856927&nologo=true&model=flux"
+  },
+  {
+    "id": 1209,
+    "word": "moose",
+    "zh": "麋鹿",
+    "emoji": "🦌",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22moose%22%20%28%E9%BA%8B%E9%B9%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=616489&nologo=true&model=flux"
+  },
+  {
+    "id": 1210,
+    "word": "elk",
+    "zh": "馬鹿",
+    "emoji": "🦌",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22elk%22%20%28%E9%A6%AC%E9%B9%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=32691&nologo=true&model=flux"
+  },
+  {
+    "id": 1211,
+    "word": "reindeer",
+    "zh": "馴鹿",
+    "emoji": "🦌",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22reindeer%22%20%28%E9%A6%B4%E9%B9%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=557339&nologo=true&model=flux"
+  },
+  {
+    "id": 1212,
+    "word": "buffalo",
+    "zh": "水牛",
+    "emoji": "🐃",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22buffalo%22%20%28%E6%B0%B4%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=965091&nologo=true&model=flux"
+  },
+  {
+    "id": 1213,
+    "word": "bison",
+    "zh": "野牛",
+    "emoji": "🦬",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bison%22%20%28%E9%87%8E%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=320895&nologo=true&model=flux"
+  },
+  {
+    "id": 1214,
+    "word": "wolf",
+    "zh": "狼",
+    "emoji": "🐺",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22wolf%22%20%28%E7%8B%BC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=159655&nologo=true&model=flux"
+  },
+  {
+    "id": 1215,
+    "word": "fox",
+    "zh": "狐狸",
+    "emoji": "🦊",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fox%22%20%28%E7%8B%90%E7%8B%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=45507&nologo=true&model=flux"
+  },
+  {
+    "id": 1216,
+    "word": "raccoon",
+    "zh": "浣熊",
+    "emoji": "🦝",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22raccoon%22%20%28%E6%B5%A3%E7%86%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=238961&nologo=true&model=flux"
+  },
+  {
+    "id": 1217,
+    "word": "skunk",
+    "zh": "臭鼬",
+    "emoji": "🦨",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22skunk%22%20%28%E8%87%AD%E9%BC%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=408068&nologo=true&model=flux"
+  },
+  {
+    "id": 1218,
+    "word": "otter",
+    "zh": "水獺",
+    "emoji": "🦦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22otter%22%20%28%E6%B0%B4%E7%8D%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=287730&nologo=true&model=flux"
+  },
+  {
+    "id": 1219,
+    "word": "beaver",
+    "zh": "海狸",
+    "emoji": "🦫",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22beaver%22%20%28%E6%B5%B7%E7%8B%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=273127&nologo=true&model=flux"
+  },
+  {
+    "id": 1220,
+    "word": "squirrel",
+    "zh": "松鼠",
+    "emoji": "🐿️",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22squirrel%22%20%28%E6%9D%BE%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=652694&nologo=true&model=flux"
+  },
+  {
+    "id": 1221,
+    "word": "chipmunk",
+    "zh": "花栗鼠",
+    "emoji": "🐿️",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22chipmunk%22%20%28%E8%8A%B1%E6%A0%97%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=104299&nologo=true&model=flux"
+  },
+  {
+    "id": 1222,
+    "word": "hedgehog",
+    "zh": "刺蝟",
+    "emoji": "🦔",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hedgehog%22%20%28%E5%88%BA%E8%9D%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=62835&nologo=true&model=flux"
+  },
+  {
+    "id": 1223,
+    "word": "porcupine",
+    "zh": "豪豬",
+    "emoji": "🦔",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22porcupine%22%20%28%E8%B1%AA%E8%B1%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=162214&nologo=true&model=flux"
+  },
+  {
+    "id": 1224,
+    "word": "bat",
+    "zh": "蝙蝠",
+    "emoji": "🦇",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bat%22%20%28%E8%9D%99%E8%9D%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=697289&nologo=true&model=flux"
+  },
+  {
+    "id": 1225,
+    "word": "mole",
+    "zh": "鼴鼠",
+    "emoji": "🐭",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mole%22%20%28%E9%BC%B4%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=369529&nologo=true&model=flux"
+  },
+  {
+    "id": 1226,
+    "word": "rat",
+    "zh": "家鼠",
+    "emoji": "🐀",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rat%22%20%28%E5%AE%B6%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=625240&nologo=true&model=flux"
+  },
+  {
+    "id": 1227,
+    "word": "monkey",
+    "zh": "猴子",
+    "emoji": "🐒",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22monkey%22%20%28%E7%8C%B4%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=395068&nologo=true&model=flux"
+  },
+  {
+    "id": 1228,
+    "word": "gorilla",
+    "zh": "大猩猩",
+    "emoji": "🦍",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22gorilla%22%20%28%E5%A4%A7%E7%8C%A9%E7%8C%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=853040&nologo=true&model=flux"
+  },
+  {
+    "id": 1229,
+    "word": "chimpanzee",
+    "zh": "黑猩猩",
+    "emoji": "🐵",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22chimpanzee%22%20%28%E9%BB%91%E7%8C%A9%E7%8C%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=64838&nologo=true&model=flux"
+  },
+  {
+    "id": 1230,
+    "word": "orangutan",
+    "zh": "紅毛猩猩",
+    "emoji": "🦧",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22orangutan%22%20%28%E7%B4%85%E6%AF%9B%E7%8C%A9%E7%8C%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=542576&nologo=true&model=flux"
+  },
+  {
+    "id": 1231,
+    "word": "baboon",
+    "zh": "狒狒",
+    "emoji": "🐒",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22baboon%22%20%28%E7%8B%92%E7%8B%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=197701&nologo=true&model=flux"
+  },
+  {
+    "id": 1232,
+    "word": "lemur",
+    "zh": "狐猴",
+    "emoji": "🐵",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lemur%22%20%28%E7%8B%90%E7%8C%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=243509&nologo=true&model=flux"
+  },
+  {
+    "id": 1233,
+    "word": "sloth",
+    "zh": "樹懶",
+    "emoji": "🦥",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sloth%22%20%28%E6%A8%B9%E6%87%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=839961&nologo=true&model=flux"
+  },
+  {
+    "id": 1234,
+    "word": "armadillo",
+    "zh": "犰狳",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22armadillo%22%20%28%E7%8A%B0%E7%8B%B3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=926158&nologo=true&model=flux"
+  },
+  {
+    "id": 1235,
+    "word": "anteater",
+    "zh": "食蟻獸",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22anteater%22%20%28%E9%A3%9F%E8%9F%BB%E7%8D%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=35023&nologo=true&model=flux"
+  },
+  {
+    "id": 1236,
+    "word": "hyena",
+    "zh": "鬣狗",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hyena%22%20%28%E9%AC%A3%E7%8B%97%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=274204&nologo=true&model=flux"
+  },
+  {
+    "id": 1237,
+    "word": "meerkat",
+    "zh": "狐獴",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22meerkat%22%20%28%E7%8B%90%E7%8D%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=990443&nologo=true&model=flux"
+  },
+  {
+    "id": 1238,
+    "word": "mongoose",
+    "zh": "獴",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mongoose%22%20%28%E7%8D%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=928841&nologo=true&model=flux"
+  },
+  {
+    "id": 1239,
+    "word": "weasel",
+    "zh": "黃鼠狼",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22weasel%22%20%28%E9%BB%83%E9%BC%A0%E7%8B%BC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=893474&nologo=true&model=flux"
+  },
+  {
+    "id": 1240,
+    "word": "badger",
+    "zh": "獾",
+    "emoji": "🦡",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22badger%22%20%28%E7%8D%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=10503&nologo=true&model=flux"
+  },
+  {
+    "id": 1241,
+    "word": "boar",
+    "zh": "野豬",
+    "emoji": "🐗",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22boar%22%20%28%E9%87%8E%E8%B1%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=790842&nologo=true&model=flux"
+  },
+  {
+    "id": 1242,
+    "word": "warthog",
+    "zh": "疣豬",
+    "emoji": "🐗",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22warthog%22%20%28%E7%96%A3%E8%B1%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=752065&nologo=true&model=flux"
+  },
+  {
+    "id": 1243,
+    "word": "eagle",
+    "zh": "老鷹",
+    "emoji": "🦅",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22eagle%22%20%28%E8%80%81%E9%B7%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=799327&nologo=true&model=flux"
+  },
+  {
+    "id": 1244,
+    "word": "hawk",
+    "zh": "鷹",
+    "emoji": "🦅",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hawk%22%20%28%E9%B7%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=165521&nologo=true&model=flux"
+  },
+  {
+    "id": 1245,
+    "word": "owl",
+    "zh": "貓頭鷹",
+    "emoji": "🦉",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22owl%22%20%28%E8%B2%93%E9%A0%AD%E9%B7%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=427605&nologo=true&model=flux"
+  },
+  {
+    "id": 1246,
+    "word": "crow",
+    "zh": "烏鴉",
+    "emoji": "🐦‍⬛",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22crow%22%20%28%E7%83%8F%E9%B4%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=355372&nologo=true&model=flux"
+  },
+  {
+    "id": 1247,
+    "word": "raven",
+    "zh": "渡鴉",
+    "emoji": "🐦‍⬛",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22raven%22%20%28%E6%B8%A1%E9%B4%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=694588&nologo=true&model=flux"
+  },
+  {
+    "id": 1248,
+    "word": "sparrow",
+    "zh": "麻雀",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sparrow%22%20%28%E9%BA%BB%E9%9B%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=632186&nologo=true&model=flux"
+  },
+  {
+    "id": 1249,
+    "word": "pigeon",
+    "zh": "鴿子",
+    "emoji": "🕊️",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pigeon%22%20%28%E9%B4%BF%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=805705&nologo=true&model=flux"
+  },
+  {
+    "id": 1250,
+    "word": "dove",
+    "zh": "白鴿",
+    "emoji": "🕊️",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dove%22%20%28%E7%99%BD%E9%B4%BF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=311618&nologo=true&model=flux"
+  },
+  {
+    "id": 1251,
+    "word": "swan",
+    "zh": "天鵝",
+    "emoji": "🦢",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22swan%22%20%28%E5%A4%A9%E9%B5%9D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=633012&nologo=true&model=flux"
+  },
+  {
+    "id": 1252,
+    "word": "peacock",
+    "zh": "孔雀",
+    "emoji": "🦚",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22peacock%22%20%28%E5%AD%94%E9%9B%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=194139&nologo=true&model=flux"
+  },
+  {
+    "id": 1253,
+    "word": "flamingo",
+    "zh": "紅鶴",
+    "emoji": "🦩",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22flamingo%22%20%28%E7%B4%85%E9%B6%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=364328&nologo=true&model=flux"
+  },
+  {
+    "id": 1254,
+    "word": "pelican",
+    "zh": "鵜鶘",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pelican%22%20%28%E9%B5%9C%E9%B6%98%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=518683&nologo=true&model=flux"
+  },
+  {
+    "id": 1255,
+    "word": "seagull",
+    "zh": "海鷗",
+    "emoji": "🕊️",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22seagull%22%20%28%E6%B5%B7%E9%B7%97%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=557598&nologo=true&model=flux"
+  },
+  {
+    "id": 1256,
+    "word": "penguin",
+    "zh": "企鵝",
+    "emoji": "🐧",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22penguin%22%20%28%E4%BC%81%E9%B5%9D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=777434&nologo=true&model=flux"
+  },
+  {
+    "id": 1257,
+    "word": "ostrich",
+    "zh": "鴕鳥",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ostrich%22%20%28%E9%B4%95%E9%B3%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=959181&nologo=true&model=flux"
+  },
+  {
+    "id": 1258,
+    "word": "emu",
+    "zh": "鴯鶓",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22emu%22%20%28%E9%B4%AF%E9%B6%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=402543&nologo=true&model=flux"
+  },
+  {
+    "id": 1259,
+    "word": "woodpecker",
+    "zh": "啄木鳥",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22woodpecker%22%20%28%E5%95%84%E6%9C%A8%E9%B3%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=655060&nologo=true&model=flux"
+  },
+  {
+    "id": 1260,
+    "word": "hummingbird",
+    "zh": "蜂鳥",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hummingbird%22%20%28%E8%9C%82%E9%B3%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=312344&nologo=true&model=flux"
+  },
+  {
+    "id": 1261,
+    "word": "robin",
+    "zh": "知更鳥",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22robin%22%20%28%E7%9F%A5%E6%9B%B4%E9%B3%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=317823&nologo=true&model=flux"
+  },
+  {
+    "id": 1262,
+    "word": "canary",
+    "zh": "金絲雀",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22canary%22%20%28%E9%87%91%E7%B5%B2%E9%9B%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=489600&nologo=true&model=flux"
+  },
+  {
+    "id": 1263,
+    "word": "cockatoo",
+    "zh": "鳳頭鸚鵡",
+    "emoji": "🦜",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cockatoo%22%20%28%E9%B3%B3%E9%A0%AD%E9%B8%9A%E9%B5%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=825460&nologo=true&model=flux"
+  },
+  {
+    "id": 1264,
+    "word": "toucan",
+    "zh": "巨嘴鳥",
+    "emoji": "🦜",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22toucan%22%20%28%E5%B7%A8%E5%98%B4%E9%B3%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=383113&nologo=true&model=flux"
+  },
+  {
+    "id": 1265,
+    "word": "crane",
+    "zh": "鶴",
+    "emoji": "🦩",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22crane%22%20%28%E9%B6%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=765852&nologo=true&model=flux"
+  },
+  {
+    "id": 1266,
+    "word": "stork",
+    "zh": "鸛",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22stork%22%20%28%E9%B8%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=379879&nologo=true&model=flux"
+  },
+  {
+    "id": 1267,
+    "word": "heron",
+    "zh": "蒼鷺",
+    "emoji": "🐦",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22heron%22%20%28%E8%92%BC%E9%B7%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=604334&nologo=true&model=flux"
+  },
+  {
+    "id": 1268,
+    "word": "falcon",
+    "zh": "獵鷹",
+    "emoji": "🦅",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22falcon%22%20%28%E7%8D%B5%E9%B7%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=660832&nologo=true&model=flux"
+  },
+  {
+    "id": 1269,
+    "word": "vulture",
+    "zh": "禿鷹",
+    "emoji": "🦅",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22vulture%22%20%28%E7%A6%BF%E9%B7%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=170386&nologo=true&model=flux"
+  },
+  {
+    "id": 1270,
+    "word": "whale",
+    "zh": "鯨魚",
+    "emoji": "🐋",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22whale%22%20%28%E9%AF%A8%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=680791&nologo=true&model=flux"
+  },
+  {
+    "id": 1271,
+    "word": "dolphin",
+    "zh": "海豚",
+    "emoji": "🐬",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dolphin%22%20%28%E6%B5%B7%E8%B1%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=952601&nologo=true&model=flux"
+  },
+  {
+    "id": 1272,
+    "word": "shark",
+    "zh": "鯊魚",
+    "emoji": "🦈",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22shark%22%20%28%E9%AF%8A%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=427061&nologo=true&model=flux"
+  },
+  {
+    "id": 1273,
+    "word": "seal",
+    "zh": "海豹",
+    "emoji": "🦭",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22seal%22%20%28%E6%B5%B7%E8%B1%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=705113&nologo=true&model=flux"
+  },
+  {
+    "id": 1274,
+    "word": "walrus",
+    "zh": "海象",
+    "emoji": "🦭",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22walrus%22%20%28%E6%B5%B7%E8%B1%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=875435&nologo=true&model=flux"
+  },
+  {
+    "id": 1275,
+    "word": "octopus",
+    "zh": "章魚",
+    "emoji": "🐙",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22octopus%22%20%28%E7%AB%A0%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=61347&nologo=true&model=flux"
+  },
+  {
+    "id": 1276,
+    "word": "squid",
+    "zh": "魷魚",
+    "emoji": "🦑",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22squid%22%20%28%E9%AD%B7%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=575746&nologo=true&model=flux"
+  },
+  {
+    "id": 1277,
+    "word": "jellyfish",
+    "zh": "水母",
+    "emoji": "🪼",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22jellyfish%22%20%28%E6%B0%B4%E6%AF%8D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=242025&nologo=true&model=flux"
+  },
+  {
+    "id": 1278,
+    "word": "starfish",
+    "zh": "海星",
+    "emoji": "⭐",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22starfish%22%20%28%E6%B5%B7%E6%98%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=353156&nologo=true&model=flux"
+  },
+  {
+    "id": 1279,
+    "word": "lobster",
+    "zh": "龍蝦",
+    "emoji": "🦞",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lobster%22%20%28%E9%BE%8D%E8%9D%A6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=963862&nologo=true&model=flux"
+  },
+  {
+    "id": 1280,
+    "word": "clam",
+    "zh": "蛤蜊",
+    "emoji": "🐚",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22clam%22%20%28%E8%9B%A4%E8%9C%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=197729&nologo=true&model=flux"
+  },
+  {
+    "id": 1281,
+    "word": "oyster",
+    "zh": "牡蠣",
+    "emoji": "🦪",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22oyster%22%20%28%E7%89%A1%E8%A0%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=620200&nologo=true&model=flux"
+  },
+  {
+    "id": 1282,
+    "word": "snail",
+    "zh": "蝸牛",
+    "emoji": "🐌",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22snail%22%20%28%E8%9D%B8%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=793509&nologo=true&model=flux"
+  },
+  {
+    "id": 1283,
+    "word": "seahorse",
+    "zh": "海馬",
+    "emoji": "🪸",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22seahorse%22%20%28%E6%B5%B7%E9%A6%AC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=395970&nologo=true&model=flux"
+  },
+  {
+    "id": 1284,
+    "word": "stingray",
+    "zh": "魟魚",
+    "emoji": "🐟",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22stingray%22%20%28%E9%AD%9F%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=144196&nologo=true&model=flux"
+  },
+  {
+    "id": 1285,
+    "word": "eel",
+    "zh": "鰻魚",
+    "emoji": "🐟",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22eel%22%20%28%E9%B0%BB%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=568085&nologo=true&model=flux"
+  },
+  {
+    "id": 1286,
+    "word": "clownfish",
+    "zh": "小丑魚",
+    "emoji": "🐠",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22clownfish%22%20%28%E5%B0%8F%E4%B8%91%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=863341&nologo=true&model=flux"
+  },
+  {
+    "id": 1287,
+    "word": "swordfish",
+    "zh": "劍魚",
+    "emoji": "🐟",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22swordfish%22%20%28%E5%8A%8D%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=789581&nologo=true&model=flux"
+  },
+  {
+    "id": 1288,
+    "word": "butterfly",
+    "zh": "蝴蝶",
+    "emoji": "🦋",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22butterfly%22%20%28%E8%9D%B4%E8%9D%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=921243&nologo=true&model=flux"
+  },
+  {
+    "id": 1289,
+    "word": "bee",
+    "zh": "蜜蜂",
+    "emoji": "🐝",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bee%22%20%28%E8%9C%9C%E8%9C%82%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=178853&nologo=true&model=flux"
+  },
+  {
+    "id": 1290,
+    "word": "wasp",
+    "zh": "黃蜂",
+    "emoji": "🐝",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22wasp%22%20%28%E9%BB%83%E8%9C%82%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=43046&nologo=true&model=flux"
+  },
+  {
+    "id": 1291,
+    "word": "ant",
+    "zh": "螞蟻",
+    "emoji": "🐜",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ant%22%20%28%E8%9E%9E%E8%9F%BB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=47717&nologo=true&model=flux"
+  },
+  {
+    "id": 1292,
+    "word": "spider",
+    "zh": "蜘蛛",
+    "emoji": "🕷️",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22spider%22%20%28%E8%9C%98%E8%9B%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=618965&nologo=true&model=flux"
+  },
+  {
+    "id": 1293,
+    "word": "scorpion",
+    "zh": "蠍子",
+    "emoji": "🦂",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22scorpion%22%20%28%E8%A0%8D%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=801629&nologo=true&model=flux"
+  },
+  {
+    "id": 1294,
+    "word": "mosquito",
+    "zh": "蚊子",
+    "emoji": "🦟",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mosquito%22%20%28%E8%9A%8A%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=155237&nologo=true&model=flux"
+  },
+  {
+    "id": 1295,
+    "word": "fly",
+    "zh": "蒼蠅",
+    "emoji": "🪰",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fly%22%20%28%E8%92%BC%E8%A0%85%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=666996&nologo=true&model=flux"
+  },
+  {
+    "id": 1296,
+    "word": "dragonfly",
+    "zh": "蜻蜓",
+    "emoji": "🪲",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dragonfly%22%20%28%E8%9C%BB%E8%9C%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=677481&nologo=true&model=flux"
+  },
+  {
+    "id": 1297,
+    "word": "grasshopper",
+    "zh": "蚱蜢",
+    "emoji": "🦗",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22grasshopper%22%20%28%E8%9A%B1%E8%9C%A2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=559980&nologo=true&model=flux"
+  },
+  {
+    "id": 1298,
+    "word": "cricket",
+    "zh": "蟋蟀",
+    "emoji": "🦗",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cricket%22%20%28%E8%9F%8B%E8%9F%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=622512&nologo=true&model=flux"
+  },
+  {
+    "id": 1299,
+    "word": "beetle",
+    "zh": "甲蟲",
+    "emoji": "🪲",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22beetle%22%20%28%E7%94%B2%E8%9F%B2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=212665&nologo=true&model=flux"
+  },
+  {
+    "id": 1300,
+    "word": "ladybug",
+    "zh": "瓢蟲",
+    "emoji": "🐞",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ladybug%22%20%28%E7%93%A2%E8%9F%B2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=392600&nologo=true&model=flux"
+  },
+  {
+    "id": 1301,
+    "word": "caterpillar",
+    "zh": "毛毛蟲",
+    "emoji": "🐛",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22caterpillar%22%20%28%E6%AF%9B%E6%AF%9B%E8%9F%B2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=764777&nologo=true&model=flux"
+  },
+  {
+    "id": 1302,
+    "word": "worm",
+    "zh": "蠕蟲",
+    "emoji": "🪱",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22worm%22%20%28%E8%A0%95%E8%9F%B2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=25311&nologo=true&model=flux"
+  },
+  {
+    "id": 1303,
+    "word": "centipede",
+    "zh": "蜈蚣",
+    "emoji": "🐛",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22centipede%22%20%28%E8%9C%88%E8%9A%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=276767&nologo=true&model=flux"
+  },
+  {
+    "id": 1304,
+    "word": "cockroach",
+    "zh": "蟑螂",
+    "emoji": "🪳",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cockroach%22%20%28%E8%9F%91%E8%9E%82%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=783156&nologo=true&model=flux"
+  },
+  {
+    "id": 1305,
+    "word": "firefly",
+    "zh": "螢火蟲",
+    "emoji": "✨",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22firefly%22%20%28%E8%9E%A2%E7%81%AB%E8%9F%B2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=576548&nologo=true&model=flux"
+  },
+  {
+    "id": 1306,
+    "word": "moth",
+    "zh": "飛蛾",
+    "emoji": "🦋",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22moth%22%20%28%E9%A3%9B%E8%9B%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=771183&nologo=true&model=flux"
+  },
+  {
+    "id": 1307,
+    "word": "crocodile",
+    "zh": "鱷魚",
+    "emoji": "🐊",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22crocodile%22%20%28%E9%B1%B7%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=456634&nologo=true&model=flux"
+  },
+  {
+    "id": 1308,
+    "word": "alligator",
+    "zh": "短吻鱷",
+    "emoji": "🐊",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22alligator%22%20%28%E7%9F%AD%E5%90%BB%E9%B1%B7%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=993824&nologo=true&model=flux"
+  },
+  {
+    "id": 1309,
+    "word": "iguana",
+    "zh": "鬣蜥",
+    "emoji": "🦎",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22iguana%22%20%28%E9%AC%A3%E8%9C%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=850929&nologo=true&model=flux"
+  },
+  {
+    "id": 1310,
+    "word": "chameleon",
+    "zh": "變色龍",
+    "emoji": "🦎",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22chameleon%22%20%28%E8%AE%8A%E8%89%B2%E9%BE%8D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=925079&nologo=true&model=flux"
+  },
+  {
+    "id": 1311,
+    "word": "gecko",
+    "zh": "壁虎",
+    "emoji": "🦎",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22gecko%22%20%28%E5%A3%81%E8%99%8E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=532034&nologo=true&model=flux"
+  },
+  {
+    "id": 1312,
+    "word": "salamander",
+    "zh": "蠑螈",
+    "emoji": "🦎",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22salamander%22%20%28%E8%A0%91%E8%9E%88%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=18469&nologo=true&model=flux"
+  },
+  {
+    "id": 1313,
+    "word": "newt",
+    "zh": "蠑螈",
+    "emoji": "🦎",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22newt%22%20%28%E8%A0%91%E8%9E%88%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=88877&nologo=true&model=flux"
+  },
+  {
+    "id": 1314,
+    "word": "whale shark",
+    "zh": "鯨鯊",
+    "emoji": "🦈",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22whale%20shark%22%20%28%E9%AF%A8%E9%AF%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=274306&nologo=true&model=flux"
+  },
+  {
+    "id": 1315,
+    "word": "orca",
+    "zh": "虎鯨",
+    "emoji": "🐋",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22orca%22%20%28%E8%99%8E%E9%AF%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=439055&nologo=true&model=flux"
+  },
+  {
+    "id": 1316,
+    "word": "manatee",
+    "zh": "海牛",
+    "emoji": "🦭",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22manatee%22%20%28%E6%B5%B7%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=358465&nologo=true&model=flux"
+  },
+  {
+    "id": 1317,
+    "word": "platypus",
+    "zh": "鴨嘴獸",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22platypus%22%20%28%E9%B4%A8%E5%98%B4%E7%8D%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=566116&nologo=true&model=flux"
+  },
+  {
+    "id": 1318,
+    "word": "wombat",
+    "zh": "袋熊",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22wombat%22%20%28%E8%A2%8B%E7%86%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=504357&nologo=true&model=flux"
+  },
+  {
+    "id": 1319,
+    "word": "tasmanian devil",
+    "zh": "袋獾",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tasmanian%20devil%22%20%28%E8%A2%8B%E7%8D%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=740103&nologo=true&model=flux"
+  },
+  {
+    "id": 1320,
+    "word": "yak",
+    "zh": "犛牛",
+    "emoji": "🐂",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22yak%22%20%28%E7%8A%9B%E7%89%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=600558&nologo=true&model=flux"
+  },
+  {
+    "id": 1321,
+    "word": "gazelle",
+    "zh": "瞪羚",
+    "emoji": "🦌",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22gazelle%22%20%28%E7%9E%AA%E7%BE%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=176605&nologo=true&model=flux"
+  },
+  {
+    "id": 1322,
+    "word": "antelope",
+    "zh": "羚羊",
+    "emoji": "🦌",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22antelope%22%20%28%E7%BE%9A%E7%BE%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=460729&nologo=true&model=flux"
+  },
+  {
+    "id": 1323,
+    "word": "ibex",
+    "zh": "野山羊",
+    "emoji": "🐐",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ibex%22%20%28%E9%87%8E%E5%B1%B1%E7%BE%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=943720&nologo=true&model=flux"
+  },
+  {
+    "id": 1324,
+    "word": "chinchilla",
+    "zh": "龍貓",
+    "emoji": "🐭",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22chinchilla%22%20%28%E9%BE%8D%E8%B2%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=337668&nologo=true&model=flux"
+  },
+  {
+    "id": 1325,
+    "word": "ferret",
+    "zh": "雪貂",
+    "emoji": "🐾",
+    "category": "animals",
+    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ferret%22%20%28%E9%9B%AA%E8%B2%82%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=31402&nologo=true&model=flux"
   }
 ];
