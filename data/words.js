@@ -5781,7 +5781,7 @@ window.WORDS = [
     "zh": "時區",
     "emoji": "🕒",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22time%20zone%22%20%28%E6%99%82%E5%8D%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=102116&nologo=true&model=flux"
+    "image": "images/words/723.webp"
   },
   {
     "id": 724,
@@ -5789,7 +5789,7 @@ window.WORDS = [
     "zh": "帳篷",
     "emoji": "⛺",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tent%22%20%28%E5%B8%B3%E7%AF%B7%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=481630&nologo=true&model=flux"
+    "image": "images/words/724.webp"
   },
   {
     "id": 725,
@@ -5797,7 +5797,7 @@ window.WORDS = [
     "zh": "指南針",
     "emoji": "🧭",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22compass%22%20%28%E6%8C%87%E5%8D%97%E9%87%9D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=112736&nologo=true&model=flux"
+    "image": "images/words/725.webp"
   },
   {
     "id": 726,
@@ -5805,7 +5805,7 @@ window.WORDS = [
     "zh": "國家公園",
     "emoji": "🏔️",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22national%20park%22%20%28%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=373969&nologo=true&model=flux"
+    "image": "images/words/726.webp"
   },
   {
     "id": 727,
@@ -5813,7 +5813,7 @@ window.WORDS = [
     "zh": "浮潛",
     "emoji": "🤿",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22snorkeling%22%20%28%E6%B5%AE%E6%BD%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=505424&nologo=true&model=flux"
+    "image": "images/words/727.webp"
   },
   {
     "id": 728,
@@ -5821,7 +5821,7 @@ window.WORDS = [
     "zh": "潛水",
     "emoji": "🤿",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22diving%22%20%28%E6%BD%9B%E6%B0%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=14257&nologo=true&model=flux"
+    "image": "images/words/728.webp"
   },
   {
     "id": 729,
@@ -5829,7 +5829,7 @@ window.WORDS = [
     "zh": "獨木舟",
     "emoji": "🛶",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22kayak%22%20%28%E7%8D%A8%E6%9C%A8%E8%88%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=487355&nologo=true&model=flux"
+    "image": "images/words/729.webp"
   },
   {
     "id": 730,
@@ -5837,7 +5837,7 @@ window.WORDS = [
     "zh": "夜市",
     "emoji": "🏮",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22night%20market%22%20%28%E5%A4%9C%E5%B8%82%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=868202&nologo=true&model=flux"
+    "image": "images/words/730.webp"
   },
   {
     "id": 731,
@@ -5845,7 +5845,7 @@ window.WORDS = [
     "zh": "街頭小吃",
     "emoji": "🌮",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22street%20food%22%20%28%E8%A1%97%E9%A0%AD%E5%B0%8F%E5%90%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=411159&nologo=true&model=flux"
+    "image": "images/words/731.webp"
   },
   {
     "id": 732,
@@ -5853,7 +5853,7 @@ window.WORDS = [
     "zh": "免稅店",
     "emoji": "🛍️",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22duty-free%22%20%28%E5%85%8D%E7%A8%85%E5%BA%97%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=580045&nologo=true&model=flux"
+    "image": "images/words/732.webp"
   },
   {
     "id": 733,
