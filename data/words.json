@@ -3525,7 +3525,7 @@
     "zh": "天氣",
     "emoji": "🌤️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22weather%22%20%28%E5%A4%A9%E6%B0%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=402670&nologo=true&model=flux"
+    "image": "images/words/441.webp"
   },
   {
     "id": 442,
@@ -3533,7 +3533,7 @@
     "zh": "晴朗的",
     "emoji": "☀️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sunny%22%20%28%E6%99%B4%E6%9C%97%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=493759&nologo=true&model=flux"
+    "image": "images/words/442.webp"
   },
   {
     "id": 443,
@@ -3541,7 +3541,7 @@
     "zh": "多雲的",
     "emoji": "⛅",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cloudy%22%20%28%E5%A4%9A%E9%9B%B2%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=616566&nologo=true&model=flux"
+    "image": "images/words/443.webp"
   },
   {
     "id": 444,
@@ -3549,7 +3549,7 @@
     "zh": "下雨的",
     "emoji": "🌧️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rainy%22%20%28%E4%B8%8B%E9%9B%A8%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=789387&nologo=true&model=flux"
+    "image": "images/words/444.webp"
   },
   {
     "id": 445,
@@ -3557,7 +3557,7 @@
     "zh": "下雪的",
     "emoji": "🌨️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22snowy%22%20%28%E4%B8%8B%E9%9B%AA%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=596782&nologo=true&model=flux"
+    "image": "images/words/445.webp"
   },
   {
     "id": 446,
@@ -3565,7 +3565,7 @@
     "zh": "有風的",
     "emoji": "💨",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22windy%22%20%28%E6%9C%89%E9%A2%A8%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=252024&nologo=true&model=flux"
+    "image": "images/words/446.webp"
   },
   {
     "id": 447,
@@ -3573,7 +3573,7 @@
     "zh": "暴風雨的",
     "emoji": "⛈️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22stormy%22%20%28%E6%9A%B4%E9%A2%A8%E9%9B%A8%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=168334&nologo=true&model=flux"
+    "image": "images/words/447.webp"
   },
   {
     "id": 448,
@@ -3581,7 +3581,7 @@
     "zh": "有霧的",
     "emoji": "🌫️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22foggy%22%20%28%E6%9C%89%E9%9C%A7%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=692050&nologo=true&model=flux"
+    "image": "images/words/448.webp"
   },
   {
     "id": 449,
@@ -3589,7 +3589,7 @@
     "zh": "潮濕的",
     "emoji": "💧",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22humid%22%20%28%E6%BD%AE%E6%BF%95%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=492194&nologo=true&model=flux"
+    "image": "images/words/449.webp"
   },
   {
     "id": 450,
@@ -3597,7 +3597,7 @@
     "zh": "乾燥的",
     "emoji": "🏜️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dry%22%20%28%E4%B9%BE%E7%87%A5%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=62623&nologo=true&model=flux"
+    "image": "images/words/450.webp"
   },
   {
     "id": 451,
