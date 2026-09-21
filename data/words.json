@@ -4037,7 +4037,7 @@
     "zh": "健康",
     "emoji": "💚",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22health%22%20%28%E5%81%A5%E5%BA%B7%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=738850&nologo=true&model=flux"
+    "image": "images/words/505.webp"
   },
   {
     "id": 506,
@@ -4045,7 +4045,7 @@
     "zh": "醫生",
     "emoji": "👨‍⚕️",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22doctor%22%20%28%E9%86%AB%E7%94%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=456344&nologo=true&model=flux"
+    "image": "images/words/506.webp"
   },
   {
     "id": 507,
@@ -4053,7 +4053,7 @@
     "zh": "護士",
     "emoji": "👩‍⚕️",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22nurse%22%20%28%E8%AD%B7%E5%A3%AB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=872323&nologo=true&model=flux"
+    "image": "images/words/507.webp"
   },
   {
     "id": 508,
@@ -4061,7 +4061,7 @@
     "zh": "醫院",
     "emoji": "🏥",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hospital%22%20%28%E9%86%AB%E9%99%A2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=165892&nologo=true&model=flux"
+    "image": "images/words/508.webp"
   },
   {
     "id": 509,
@@ -4069,7 +4069,7 @@
     "zh": "診所",
     "emoji": "🏥",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22clinic%22%20%28%E8%A8%BA%E6%89%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=742326&nologo=true&model=flux"
+    "image": "images/words/509.webp"
   },
   {
     "id": 510,
@@ -4077,7 +4077,7 @@
     "zh": "藥局",
     "emoji": "🏥",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pharmacy%22%20%28%E8%97%A5%E5%B1%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=979532&nologo=true&model=flux"
+    "image": "images/words/510.webp"
   },
   {
     "id": 511,
@@ -4085,7 +4085,7 @@
     "zh": "藥物",
     "emoji": "💊",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22medicine%22%20%28%E8%97%A5%E7%89%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=92991&nologo=true&model=flux"
+    "image": "images/words/511.webp"
   },
   {
     "id": 512,
@@ -4093,7 +4093,7 @@
     "zh": "藥丸",
     "emoji": "💊",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pill%22%20%28%E8%97%A5%E4%B8%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=961170&nologo=true&model=flux"
+    "image": "images/words/512.webp"
   },
   {
     "id": 513,
@@ -4101,7 +4101,7 @@
     "zh": "處方箋",
     "emoji": "💊",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22prescription%22%20%28%E8%99%95%E6%96%B9%E7%AE%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=616285&nologo=true&model=flux"
+    "image": "images/words/513.webp"
   },
   {
     "id": 514,
@@ -4109,7 +4109,7 @@
     "zh": "預約",
     "emoji": "🩺",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22appointment%22%20%28%E9%A0%90%E7%B4%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=72878&nologo=true&model=flux"
+    "image": "images/words/514.webp"
   },
   {
     "id": 515,
