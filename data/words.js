@@ -3093,7 +3093,7 @@ window.WORDS = [
     "zh": "時刻表",
     "emoji": "🗓️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22schedule%22%20%28%E6%99%82%E5%88%BB%E8%A1%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=82948&nologo=true&model=flux"
+    "image": "images/words/387.webp"
   },
   {
     "id": 388,
@@ -3101,7 +3101,7 @@ window.WORDS = [
     "zh": "延誤",
     "emoji": "⏳",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22delay%22%20%28%E5%BB%B6%E8%AA%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=745945&nologo=true&model=flux"
+    "image": "images/words/388.webp"
   },
   {
     "id": 389,
@@ -3109,7 +3109,7 @@ window.WORDS = [
     "zh": "出發",
     "emoji": "🛫",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22departure%22%20%28%E5%87%BA%E7%99%BC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=909237&nologo=true&model=flux"
+    "image": "images/words/389.webp"
   },
   {
     "id": 390,
@@ -3117,7 +3117,7 @@ window.WORDS = [
     "zh": "抵達",
     "emoji": "🏁",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22arrival%22%20%28%E6%8A%B5%E9%81%94%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=859461&nologo=true&model=flux"
+    "image": "images/words/390.webp"
   },
   {
     "id": 391,
@@ -3125,7 +3125,7 @@ window.WORDS = [
     "zh": "目的地",
     "emoji": "🎯",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22destination%22%20%28%E7%9B%AE%E7%9A%84%E5%9C%B0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=582103&nologo=true&model=flux"
+    "image": "images/words/391.webp"
   },
   {
     "id": 392,
@@ -3133,7 +3133,7 @@ window.WORDS = [
     "zh": "路線",
     "emoji": "🗺️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22route%22%20%28%E8%B7%AF%E7%B7%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=416724&nologo=true&model=flux"
+    "image": "images/words/392.webp"
   },
   {
     "id": 393,
@@ -3141,7 +3141,7 @@ window.WORDS = [
     "zh": "地圖",
     "emoji": "🗺️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22map%22%20%28%E5%9C%B0%E5%9C%96%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=36003&nologo=true&model=flux"
+    "image": "images/words/393.webp"
   },
   {
     "id": 394,
@@ -3149,7 +3149,7 @@ window.WORDS = [
     "zh": "方向",
     "emoji": "🧭",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22direction%22%20%28%E6%96%B9%E5%90%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=332997&nologo=true&model=flux"
+    "image": "images/words/394.webp"
   },
   {
     "id": 395,
@@ -3157,7 +3157,7 @@ window.WORDS = [
     "zh": "左邊",
     "emoji": "⬅️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22left%22%20%28%E5%B7%A6%E9%82%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=451296&nologo=true&model=flux"
+    "image": "images/words/395.webp"
   },
   {
     "id": 396,
@@ -3165,7 +3165,7 @@ window.WORDS = [
     "zh": "右邊",
     "emoji": "➡️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22right%22%20%28%E5%8F%B3%E9%82%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=408921&nologo=true&model=flux"
+    "image": "images/words/396.webp"
   },
   {
     "id": 397,
