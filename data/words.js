@@ -5093,7 +5093,7 @@ window.WORDS = [
     "zh": "筆電",
     "emoji": "💻",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22laptop%22%20%28%E7%AD%86%E9%9B%BB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=443954&nologo=true&model=flux"
+    "image": "images/words/637.webp"
   },
   {
     "id": 638,
@@ -5101,7 +5101,7 @@ window.WORDS = [
     "zh": "鍵盤",
     "emoji": "⌨️",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22keyboard%22%20%28%E9%8D%B5%E7%9B%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=129791&nologo=true&model=flux"
+    "image": "images/words/638.webp"
   },
   {
     "id": 639,
@@ -5109,7 +5109,7 @@ window.WORDS = [
     "zh": "滑鼠",
     "emoji": "🖱️",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mouse%22%20%28%E6%BB%91%E9%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=213074&nologo=true&model=flux"
+    "image": "images/words/639.webp"
   },
   {
     "id": 640,
@@ -5117,7 +5117,7 @@ window.WORDS = [
     "zh": "螢幕",
     "emoji": "🖥️",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22screen%22%20%28%E8%9E%A2%E5%B9%95%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=778647&nologo=true&model=flux"
+    "image": "images/words/640.webp"
   },
   {
     "id": 641,
@@ -5125,7 +5125,7 @@ window.WORDS = [
     "zh": "印表機",
     "emoji": "🖨️",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22printer%22%20%28%E5%8D%B0%E8%A1%A8%E6%A9%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=478314&nologo=true&model=flux"
+    "image": "images/words/641.webp"
   },
   {
     "id": 642,
@@ -5133,7 +5133,7 @@ window.WORDS = [
     "zh": "文件",
     "emoji": "📄",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22document%22%20%28%E6%96%87%E4%BB%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=574513&nologo=true&model=flux"
+    "image": "images/words/642.webp"
   },
   {
     "id": 643,
@@ -5141,7 +5141,7 @@ window.WORDS = [
     "zh": "資料夾",
     "emoji": "📁",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22folder%22%20%28%E8%B3%87%E6%96%99%E5%A4%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=580014&nologo=true&model=flux"
+    "image": "images/words/643.webp"
   },
   {
     "id": 644,
@@ -5149,7 +5149,7 @@ window.WORDS = [
     "zh": "檔案",
     "emoji": "🗂️",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22file%22%20%28%E6%AA%94%E6%A1%88%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=630154&nologo=true&model=flux"
+    "image": "images/words/644.webp"
   },
   {
     "id": 645,
@@ -5157,7 +5157,7 @@ window.WORDS = [
     "zh": "紙",
     "emoji": "📃",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22paper%22%20%28%E7%B4%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=552118&nologo=true&model=flux"
+    "image": "images/words/645.webp"
   },
   {
     "id": 646,
@@ -5165,7 +5165,7 @@ window.WORDS = [
     "zh": "筆",
     "emoji": "🖊️",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pen%22%20%28%E7%AD%86%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=4782&nologo=true&model=flux"
+    "image": "images/words/646.webp"
   },
   {
     "id": 647,
