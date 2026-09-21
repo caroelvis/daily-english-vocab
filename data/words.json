@@ -6645,7 +6645,7 @@
     "zh": "是",
     "emoji": "👍",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22yes%22%20%28%E6%98%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=678512&nologo=true&model=flux"
+    "image": "images/words/831.webp"
   },
   {
     "id": 832,
@@ -6653,7 +6653,7 @@
     "zh": "否",
     "emoji": "❌",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22no%22%20%28%E5%90%A6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=224304&nologo=true&model=flux"
+    "image": "images/words/832.webp"
   },
   {
     "id": 833,
@@ -6661,7 +6661,7 @@
     "zh": "也許",
     "emoji": "🤔",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22maybe%22%20%28%E4%B9%9F%E8%A8%B1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=140277&nologo=true&model=flux"
+    "image": "images/words/833.webp"
   },
   {
     "id": 834,
@@ -6669,7 +6669,7 @@
     "zh": "愛",
     "emoji": "❤️",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22love%22%20%28%E6%84%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=254554&nologo=true&model=flux"
+    "image": "images/words/834.webp"
   },
   {
     "id": 835,
@@ -6677,7 +6677,7 @@
     "zh": "喜歡",
     "emoji": "👍",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22like%22%20%28%E5%96%9C%E6%AD%A1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=312183&nologo=true&model=flux"
+    "image": "images/words/835.webp"
   },
   {
     "id": 836,
@@ -6685,7 +6685,7 @@
     "zh": "討厭",
     "emoji": "👎",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hate%22%20%28%E8%A8%8E%E5%8E%AD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=69168&nologo=true&model=flux"
+    "image": "images/words/836.webp"
   },
   {
     "id": 837,
@@ -6693,7 +6693,7 @@
     "zh": "開心的",
     "emoji": "😊",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22happy%22%20%28%E9%96%8B%E5%BF%83%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=722583&nologo=true&model=flux"
+    "image": "images/words/837.webp"
   },
   {
     "id": 838,
@@ -6701,7 +6701,7 @@
     "zh": "難過的",
     "emoji": "😢",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sad%22%20%28%E9%9B%A3%E9%81%8E%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=761790&nologo=true&model=flux"
+    "image": "images/words/838.webp"
   },
   {
     "id": 839,
@@ -6709,7 +6709,7 @@
     "zh": "生氣的",
     "emoji": "😠",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22angry%22%20%28%E7%94%9F%E6%B0%A3%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=910284&nologo=true&model=flux"
+    "image": "images/words/839.webp"
   },
   {
     "id": 840,
@@ -6717,7 +6717,7 @@
     "zh": "興奮的",
     "emoji": "🤩",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22excited%22%20%28%E8%88%88%E5%A5%AE%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=402460&nologo=true&model=flux"
+    "image": "images/words/840.webp"
   },
   {
     "id": 841,
