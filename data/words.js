@@ -6325,7 +6325,7 @@ window.WORDS = [
     "zh": "人",
     "emoji": "🧑",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22person%22%20%28%E4%BA%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=26649&nologo=true&model=flux"
+    "image": "images/words/791.webp"
   },
   {
     "id": 792,
@@ -6333,7 +6333,7 @@ window.WORDS = [
     "zh": "人們",
     "emoji": "👥",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22people%22%20%28%E4%BA%BA%E5%80%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=893667&nologo=true&model=flux"
+    "image": "images/words/792.webp"
   },
   {
     "id": 793,
@@ -6341,7 +6341,7 @@ window.WORDS = [
     "zh": "男人",
     "emoji": "👨",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22man%22%20%28%E7%94%B7%E4%BA%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=335420&nologo=true&model=flux"
+    "image": "images/words/793.webp"
   },
   {
     "id": 794,
@@ -6349,7 +6349,7 @@ window.WORDS = [
     "zh": "女人",
     "emoji": "👩",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22woman%22%20%28%E5%A5%B3%E4%BA%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=12813&nologo=true&model=flux"
+    "image": "images/words/794.webp"
   },
   {
     "id": 795,
@@ -6357,7 +6357,7 @@ window.WORDS = [
     "zh": "小孩",
     "emoji": "🧒",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22child%22%20%28%E5%B0%8F%E5%AD%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=960669&nologo=true&model=flux"
+    "image": "images/words/795.webp"
   },
   {
     "id": 796,
@@ -6365,7 +6365,7 @@ window.WORDS = [
     "zh": "男孩",
     "emoji": "👦",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22boy%22%20%28%E7%94%B7%E5%AD%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=443198&nologo=true&model=flux"
+    "image": "images/words/796.webp"
   },
   {
     "id": 797,
@@ -6373,7 +6373,7 @@ window.WORDS = [
     "zh": "女孩",
     "emoji": "👧",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22girl%22%20%28%E5%A5%B3%E5%AD%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=421601&nologo=true&model=flux"
+    "image": "images/words/797.webp"
   },
   {
     "id": 798,
@@ -6381,7 +6381,7 @@ window.WORDS = [
     "zh": "嬰兒",
     "emoji": "👶",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22baby%22%20%28%E5%AC%B0%E5%85%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=973527&nologo=true&model=flux"
+    "image": "images/words/798.webp"
   },
   {
     "id": 799,
@@ -6389,7 +6389,7 @@ window.WORDS = [
     "zh": "大人",
     "emoji": "🧑",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22adult%22%20%28%E5%A4%A7%E4%BA%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=848917&nologo=true&model=flux"
+    "image": "images/words/799.webp"
   },
   {
     "id": 800,
@@ -6397,7 +6397,7 @@ window.WORDS = [
     "zh": "家人",
     "emoji": "👨‍👩‍👧‍👦",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22family%22%20%28%E5%AE%B6%E4%BA%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=558544&nologo=true&model=flux"
+    "image": "images/words/800.webp"
   },
   {
     "id": 801,
