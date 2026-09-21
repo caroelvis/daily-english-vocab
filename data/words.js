@@ -7197,7 +7197,7 @@ window.WORDS = [
     "zh": "重的",
     "emoji": "🏋️",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22heavy%22%20%28%E9%87%8D%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=716598&nologo=true&model=flux"
+    "image": "images/words/900.webp"
   },
   {
     "id": 901,
@@ -7205,7 +7205,7 @@ window.WORDS = [
     "zh": "快的",
     "emoji": "💨",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fast%22%20%28%E5%BF%AB%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=280111&nologo=true&model=flux"
+    "image": "images/words/901.webp"
   },
   {
     "id": 902,
@@ -7213,7 +7213,7 @@ window.WORDS = [
     "zh": "慢的",
     "emoji": "🐌",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22slow%22%20%28%E6%85%A2%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=27663&nologo=true&model=flux"
+    "image": "images/words/902.webp"
   },
   {
     "id": 903,
@@ -7221,7 +7221,7 @@ window.WORDS = [
     "zh": "新的",
     "emoji": "🆕",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22new%22%20%28%E6%96%B0%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=855403&nologo=true&model=flux"
+    "image": "images/words/903.webp"
   },
   {
     "id": 904,
@@ -7229,7 +7229,7 @@ window.WORDS = [
     "zh": "舊的",
     "emoji": "🧓",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22old%22%20%28%E8%88%8A%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=518652&nologo=true&model=flux"
+    "image": "images/words/904.webp"
   },
   {
     "id": 905,
@@ -7237,7 +7237,7 @@ window.WORDS = [
     "zh": "年輕的",
     "emoji": "👶",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22young%22%20%28%E5%B9%B4%E8%BC%95%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=928280&nologo=true&model=flux"
+    "image": "images/words/905.webp"
   },
   {
     "id": 906,
@@ -7245,7 +7245,7 @@ window.WORDS = [
     "zh": "好的",
     "emoji": "👍",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22good%22%20%28%E5%A5%BD%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=125890&nologo=true&model=flux"
+    "image": "images/words/906.webp"
   },
   {
     "id": 907,
@@ -7253,7 +7253,7 @@ window.WORDS = [
     "zh": "壞的",
     "emoji": "👎",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bad%22%20%28%E5%A3%9E%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=328233&nologo=true&model=flux"
+    "image": "images/words/907.webp"
   },
   {
     "id": 908,
@@ -7261,7 +7261,7 @@ window.WORDS = [
     "zh": "美麗的",
     "emoji": "✨",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22beautiful%22%20%28%E7%BE%8E%E9%BA%97%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=212671&nologo=true&model=flux"
+    "image": "images/words/908.webp"
   },
   {
     "id": 909,
@@ -7269,7 +7269,7 @@ window.WORDS = [
     "zh": "簡單的",
     "emoji": "😌",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22easy%22%20%28%E7%B0%A1%E5%96%AE%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=928980&nologo=true&model=flux"
+    "image": "images/words/909.webp"
   },
   {
     "id": 910,
