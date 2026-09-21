@@ -6725,7 +6725,7 @@ window.WORDS = [
     "zh": "緊張的",
     "emoji": "😬",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22nervous%22%20%28%E7%B7%8A%E5%BC%B5%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=343651&nologo=true&model=flux"
+    "image": "images/words/841.webp"
   },
   {
     "id": 842,
@@ -6733,7 +6733,7 @@ window.WORDS = [
     "zh": "驚訝的",
     "emoji": "😲",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22surprised%22%20%28%E9%A9%9A%E8%A8%9D%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=313215&nologo=true&model=flux"
+    "image": "images/words/842.webp"
   },
   {
     "id": 843,
@@ -6741,7 +6741,7 @@ window.WORDS = [
     "zh": "無聊的",
     "emoji": "😑",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bored%22%20%28%E7%84%A1%E8%81%8A%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=219866&nologo=true&model=flux"
+    "image": "images/words/843.webp"
   },
   {
     "id": 844,
@@ -6749,7 +6749,7 @@ window.WORDS = [
     "zh": "親切的",
     "emoji": "🤗",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22kind%22%20%28%E8%A6%AA%E5%88%87%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=466495&nologo=true&model=flux"
+    "image": "images/words/844.webp"
   },
   {
     "id": 845,
@@ -6757,7 +6757,7 @@ window.WORDS = [
     "zh": "友善的",
     "emoji": "🤝",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22friendly%22%20%28%E5%8F%8B%E5%96%84%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=517088&nologo=true&model=flux"
+    "image": "images/words/845.webp"
   },
   {
     "id": 846,
@@ -6765,7 +6765,7 @@ window.WORDS = [
     "zh": "有禮貌的",
     "emoji": "🙇",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22polite%22%20%28%E6%9C%89%E7%A6%AE%E8%B2%8C%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=840611&nologo=true&model=flux"
+    "image": "images/words/846.webp"
   },
   {
     "id": 847,
@@ -6773,7 +6773,7 @@ window.WORDS = [
     "zh": "誠實的",
     "emoji": "💯",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22honest%22%20%28%E8%AA%A0%E5%AF%A6%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=152710&nologo=true&model=flux"
+    "image": "images/words/847.webp"
   },
   {
     "id": 848,
@@ -6781,7 +6781,7 @@ window.WORDS = [
     "zh": "好笑的",
     "emoji": "😂",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22funny%22%20%28%E5%A5%BD%E7%AC%91%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=325912&nologo=true&model=flux"
+    "image": "images/words/848.webp"
   },
   {
     "id": 849,
@@ -6789,7 +6789,7 @@ window.WORDS = [
     "zh": "聰明的",
     "emoji": "🧠",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22smart%22%20%28%E8%81%B0%E6%98%8E%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=747114&nologo=true&model=flux"
+    "image": "images/words/849.webp"
   },
   {
     "id": 850,
@@ -6797,7 +6797,7 @@ window.WORDS = [
     "zh": "害羞的",
     "emoji": "🙈",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22shy%22%20%28%E5%AE%B3%E7%BE%9E%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=181958&nologo=true&model=flux"
+    "image": "images/words/850.webp"
   },
   {
     "id": 851,
