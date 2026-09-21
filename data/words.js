@@ -7037,7 +7037,7 @@ window.WORDS = [
     "zh": "金色",
     "emoji": "🥇",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22gold%22%20%28%E9%87%91%E8%89%B2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=411943&nologo=true&model=flux"
+    "image": "images/words/880.webp"
   },
   {
     "id": 881,
@@ -7045,7 +7045,7 @@ window.WORDS = [
     "zh": "銀色",
     "emoji": "🥈",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22silver%22%20%28%E9%8A%80%E8%89%B2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=541338&nologo=true&model=flux"
+    "image": "images/words/881.webp"
   },
   {
     "id": 882,
@@ -7053,7 +7053,7 @@ window.WORDS = [
     "zh": "一",
     "emoji": "1️⃣",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22one%22%20%28%E4%B8%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=634162&nologo=true&model=flux"
+    "image": "images/words/882.webp"
   },
   {
     "id": 883,
@@ -7061,7 +7061,7 @@ window.WORDS = [
     "zh": "二",
     "emoji": "2️⃣",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22two%22%20%28%E4%BA%8C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=360365&nologo=true&model=flux"
+    "image": "images/words/883.webp"
   },
   {
     "id": 884,
@@ -7069,7 +7069,7 @@ window.WORDS = [
     "zh": "三",
     "emoji": "3️⃣",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22three%22%20%28%E4%B8%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=558719&nologo=true&model=flux"
+    "image": "images/words/884.webp"
   },
   {
     "id": 885,
@@ -7077,7 +7077,7 @@ window.WORDS = [
     "zh": "四",
     "emoji": "4️⃣",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22four%22%20%28%E5%9B%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=332451&nologo=true&model=flux"
+    "image": "images/words/885.webp"
   },
   {
     "id": 886,
@@ -7085,7 +7085,7 @@ window.WORDS = [
     "zh": "五",
     "emoji": "5️⃣",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22five%22%20%28%E4%BA%94%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=59808&nologo=true&model=flux"
+    "image": "images/words/886.webp"
   },
   {
     "id": 887,
@@ -7093,7 +7093,7 @@ window.WORDS = [
     "zh": "六",
     "emoji": "6️⃣",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22six%22%20%28%E5%85%AD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=621149&nologo=true&model=flux"
+    "image": "images/words/887.webp"
   },
   {
     "id": 888,
@@ -7101,7 +7101,7 @@ window.WORDS = [
     "zh": "七",
     "emoji": "7️⃣",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22seven%22%20%28%E4%B8%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=83796&nologo=true&model=flux"
+    "image": "images/words/888.webp"
   },
   {
     "id": 889,
@@ -7109,7 +7109,7 @@ window.WORDS = [
     "zh": "八",
     "emoji": "8️⃣",
     "category": "basics",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22eight%22%20%28%E5%85%AB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=899316&nologo=true&model=flux"
+    "image": "images/words/889.webp"
   },
   {
     "id": 890,
