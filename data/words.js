@@ -5701,7 +5701,7 @@ window.WORDS = [
     "zh": "文化",
     "emoji": "🎎",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22culture%22%20%28%E6%96%87%E5%8C%96%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=959982&nologo=true&model=flux"
+    "image": "images/words/713.webp"
   },
   {
     "id": 714,
@@ -5709,7 +5709,7 @@ window.WORDS = [
     "zh": "語言",
     "emoji": "🗣️",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22language%22%20%28%E8%AA%9E%E8%A8%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=587367&nologo=true&model=flux"
+    "image": "images/words/714.webp"
   },
   {
     "id": 715,
@@ -5717,7 +5717,7 @@ window.WORDS = [
     "zh": "翻譯",
     "emoji": "🔤",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22translate%22%20%28%E7%BF%BB%E8%AD%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=877999&nologo=true&model=flux"
+    "image": "images/words/715.webp"
   },
   {
     "id": 716,
@@ -5725,7 +5725,7 @@ window.WORDS = [
     "zh": "迷路的",
     "emoji": "😕",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lost%22%20%28%E8%BF%B7%E8%B7%AF%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=905609&nologo=true&model=flux"
+    "image": "images/words/716.webp"
   },
   {
     "id": 717,
@@ -5733,7 +5733,7 @@ window.WORDS = [
     "zh": "幫助",
     "emoji": "🆘",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22help%22%20%28%E5%B9%AB%E5%8A%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=133295&nologo=true&model=flux"
+    "image": "images/words/717.webp"
   },
   {
     "id": 718,
@@ -5741,7 +5741,7 @@ window.WORDS = [
     "zh": "轉機停留",
     "emoji": "✈️",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22layover%22%20%28%E8%BD%89%E6%A9%9F%E5%81%9C%E7%95%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=79887&nologo=true&model=flux"
+    "image": "images/words/718.webp"
   },
   {
     "id": 719,
@@ -5749,7 +5749,7 @@ window.WORDS = [
     "zh": "登機",
     "emoji": "✈️",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22boarding%22%20%28%E7%99%BB%E6%A9%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=295938&nologo=true&model=flux"
+    "image": "images/words/719.webp"
   },
   {
     "id": 720,
@@ -5757,7 +5757,7 @@ window.WORDS = [
     "zh": "起飛",
     "emoji": "🛫",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22takeoff%22%20%28%E8%B5%B7%E9%A3%9B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=164869&nologo=true&model=flux"
+    "image": "images/words/720.webp"
   },
   {
     "id": 721,
@@ -5765,7 +5765,7 @@ window.WORDS = [
     "zh": "降落",
     "emoji": "🛬",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22landing%22%20%28%E9%99%8D%E8%90%BD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=41193&nologo=true&model=flux"
+    "image": "images/words/721.webp"
   },
   {
     "id": 722,
@@ -5773,7 +5773,7 @@ window.WORDS = [
     "zh": "時差",
     "emoji": "😴",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22jet%20lag%22%20%28%E6%99%82%E5%B7%AE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=306452&nologo=true&model=flux"
+    "image": "images/words/722.webp"
   },
   {
     "id": 723,
