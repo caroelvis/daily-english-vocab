@@ -5013,7 +5013,7 @@ window.WORDS = [
     "zh": "加班",
     "emoji": "🌃",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22overtime%22%20%28%E5%8A%A0%E7%8F%AD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=784080&nologo=true&model=flux"
+    "image": "images/words/627.webp"
   },
   {
     "id": 628,
@@ -5021,7 +5021,7 @@ window.WORDS = [
     "zh": "休息時間",
     "emoji": "⏸️",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22break%22%20%28%E4%BC%91%E6%81%AF%E6%99%82%E9%96%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=170290&nologo=true&model=flux"
+    "image": "images/words/628.webp"
   },
   {
     "id": 629,
@@ -5029,7 +5029,7 @@ window.WORDS = [
     "zh": "假期",
     "emoji": "🐱",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22vacation%22%20%28%E5%81%87%E6%9C%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=855653&nologo=true&model=flux"
+    "image": "images/words/629.webp"
   },
   {
     "id": 630,
@@ -5037,7 +5037,7 @@ window.WORDS = [
     "zh": "病假",
     "emoji": "🏥",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sick%20leave%22%20%28%E7%97%85%E5%81%87%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=983612&nologo=true&model=flux"
+    "image": "images/words/630.webp"
   },
   {
     "id": 631,
@@ -5045,7 +5045,7 @@ window.WORDS = [
     "zh": "遠距工作",
     "emoji": "🏠",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22remote%20work%22%20%28%E9%81%A0%E8%B7%9D%E5%B7%A5%E4%BD%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=396091&nologo=true&model=flux"
+    "image": "images/words/631.webp"
   },
   {
     "id": 632,
@@ -5053,7 +5053,7 @@ window.WORDS = [
     "zh": "退休",
     "emoji": "👴",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22retire%22%20%28%E9%80%80%E4%BC%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=717234&nologo=true&model=flux"
+    "image": "images/words/632.webp"
   },
   {
     "id": 633,
@@ -5061,7 +5061,7 @@ window.WORDS = [
     "zh": "雇用",
     "emoji": "📝",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hire%22%20%28%E9%9B%87%E7%94%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=55833&nologo=true&model=flux"
+    "image": "images/words/633.webp"
   },
   {
     "id": 634,
@@ -5069,7 +5069,7 @@ window.WORDS = [
     "zh": "辭職",
     "emoji": "🏃",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22quit%22%20%28%E8%BE%AD%E8%81%B7%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=169313&nologo=true&model=flux"
+    "image": "images/words/634.webp"
   },
   {
     "id": 635,
@@ -5077,7 +5077,7 @@ window.WORDS = [
     "zh": "申請",
     "emoji": "📨",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22apply%22%20%28%E7%94%B3%E8%AB%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=29191&nologo=true&model=flux"
+    "image": "images/words/635.webp"
   },
   {
     "id": 636,
@@ -5085,7 +5085,7 @@ window.WORDS = [
     "zh": "電腦",
     "emoji": "🖥️",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22computer%22%20%28%E9%9B%BB%E8%85%A6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=631043&nologo=true&model=flux"
+    "image": "images/words/636.webp"
   },
   {
     "id": 637,
