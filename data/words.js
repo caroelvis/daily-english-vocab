@@ -6885,7 +6885,7 @@ window.WORDS = [
     "zh": "哭",
     "emoji": "😢",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cry%22%20%28%E5%93%AD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=533014&nologo=true&model=flux"
+    "image": "images/words/861.webp"
   },
   {
     "id": 862,
@@ -6893,7 +6893,7 @@ window.WORDS = [
     "zh": "承諾",
     "emoji": "🤞",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22promise%22%20%28%E6%89%BF%E8%AB%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=846624&nologo=true&model=flux"
+    "image": "images/words/862.webp"
   },
   {
     "id": 863,
@@ -6901,7 +6901,7 @@ window.WORDS = [
     "zh": "信任",
     "emoji": "🤞",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22trust%22%20%28%E4%BF%A1%E4%BB%BB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=776565&nologo=true&model=flux"
+    "image": "images/words/863.webp"
   },
   {
     "id": 864,
@@ -6909,7 +6909,7 @@ window.WORDS = [
     "zh": "尊重",
     "emoji": "🙇",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22respect%22%20%28%E5%B0%8A%E9%87%8D%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=406478&nologo=true&model=flux"
+    "image": "images/words/864.webp"
   },
   {
     "id": 865,
@@ -6917,7 +6917,7 @@ window.WORDS = [
     "zh": "驕傲的",
     "emoji": "🦁",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22proud%22%20%28%E9%A9%95%E5%82%B2%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=499498&nologo=true&model=flux"
+    "image": "images/words/865.webp"
   },
   {
     "id": 866,
@@ -6925,7 +6925,7 @@ window.WORDS = [
     "zh": "感恩的",
     "emoji": "🙏",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22grateful%22%20%28%E6%84%9F%E6%81%A9%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=93793&nologo=true&model=flux"
+    "image": "images/words/866.webp"
   },
   {
     "id": 867,
@@ -6933,7 +6933,7 @@ window.WORDS = [
     "zh": "孤單的",
     "emoji": "🌑",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lonely%22%20%28%E5%AD%A4%E5%96%AE%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=675066&nologo=true&model=flux"
+    "image": "images/words/867.webp"
   },
   {
     "id": 868,
@@ -6941,7 +6941,7 @@ window.WORDS = [
     "zh": "好奇的",
     "emoji": "🧐",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22curious%22%20%28%E5%A5%BD%E5%A5%87%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=328078&nologo=true&model=flux"
+    "image": "images/words/868.webp"
   },
   {
     "id": 869,
@@ -6949,7 +6949,7 @@ window.WORDS = [
     "zh": "困惑的",
     "emoji": "😕",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22confused%22%20%28%E5%9B%B0%E6%83%91%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=686565&nologo=true&model=flux"
+    "image": "images/words/869.webp"
   },
   {
     "id": 870,
