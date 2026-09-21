@@ -485,7 +485,7 @@ window.VOCAB_WORDS = [
     "zh": "水槽",
     "emoji": "🚰",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sink%22%20%28%E6%B0%B4%E6%A7%BD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=893555&nologo=true&model=flux"
+    "image": "images/words/61.webp"
   },
   {
     "id": 62,
@@ -493,7 +493,7 @@ window.VOCAB_WORDS = [
     "zh": "水龍頭",
     "emoji": "🚰",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22faucet%22%20%28%E6%B0%B4%E9%BE%8D%E9%A0%AD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=108090&nologo=true&model=flux"
+    "image": "images/words/62.webp"
   },
   {
     "id": 63,
@@ -501,7 +501,7 @@ window.VOCAB_WORDS = [
     "zh": "淋浴",
     "emoji": "🚿",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22shower%22%20%28%E6%B7%8B%E6%B5%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=181702&nologo=true&model=flux"
+    "image": "images/words/63.webp"
   },
   {
     "id": 64,
@@ -509,7 +509,7 @@ window.VOCAB_WORDS = [
     "zh": "浴缸",
     "emoji": "🛁",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bathtub%22%20%28%E6%B5%B4%E7%BC%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=165450&nologo=true&model=flux"
+    "image": "images/words/64.webp"
   },
   {
     "id": 65,
@@ -517,7 +517,7 @@ window.VOCAB_WORDS = [
     "zh": "毛巾",
     "emoji": "🛁",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22towel%22%20%28%E6%AF%9B%E5%B7%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=112372&nologo=true&model=flux"
+    "image": "images/words/65.webp"
   },
   {
     "id": 66,
@@ -525,7 +525,7 @@ window.VOCAB_WORDS = [
     "zh": "肥皂",
     "emoji": "🧼",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22soap%22%20%28%E8%82%A5%E7%9A%82%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=981291&nologo=true&model=flux"
+    "image": "images/words/66.webp"
   },
   {
     "id": 67,
@@ -533,7 +533,7 @@ window.VOCAB_WORDS = [
     "zh": "洗髮精",
     "emoji": "🧴",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22shampoo%22%20%28%E6%B4%97%E9%AB%AE%E7%B2%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=843111&nologo=true&model=flux"
+    "image": "images/words/67.webp"
   },
   {
     "id": 68,
@@ -541,7 +541,7 @@ window.VOCAB_WORDS = [
     "zh": "牙刷",
     "emoji": "🪥",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22toothbrush%22%20%28%E7%89%99%E5%88%B7%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=558506&nologo=true&model=flux"
+    "image": "images/words/68.webp"
   },
   {
     "id": 69,
@@ -549,7 +549,7 @@ window.VOCAB_WORDS = [
     "zh": "牙膏",
     "emoji": "🪥",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22toothpaste%22%20%28%E7%89%99%E8%86%8F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=498367&nologo=true&model=flux"
+    "image": "images/words/69.webp"
   },
   {
     "id": 70,
@@ -557,7 +557,7 @@ window.VOCAB_WORDS = [
     "zh": "梳子",
     "emoji": "💇",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22comb%22%20%28%E6%A2%B3%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=294515&nologo=true&model=flux"
+    "image": "images/words/70.webp"
   },
   {
     "id": 71,
