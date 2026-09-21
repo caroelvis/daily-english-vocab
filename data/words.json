@@ -3173,7 +3173,7 @@
     "zh": "直行",
     "emoji": "⬆️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22straight%22%20%28%E7%9B%B4%E8%A1%8C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=565341&nologo=true&model=flux"
+    "image": "images/words/397.webp"
   },
   {
     "id": 398,
@@ -3181,7 +3181,7 @@
     "zh": "轉彎",
     "emoji": "↩️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22turn%22%20%28%E8%BD%89%E5%BD%8E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=342796&nologo=true&model=flux"
+    "image": "images/words/398.webp"
   },
   {
     "id": 399,
@@ -3189,7 +3189,7 @@
     "zh": "交叉路口",
     "emoji": "✖️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22intersection%22%20%28%E4%BA%A4%E5%8F%89%E8%B7%AF%E5%8F%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=192015&nologo=true&model=flux"
+    "image": "images/words/399.webp"
   },
   {
     "id": 400,
@@ -3197,7 +3197,7 @@
     "zh": "紅綠燈",
     "emoji": "💡",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22traffic%20light%22%20%28%E7%B4%85%E7%B6%A0%E7%87%88%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=75863&nologo=true&model=flux"
+    "image": "images/words/400.webp"
   },
   {
     "id": 401,
@@ -3205,7 +3205,7 @@
     "zh": "斑馬線",
     "emoji": "🚸",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22crosswalk%22%20%28%E6%96%91%E9%A6%AC%E7%B7%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=640490&nologo=true&model=flux"
+    "image": "images/words/401.webp"
   },
   {
     "id": 402,
@@ -3213,7 +3213,7 @@
     "zh": "人行道",
     "emoji": "🛤️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sidewalk%22%20%28%E4%BA%BA%E8%A1%8C%E9%81%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=545722&nologo=true&model=flux"
+    "image": "images/words/402.webp"
   },
   {
     "id": 403,
@@ -3221,7 +3221,7 @@
     "zh": "道路",
     "emoji": "🛣️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22road%22%20%28%E9%81%93%E8%B7%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=263533&nologo=true&model=flux"
+    "image": "images/words/403.webp"
   },
   {
     "id": 404,
@@ -3229,7 +3229,7 @@
     "zh": "高速公路",
     "emoji": "🛣️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22highway%22%20%28%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=903163&nologo=true&model=flux"
+    "image": "images/words/404.webp"
   },
   {
     "id": 405,
@@ -3237,7 +3237,7 @@
     "zh": "橋",
     "emoji": "🌉",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bridge%22%20%28%E6%A9%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=797638&nologo=true&model=flux"
+    "image": "images/words/405.webp"
   },
   {
     "id": 406,
@@ -3245,7 +3245,7 @@
     "zh": "隧道",
     "emoji": "🕳️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tunnel%22%20%28%E9%9A%A7%E9%81%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=984787&nologo=true&model=flux"
+    "image": "images/words/406.webp"
   },
   {
     "id": 407,
