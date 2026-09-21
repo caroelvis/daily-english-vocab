@@ -3493,7 +3493,7 @@ window.WORDS = [
     "zh": "車牌",
     "emoji": "🔢",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22license%20plate%22%20%28%E8%BB%8A%E7%89%8C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=84720&nologo=true&model=flux"
+    "image": "images/words/437.webp"
   },
   {
     "id": 438,
@@ -3501,7 +3501,7 @@ window.WORDS = [
     "zh": "方向盤",
     "emoji": "🎡",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22steering%20wheel%22%20%28%E6%96%B9%E5%90%91%E7%9B%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=124533&nologo=true&model=flux"
+    "image": "images/words/438.webp"
   },
   {
     "id": 439,
@@ -3509,7 +3509,7 @@ window.WORDS = [
     "zh": "引擎",
     "emoji": "⚙️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22engine%22%20%28%E5%BC%95%E6%93%8E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=744980&nologo=true&model=flux"
+    "image": "images/words/439.webp"
   },
   {
     "id": 440,
@@ -3517,7 +3517,7 @@ window.WORDS = [
     "zh": "煞車",
     "emoji": "🛑",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22brake%22%20%28%E7%85%9E%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=898810&nologo=true&model=flux"
+    "image": "images/words/440.webp"
   },
   {
     "id": 441,
