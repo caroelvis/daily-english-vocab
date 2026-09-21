@@ -2933,7 +2933,7 @@
     "zh": "汽車",
     "emoji": "🚗",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22car%22%20%28%E6%B1%BD%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=210154&nologo=true&model=flux"
+    "image": "images/words/367.webp"
   },
   {
     "id": 368,
@@ -2941,7 +2941,7 @@
     "zh": "公車",
     "emoji": "🚌",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bus%22%20%28%E5%85%AC%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=423629&nologo=true&model=flux"
+    "image": "images/words/368.webp"
   },
   {
     "id": 369,
@@ -2949,7 +2949,7 @@
     "zh": "火車",
     "emoji": "🚆",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22train%22%20%28%E7%81%AB%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=860250&nologo=true&model=flux"
+    "image": "images/words/369.webp"
   },
   {
     "id": 370,
@@ -2957,7 +2957,7 @@
     "zh": "捷運",
     "emoji": "🚇",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22subway%22%20%28%E6%8D%B7%E9%81%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=896324&nologo=true&model=flux"
+    "image": "images/words/370.webp"
   },
   {
     "id": 371,
@@ -2965,7 +2965,7 @@
     "zh": "計程車",
     "emoji": "🚕",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22taxi%22%20%28%E8%A8%88%E7%A8%8B%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=67997&nologo=true&model=flux"
+    "image": "images/words/371.webp"
   },
   {
     "id": 372,
@@ -2973,7 +2973,7 @@
     "zh": "腳踏車",
     "emoji": "🚲",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bike%22%20%28%E8%85%B3%E8%B8%8F%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=173765&nologo=true&model=flux"
+    "image": "images/words/372.webp"
   },
   {
     "id": 373,
@@ -2981,7 +2981,7 @@
     "zh": "機車",
     "emoji": "🏍️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22motorcycle%22%20%28%E6%A9%9F%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=588848&nologo=true&model=flux"
+    "image": "images/words/373.webp"
   },
   {
     "id": 374,
@@ -2989,7 +2989,7 @@
     "zh": "速克達",
     "emoji": "🛵",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22scooter%22%20%28%E9%80%9F%E5%85%8B%E9%81%94%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=984131&nologo=true&model=flux"
+    "image": "images/words/374.webp"
   },
   {
     "id": 375,
@@ -2997,7 +2997,7 @@
     "zh": "卡車",
     "emoji": "🚚",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22truck%22%20%28%E5%8D%A1%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=210450&nologo=true&model=flux"
+    "image": "images/words/375.webp"
   },
   {
     "id": 376,
@@ -3005,7 +3005,7 @@
     "zh": "飛機",
     "emoji": "✈️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22airplane%22%20%28%E9%A3%9B%E6%A9%9F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=794407&nologo=true&model=flux"
+    "image": "images/words/376.webp"
   },
   {
     "id": 377,
