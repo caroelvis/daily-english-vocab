@@ -3413,7 +3413,7 @@ window.WORDS = [
     "zh": "簽證",
     "emoji": "🛂",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22visa%22%20%28%E7%B0%BD%E8%AD%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=239954&nologo=true&model=flux"
+    "image": "images/words/427.webp"
   },
   {
     "id": 428,
@@ -3421,7 +3421,7 @@ window.WORDS = [
     "zh": "海關",
     "emoji": "🛃",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22customs%22%20%28%E6%B5%B7%E9%97%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=357812&nologo=true&model=flux"
+    "image": "images/words/428.webp"
   },
   {
     "id": 429,
@@ -3429,7 +3429,7 @@ window.WORDS = [
     "zh": "登機證",
     "emoji": "🎫",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22boarding%20pass%22%20%28%E7%99%BB%E6%A9%9F%E8%AD%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=807434&nologo=true&model=flux"
+    "image": "images/words/429.webp"
   },
   {
     "id": 430,
@@ -3437,7 +3437,7 @@ window.WORDS = [
     "zh": "登機門",
     "emoji": "🛂",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22gate%22%20%28%E7%99%BB%E6%A9%9F%E9%96%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=907068&nologo=true&model=flux"
+    "image": "images/words/430.webp"
   },
   {
     "id": 431,
@@ -3445,7 +3445,7 @@ window.WORDS = [
     "zh": "行李提領",
     "emoji": "🛄",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22baggage%20claim%22%20%28%E8%A1%8C%E6%9D%8E%E6%8F%90%E9%A0%98%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=871974&nologo=true&model=flux"
+    "image": "images/words/431.webp"
   },
   {
     "id": 432,
@@ -3453,7 +3453,7 @@ window.WORDS = [
     "zh": "高鐵",
     "emoji": "🚅",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bullet%20train%22%20%28%E9%AB%98%E9%90%B5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=827744&nologo=true&model=flux"
+    "image": "images/words/432.webp"
   },
   {
     "id": 433,
@@ -3461,7 +3461,7 @@ window.WORDS = [
     "zh": "過路費",
     "emoji": "🛣️",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22toll%22%20%28%E9%81%8E%E8%B7%AF%E8%B2%BB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=970123&nologo=true&model=flux"
+    "image": "images/words/433.webp"
   },
   {
     "id": 434,
@@ -3469,7 +3469,7 @@ window.WORDS = [
     "zh": "速限",
     "emoji": "🚦",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22speed%20limit%22%20%28%E9%80%9F%E9%99%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=610194&nologo=true&model=flux"
+    "image": "images/words/434.webp"
   },
   {
     "id": 435,
@@ -3477,7 +3477,7 @@ window.WORDS = [
     "zh": "爆胎",
     "emoji": "🛞",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22flat%20tire%22%20%28%E7%88%86%E8%83%8E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=759275&nologo=true&model=flux"
+    "image": "images/words/435.webp"
   },
   {
     "id": 436,
@@ -3485,7 +3485,7 @@ window.WORDS = [
     "zh": "技師",
     "emoji": "🔧",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22mechanic%22%20%28%E6%8A%80%E5%B8%AB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=182515&nologo=true&model=flux"
+    "image": "images/words/436.webp"
   },
   {
     "id": 437,
