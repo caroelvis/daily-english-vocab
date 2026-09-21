@@ -6805,7 +6805,7 @@ window.WORDS = [
     "zh": "有自信的",
     "emoji": "😎",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22confident%22%20%28%E6%9C%89%E8%87%AA%E4%BF%A1%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=625439&nologo=true&model=flux"
+    "image": "images/words/851.webp"
   },
   {
     "id": 852,
@@ -6813,7 +6813,7 @@ window.WORDS = [
     "zh": "室友",
     "emoji": "🛏️",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22roommate%22%20%28%E5%AE%A4%E5%8F%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=664174&nologo=true&model=flux"
+    "image": "images/words/852.webp"
   },
   {
     "id": 853,
@@ -6821,7 +6821,7 @@ window.WORDS = [
     "zh": "同學",
     "emoji": "🧑‍🎓",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22classmate%22%20%28%E5%90%8C%E5%AD%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=892314&nologo=true&model=flux"
+    "image": "images/words/853.webp"
   },
   {
     "id": 854,
@@ -6829,7 +6829,7 @@ window.WORDS = [
     "zh": "夥伴",
     "emoji": "💑",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22partner%22%20%28%E5%A4%A5%E4%BC%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=893325&nologo=true&model=flux"
+    "image": "images/words/854.webp"
   },
   {
     "id": 855,
@@ -6837,7 +6837,7 @@ window.WORDS = [
     "zh": "姪子",
     "emoji": "👦",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22nephew%22%20%28%E5%A7%AA%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=664260&nologo=true&model=flux"
+    "image": "images/words/855.webp"
   },
   {
     "id": 856,
@@ -6845,7 +6845,7 @@ window.WORDS = [
     "zh": "姪女",
     "emoji": "👧",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22niece%22%20%28%E5%A7%AA%E5%A5%B3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=563131&nologo=true&model=flux"
+    "image": "images/words/856.webp"
   },
   {
     "id": 857,
@@ -6853,7 +6853,7 @@ window.WORDS = [
     "zh": "志工",
     "emoji": "🤲",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22volunteer%22%20%28%E5%BF%97%E5%B7%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=603200&nologo=true&model=flux"
+    "image": "images/words/857.webp"
   },
   {
     "id": 858,
@@ -6861,7 +6861,7 @@ window.WORDS = [
     "zh": "社區",
     "emoji": "🏘️",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22community%22%20%28%E7%A4%BE%E5%8D%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=285397&nologo=true&model=flux"
+    "image": "images/words/858.webp"
   },
   {
     "id": 859,
@@ -6869,7 +6869,7 @@ window.WORDS = [
     "zh": "微笑",
     "emoji": "😁",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22smile%22%20%28%E5%BE%AE%E7%AC%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=877633&nologo=true&model=flux"
+    "image": "images/words/859.webp"
   },
   {
     "id": 860,
@@ -6877,7 +6877,7 @@ window.WORDS = [
     "zh": "笑",
     "emoji": "😂",
     "category": "people",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22laugh%22%20%28%E7%AC%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=83842&nologo=true&model=flux"
+    "image": "images/words/860.webp"
   },
   {
     "id": 861,
