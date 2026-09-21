@@ -3333,7 +3333,7 @@
     "zh": "走路",
     "emoji": "🚶",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22walk%22%20%28%E8%B5%B0%E8%B7%AF%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=786660&nologo=true&model=flux"
+    "image": "images/words/417.webp"
   },
   {
     "id": 418,
@@ -3341,7 +3341,7 @@
     "zh": "開車",
     "emoji": "🚘",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22drive%22%20%28%E9%96%8B%E8%BB%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=175395&nologo=true&model=flux"
+    "image": "images/words/418.webp"
   },
   {
     "id": 419,
@@ -3349,7 +3349,7 @@
     "zh": "搭乘",
     "emoji": "🎢",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22ride%22%20%28%E6%90%AD%E4%B9%98%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=640309&nologo=true&model=flux"
+    "image": "images/words/419.webp"
   },
   {
     "id": 420,
@@ -3357,7 +3357,7 @@
     "zh": "轉乘",
     "emoji": "🔀",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22transfer%22%20%28%E8%BD%89%E4%B9%98%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=266592&nologo=true&model=flux"
+    "image": "images/words/420.webp"
   },
   {
     "id": 421,
@@ -3365,7 +3365,7 @@
     "zh": "出口",
     "emoji": "🚪",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22exit%22%20%28%E5%87%BA%E5%8F%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=189344&nologo=true&model=flux"
+    "image": "images/words/421.webp"
   },
   {
     "id": 422,
@@ -3373,7 +3373,7 @@
     "zh": "入口",
     "emoji": "🚪",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22entrance%22%20%28%E5%85%A5%E5%8F%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=88704&nologo=true&model=flux"
+    "image": "images/words/422.webp"
   },
   {
     "id": 423,
@@ -3381,7 +3381,7 @@
     "zh": "行李",
     "emoji": "🧳",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22luggage%22%20%28%E8%A1%8C%E6%9D%8E%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=35955&nologo=true&model=flux"
+    "image": "images/words/423.webp"
   },
   {
     "id": 424,
@@ -3389,7 +3389,7 @@
     "zh": "行李箱",
     "emoji": "🧳",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22suitcase%22%20%28%E8%A1%8C%E6%9D%8E%E7%AE%B1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=945677&nologo=true&model=flux"
+    "image": "images/words/424.webp"
   },
   {
     "id": 425,
@@ -3397,7 +3397,7 @@
     "zh": "背包",
     "emoji": "🎒",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22backpack%22%20%28%E8%83%8C%E5%8C%85%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=179459&nologo=true&model=flux"
+    "image": "images/words/425.webp"
   },
   {
     "id": 426,
@@ -3405,7 +3405,7 @@
     "zh": "護照",
     "emoji": "🏅",
     "category": "transport",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22passport%22%20%28%E8%AD%B7%E7%85%A7%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=299778&nologo=true&model=flux"
+    "image": "images/words/426.webp"
   },
   {
     "id": 427,
