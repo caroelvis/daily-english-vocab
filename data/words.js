@@ -4677,7 +4677,7 @@ window.WORDS = [
     "zh": "止痛藥",
     "emoji": "💉",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22painkiller%22%20%28%E6%AD%A2%E7%97%9B%E8%97%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=771045&nologo=true&model=flux"
+    "image": "images/words/585.webp"
   },
   {
     "id": 586,
@@ -4685,7 +4685,7 @@ window.WORDS = [
     "zh": "抗生素",
     "emoji": "🦠",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22antibiotic%22%20%28%E6%8A%97%E7%94%9F%E7%B4%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=879670&nologo=true&model=flux"
+    "image": "images/words/586.webp"
   },
   {
     "id": 587,
@@ -4693,7 +4693,7 @@ window.WORDS = [
     "zh": "X光",
     "emoji": "🩻",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22x-ray%22%20%28X%E5%85%89%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=979885&nologo=true&model=flux"
+    "image": "images/words/587.webp"
   },
   {
     "id": 588,
@@ -4701,7 +4701,7 @@ window.WORDS = [
     "zh": "健檢",
     "emoji": "🩺",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22checkup%22%20%28%E5%81%A5%E6%AA%A2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=384659&nologo=true&model=flux"
+    "image": "images/words/588.webp"
   },
   {
     "id": 589,
@@ -4709,7 +4709,7 @@ window.WORDS = [
     "zh": "專科醫師",
     "emoji": "👨‍⚕️",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22specialist%22%20%28%E5%B0%88%E7%A7%91%E9%86%AB%E5%B8%AB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=988294&nologo=true&model=flux"
+    "image": "images/words/589.webp"
   },
   {
     "id": 590,
@@ -4717,7 +4717,7 @@ window.WORDS = [
     "zh": "急救",
     "emoji": "🚑",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22first%20aid%22%20%28%E6%80%A5%E6%95%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=673145&nologo=true&model=flux"
+    "image": "images/words/590.webp"
   },
   {
     "id": 591,
@@ -4725,7 +4725,7 @@ window.WORDS = [
     "zh": "病毒",
     "emoji": "🦠",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22virus%22%20%28%E7%97%85%E6%AF%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=330340&nologo=true&model=flux"
+    "image": "images/words/591.webp"
   },
   {
     "id": 592,
@@ -4733,7 +4733,7 @@ window.WORDS = [
     "zh": "感染",
     "emoji": "🦠",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22infection%22%20%28%E6%84%9F%E6%9F%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=971449&nologo=true&model=flux"
+    "image": "images/words/592.webp"
   },
   {
     "id": 593,
@@ -4741,7 +4741,7 @@ window.WORDS = [
     "zh": "打噴嚏",
     "emoji": "🤧",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sneeze%22%20%28%E6%89%93%E5%99%B4%E5%9A%8F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=808202&nologo=true&model=flux"
+    "image": "images/words/593.webp"
   },
   {
     "id": 594,
@@ -4749,7 +4749,7 @@ window.WORDS = [
     "zh": "失眠",
     "emoji": "😵",
     "category": "health",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22insomnia%22%20%28%E5%A4%B1%E7%9C%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=80259&nologo=true&model=flux"
+    "image": "images/words/594.webp"
   },
   {
     "id": 595,
