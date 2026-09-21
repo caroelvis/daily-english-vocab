@@ -3909,7 +3909,7 @@ window.WORDS = [
     "zh": "沙漠",
     "emoji": "🏜️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22desert%22%20%28%E6%B2%99%E6%BC%A0%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=894559&nologo=true&model=flux"
+    "image": "images/words/489.webp"
   },
   {
     "id": 490,
@@ -3917,7 +3917,7 @@ window.WORDS = [
     "zh": "瀑布",
     "emoji": "💧",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22waterfall%22%20%28%E7%80%91%E5%B8%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=607043&nologo=true&model=flux"
+    "image": "images/words/490.webp"
   },
   {
     "id": 491,
@@ -3925,7 +3925,7 @@ window.WORDS = [
     "zh": "洞穴",
     "emoji": "🕳️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cave%22%20%28%E6%B4%9E%E7%A9%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=414149&nologo=true&model=flux"
+    "image": "images/words/491.webp"
   },
   {
     "id": 492,
@@ -3933,7 +3933,7 @@ window.WORDS = [
     "zh": "岩石",
     "emoji": "🪨",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rock%22%20%28%E5%B2%A9%E7%9F%B3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=74926&nologo=true&model=flux"
+    "image": "images/words/492.webp"
   },
   {
     "id": 493,
@@ -3941,7 +3941,7 @@ window.WORDS = [
     "zh": "沙子",
     "emoji": "🏖️",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sand%22%20%28%E6%B2%99%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=545391&nologo=true&model=flux"
+    "image": "images/words/493.webp"
   },
   {
     "id": 494,
@@ -3949,7 +3949,7 @@ window.WORDS = [
     "zh": "葉子",
     "emoji": "🍃",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22leaf%22%20%28%E8%91%89%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=876095&nologo=true&model=flux"
+    "image": "images/words/494.webp"
   },
   {
     "id": 495,
@@ -3957,7 +3957,7 @@ window.WORDS = [
     "zh": "種子",
     "emoji": "🌰",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22seed%22%20%28%E7%A8%AE%E5%AD%90%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=653888&nologo=true&model=flux"
+    "image": "images/words/495.webp"
   },
   {
     "id": 496,
@@ -3965,7 +3965,7 @@ window.WORDS = [
     "zh": "日出",
     "emoji": "🌅",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sunrise%22%20%28%E6%97%A5%E5%87%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=602516&nologo=true&model=flux"
+    "image": "images/words/496.webp"
   },
   {
     "id": 497,
@@ -3973,7 +3973,7 @@ window.WORDS = [
     "zh": "日落",
     "emoji": "🌇",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22sunset%22%20%28%E6%97%A5%E8%90%BD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=196626&nologo=true&model=flux"
+    "image": "images/words/497.webp"
   },
   {
     "id": 498,
@@ -3981,7 +3981,7 @@ window.WORDS = [
     "zh": "微風",
     "emoji": "🍃",
     "category": "weather",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22breeze%22%20%28%E5%BE%AE%E9%A2%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=109635&nologo=true&model=flux"
+    "image": "images/words/498.webp"
   },
   {
     "id": 499,
