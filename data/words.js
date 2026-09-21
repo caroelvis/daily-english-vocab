@@ -4773,7 +4773,7 @@ window.WORDS = [
     "zh": "工作",
     "emoji": "💼",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22work%22%20%28%E5%B7%A5%E4%BD%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=123413&nologo=true&model=flux"
+    "image": "images/words/597.webp"
   },
   {
     "id": 598,
@@ -4781,7 +4781,7 @@ window.WORDS = [
     "zh": "職業",
     "emoji": "💼",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22job%22%20%28%E8%81%B7%E6%A5%AD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=699019&nologo=true&model=flux"
+    "image": "images/words/598.webp"
   },
   {
     "id": 599,
@@ -4789,7 +4789,7 @@ window.WORDS = [
     "zh": "辦公室",
     "emoji": "🏢",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22office%22%20%28%E8%BE%A6%E5%85%AC%E5%AE%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=885995&nologo=true&model=flux"
+    "image": "images/words/599.webp"
   },
   {
     "id": 600,
@@ -4797,7 +4797,7 @@ window.WORDS = [
     "zh": "公司",
     "emoji": "🏢",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22company%22%20%28%E5%85%AC%E5%8F%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=444824&nologo=true&model=flux"
+    "image": "images/words/600.webp"
   },
   {
     "id": 601,
@@ -4805,7 +4805,7 @@ window.WORDS = [
     "zh": "生意",
     "emoji": "🏢",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22business%22%20%28%E7%94%9F%E6%84%8F%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=959089&nologo=true&model=flux"
+    "image": "images/words/601.webp"
   },
   {
     "id": 602,
@@ -4813,7 +4813,7 @@ window.WORDS = [
     "zh": "員工",
     "emoji": "👷",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22employee%22%20%28%E5%93%A1%E5%B7%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=896658&nologo=true&model=flux"
+    "image": "images/words/602.webp"
   },
   {
     "id": 603,
@@ -4821,7 +4821,7 @@ window.WORDS = [
     "zh": "老闆",
     "emoji": "🤵",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22boss%22%20%28%E8%80%81%E9%97%86%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=729641&nologo=true&model=flux"
+    "image": "images/words/603.webp"
   },
   {
     "id": 604,
@@ -4829,7 +4829,7 @@ window.WORDS = [
     "zh": "經理",
     "emoji": "🧑‍💼",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22manager%22%20%28%E7%B6%93%E7%90%86%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=425312&nologo=true&model=flux"
+    "image": "images/words/604.webp"
   },
   {
     "id": 605,
@@ -4837,7 +4837,7 @@ window.WORDS = [
     "zh": "同事",
     "emoji": "👥",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22colleague%22%20%28%E5%90%8C%E4%BA%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=777747&nologo=true&model=flux"
+    "image": "images/words/605.webp"
   },
   {
     "id": 606,
@@ -4845,7 +4845,7 @@ window.WORDS = [
     "zh": "團隊",
     "emoji": "🍵",
     "category": "work",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22team%22%20%28%E5%9C%98%E9%9A%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=519801&nologo=true&model=flux"
+    "image": "images/words/606.webp"
   },
   {
     "id": 607,
