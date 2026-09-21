@@ -645,7 +645,7 @@
     "zh": "家具",
     "emoji": "🛋️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22furniture%22%20%28%E5%AE%B6%E5%85%B7%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=155263&nologo=true&model=flux"
+    "image": "images/words/81.webp"
   },
   {
     "id": 82,
@@ -653,7 +653,7 @@
     "zh": "裝飾",
     "emoji": "🎀",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22decoration%22%20%28%E8%A3%9D%E9%A3%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=69010&nologo=true&model=flux"
+    "image": "images/words/82.webp"
   },
   {
     "id": 83,
@@ -661,7 +661,7 @@
     "zh": "植物",
     "emoji": "🪴",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22plant%22%20%28%E6%A4%8D%E7%89%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=148790&nologo=true&model=flux"
+    "image": "images/words/83.webp"
   },
   {
     "id": 84,
@@ -669,7 +669,7 @@
     "zh": "寵物",
     "emoji": "🐕",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22pet%22%20%28%E5%AF%B5%E7%89%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=239179&nologo=true&model=flux"
+    "image": "images/words/84.webp"
   },
   {
     "id": 85,
@@ -677,7 +677,7 @@
     "zh": "狗",
     "emoji": "🐕",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22dog%22%20%28%E7%8B%97%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=393269&nologo=true&model=flux"
+    "image": "images/words/85.webp"
   },
   {
     "id": 86,
@@ -685,7 +685,7 @@
     "zh": "貓",
     "emoji": "🐈",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22cat%22%20%28%E8%B2%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=58985&nologo=true&model=flux"
+    "image": "images/words/86.webp"
   },
   {
     "id": 87,
@@ -693,7 +693,7 @@
     "zh": "鳥",
     "emoji": "🐦",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22bird%22%20%28%E9%B3%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=703556&nologo=true&model=flux"
+    "image": "images/words/87.webp"
   },
   {
     "id": 88,
@@ -701,7 +701,7 @@
     "zh": "魚",
     "emoji": "🐟",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fish%22%20%28%E9%AD%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=709128&nologo=true&model=flux"
+    "image": "images/words/88.webp"
   },
   {
     "id": 89,
@@ -709,7 +709,7 @@
     "zh": "打掃",
     "emoji": "✨",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22clean%22%20%28%E6%89%93%E6%8E%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=606030&nologo=true&model=flux"
+    "image": "images/words/89.webp"
   },
   {
     "id": 90,
@@ -717,7 +717,7 @@
     "zh": "凌亂的",
     "emoji": "🌪️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22messy%22%20%28%E5%87%8C%E4%BA%82%E7%9A%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=224619&nologo=true&model=flux"
+    "image": "images/words/90.webp"
   },
   {
     "id": 91,
