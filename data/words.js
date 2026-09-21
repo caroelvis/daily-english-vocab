@@ -5861,7 +5861,7 @@ window.WORDS = [
     "zh": "入境",
     "emoji": "🛂",
     "category": "travel",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22immigration%22%20%28%E5%85%A5%E5%A2%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=622621&nologo=true&model=flux"
+    "image": "images/words/733.webp"
   },
   {
     "id": 734,
