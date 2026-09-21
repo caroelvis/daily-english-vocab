@@ -565,7 +565,7 @@ window.VOCAB_WORDS = [
     "zh": "面紙",
     "emoji": "🧻",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22tissue%22%20%28%E9%9D%A2%E7%B4%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=33867&nologo=true&model=flux"
+    "image": "images/words/71.webp"
   },
   {
     "id": 72,
@@ -573,7 +573,7 @@ window.VOCAB_WORDS = [
     "zh": "衛生紙",
     "emoji": "🧻",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22toilet%20paper%22%20%28%E8%A1%9B%E7%94%9F%E7%B4%99%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=655586&nologo=true&model=flux"
+    "image": "images/words/72.webp"
   },
   {
     "id": 73,
@@ -581,7 +581,7 @@ window.VOCAB_WORDS = [
     "zh": "洗衣",
     "emoji": "🧺",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22laundry%22%20%28%E6%B4%97%E8%A1%A3%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=879613&nologo=true&model=flux"
+    "image": "images/words/73.webp"
   },
   {
     "id": 74,
@@ -589,7 +589,7 @@ window.VOCAB_WORDS = [
     "zh": "熨斗",
     "emoji": "♨️",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22iron%22%20%28%E7%86%A8%E6%96%97%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=539590&nologo=true&model=flux"
+    "image": "images/words/74.webp"
   },
   {
     "id": 75,
@@ -597,7 +597,7 @@ window.VOCAB_WORDS = [
     "zh": "衣架",
     "emoji": "🪝",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22hanger%22%20%28%E8%A1%A3%E6%9E%B6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=16568&nologo=true&model=flux"
+    "image": "images/words/75.webp"
   },
   {
     "id": 76,
@@ -605,7 +605,7 @@ window.VOCAB_WORDS = [
     "zh": "門鈴",
     "emoji": "🔔",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22doorbell%22%20%28%E9%96%80%E9%88%B4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=717996&nologo=true&model=flux"
+    "image": "images/words/76.webp"
   },
   {
     "id": 77,
@@ -613,7 +613,7 @@ window.VOCAB_WORDS = [
     "zh": "鄰居",
     "emoji": "👋",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22neighbor%22%20%28%E9%84%B0%E5%B1%85%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=517018&nologo=true&model=flux"
+    "image": "images/words/77.webp"
   },
   {
     "id": 78,
@@ -621,7 +621,7 @@ window.VOCAB_WORDS = [
     "zh": "房東",
     "emoji": "🔑",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22landlord%22%20%28%E6%88%BF%E6%9D%B1%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=448810&nologo=true&model=flux"
+    "image": "images/words/78.webp"
   },
   {
     "id": 79,
@@ -629,7 +629,7 @@ window.VOCAB_WORDS = [
     "zh": "租金",
     "emoji": "🏠",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22rent%22%20%28%E7%A7%9F%E9%87%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=71845&nologo=true&model=flux"
+    "image": "images/words/79.webp"
   },
   {
     "id": 80,
@@ -637,7 +637,7 @@ window.VOCAB_WORDS = [
     "zh": "租約",
     "emoji": "🔏",
     "category": "home",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lease%22%20%28%E7%A7%9F%E7%B4%84%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=434555&nologo=true&model=flux"
+    "image": "images/words/80.webp"
   },
   {
     "id": 81,
