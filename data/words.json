@@ -5949,7 +5949,7 @@
     "zh": "昨天",
     "emoji": "⬅️",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22yesterday%22%20%28%E6%98%A8%E5%A4%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=928441&nologo=true&model=flux"
+    "image": "images/words/744.webp"
   },
   {
     "id": 745,
@@ -5957,7 +5957,7 @@
     "zh": "早上",
     "emoji": "🌄",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22morning%22%20%28%E6%97%A9%E4%B8%8A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=240208&nologo=true&model=flux"
+    "image": "images/words/745.webp"
   },
   {
     "id": 746,
@@ -5965,7 +5965,7 @@
     "zh": "下午",
     "emoji": "🌤️",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22afternoon%22%20%28%E4%B8%8B%E5%8D%88%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=424397&nologo=true&model=flux"
+    "image": "images/words/746.webp"
   },
   {
     "id": 747,
@@ -5973,7 +5973,7 @@
     "zh": "傍晚",
     "emoji": "🌆",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22evening%22%20%28%E5%82%8D%E6%99%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=223327&nologo=true&model=flux"
+    "image": "images/words/747.webp"
   },
   {
     "id": 748,
@@ -5981,7 +5981,7 @@
     "zh": "夜晚",
     "emoji": "🌃",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22night%22%20%28%E5%A4%9C%E6%99%9A%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=955971&nologo=true&model=flux"
+    "image": "images/words/748.webp"
   },
   {
     "id": 749,
@@ -5989,7 +5989,7 @@
     "zh": "午夜",
     "emoji": "🌃",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22midnight%22%20%28%E5%8D%88%E5%A4%9C%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=748933&nologo=true&model=flux"
+    "image": "images/words/749.webp"
   },
   {
     "id": 750,
@@ -5997,7 +5997,7 @@
     "zh": "中午",
     "emoji": "🕛",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22noon%22%20%28%E4%B8%AD%E5%8D%88%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=530040&nologo=true&model=flux"
+    "image": "images/words/750.webp"
   },
   {
     "id": 751,
@@ -6005,7 +6005,7 @@
     "zh": "週末",
     "emoji": "🎉",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22weekend%22%20%28%E9%80%B1%E6%9C%AB%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=409281&nologo=true&model=flux"
+    "image": "images/words/751.webp"
   },
   {
     "id": 752,
@@ -6013,7 +6013,7 @@
     "zh": "平日",
     "emoji": "📅",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22weekday%22%20%28%E5%B9%B3%E6%97%A5%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=603128&nologo=true&model=flux"
+    "image": "images/words/752.webp"
   },
   {
     "id": 753,
@@ -6021,7 +6021,7 @@
     "zh": "星期一",
     "emoji": "1️⃣",
     "category": "daily",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22Monday%22%20%28%E6%98%9F%E6%9C%9F%E4%B8%80%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=20280&nologo=true&model=flux"
+    "image": "images/words/753.webp"
   },
   {
     "id": 754,
