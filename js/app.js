@@ -133,7 +133,8 @@
   const $ = (sel) => document.querySelector(sel);
   const flashView = $('#flashcard-view');
   const quizView = $('#quiz-view');
-  const flashImage = $('#flash-image');
+  const flashImageEl = () => $('#flash-image');
+  const quizImageEl = () => $('#quiz-image');
   const flashEmoji = $('#flash-emoji');
   const flashWord = $('#flash-word');
   const flashZh = $('#flash-zh');
@@ -143,7 +144,6 @@
   const btnSpeak = $('#btn-speak');
   const btnPrevFlash = $('#btn-prev-flash');
   const btnNextFlash = $('#btn-next-flash');
-  const quizImage = $('#quiz-image');
   const quizEmoji = $('#quiz-emoji');
   const quizOptions = $('#quiz-options');
   const quizTryHint = $('#quiz-try-hint');
@@ -204,9 +204,30 @@
     }, ms);
   }
 
+  /** Bump this when replacing images so browsers skip stale WebP cache. */
+  const IMAGE_CACHE_VER = '20260922a';
+
+  function resolveImageUrl(src) {
+    if (!src) return '';
+    if (/^https?:\/\//i.test(src) || src.indexOf('data:') === 0) return src;
+    return src + (src.indexOf('?') >= 0 ? '&' : '?') + 'v=' + IMAGE_CACHE_VER;
+  }
+
+  function resetWordImage(imgEl) {
+    if (!imgEl) return imgEl;
+    const next = imgEl.cloneNode(false);
+    next.id = imgEl.id;
+    next.classList.remove('loaded');
+    next.removeAttribute('src');
+    next.removeAttribute('srcset');
+    next.alt = '';
+    next.decoding = 'async';
+    imgEl.replaceWith(next);
+    return next;
+  }
+
   function setImage(imgEl, emojiEl, word) {
-    imgEl.classList.remove('loaded');
-    imgEl.removeAttribute('src');
+    imgEl = resetWordImage(imgEl);
     imgEl.alt = word.word;
     emojiEl.textContent = word.emoji || '📦';
     emojiEl.style.display = '';
@@ -255,7 +276,7 @@
     };
     imgEl.addEventListener('load', onOk);
     imgEl.addEventListener('error', onErr);
-    imgEl.src = word.image;
+    imgEl.src = resolveImageUrl(word.image);
   }
 
   // ——— Speech ———
@@ -356,7 +377,7 @@
     flashWord.textContent = word.word;
     flashZh.textContent = word.zh;
     flashCategory.textContent = CATEGORY_ZH[word.category] || word.category;
-    setImage(flashImage, flashEmoji, word);
+    setImage(flashImageEl(), flashEmoji, word);
     const poolLen = getActiveWords().length;
     flashMeta.textContent = `共 ${poolLen} 個單字 · #${word.id}`;
     updatePrevButton();
@@ -370,10 +391,9 @@
     flashZh.textContent = '此分類目前沒有單字';
     flashCategory.textContent = categoryLabel(selectedCategory);
     flashMeta.textContent = '共 0 個單字';
-    flashImage.classList.remove('loaded');
-    flashImage.removeAttribute('src');
+    const emptyImg = resetWordImage(flashImageEl());
     flashEmoji.textContent = '📭';
-    const wrap = flashImage.parentElement;
+    const wrap = emptyImg && emptyImg.parentElement;
     if (wrap) {
       wrap.classList.remove('image-pending');
       wrap.classList.add('image-error');
@@ -456,9 +476,8 @@
       quizOptions.innerHTML = '';
       quizTryHint.hidden = true;
       quizEmoji.textContent = '📭';
-      quizImage.classList.remove('loaded');
-      quizImage.removeAttribute('src');
-      const wrap = quizImage.parentElement;
+      const emptyQuizImg = resetWordImage(quizImageEl());
+      const wrap = emptyQuizImg && emptyQuizImg.parentElement;
       if (wrap) {
         wrap.classList.remove('image-pending');
         wrap.classList.add('image-error');
@@ -481,7 +500,7 @@
     resultsCard.hidden = true;
 
     const { answer, options } = currentQuestion;
-    setImage(quizImage, quizEmoji, answer);
+    setImage(quizImageEl(), quizEmoji, answer);
 
     quizOptions.innerHTML = '';
     options.forEach((opt) => {
@@ -721,6 +740,8 @@
     try {
       if (Array.isArray(window.VOCAB_WORDS) && window.VOCAB_WORDS.length >= 10) {
         words = window.VOCAB_WORDS;
+      } else if (Array.isArray(window.WORDS) && window.WORDS.length >= 10) {
+        words = window.WORDS;
       } else {
         const res = await fetch('data/words.json');
         if (!res.ok) throw new Error('HTTP ' + res.status);
