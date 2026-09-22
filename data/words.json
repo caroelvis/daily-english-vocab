@@ -2317,7 +2317,7 @@
     "zh": "退貨",
     "emoji": "↩️",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22return%22%20%28%E9%80%80%E8%B2%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=125445&nologo=true&model=flux"
+    "image": "images/words/290.webp"
   },
   {
     "id": 291,
@@ -2325,7 +2325,7 @@
     "zh": "換貨",
     "emoji": "💱",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22exchange%22%20%28%E6%8F%9B%E8%B2%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=305037&nologo=true&model=flux"
+    "image": "images/words/291.webp"
   },
   {
     "id": 292,
@@ -2333,7 +2333,7 @@
     "zh": "退款",
     "emoji": "↩️",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22refund%22%20%28%E9%80%80%E6%AC%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=372905&nologo=true&model=flux"
+    "image": "images/words/292.webp"
   },
   {
     "id": 293,
@@ -2341,7 +2341,7 @@
     "zh": "保固",
     "emoji": "🛡️",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22warranty%22%20%28%E4%BF%9D%E5%9B%BA%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=503844&nologo=true&model=flux"
+    "image": "images/words/293.webp"
   },
   {
     "id": 294,
@@ -2349,7 +2349,7 @@
     "zh": "配送",
     "emoji": "🚚",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22delivery%22%20%28%E9%85%8D%E9%80%81%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=783179&nologo=true&model=flux"
+    "image": "images/words/294.webp"
   },
   {
     "id": 295,
@@ -2357,7 +2357,7 @@
     "zh": "運送",
     "emoji": "🚚",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22shipping%22%20%28%E9%81%8B%E9%80%81%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=873560&nologo=true&model=flux"
+    "image": "images/words/295.webp"
   },
   {
     "id": 296,
@@ -2365,7 +2365,7 @@
     "zh": "包裹",
     "emoji": "📦",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22package%22%20%28%E5%8C%85%E8%A3%B9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=799426&nologo=true&model=flux"
+    "image": "images/words/296.webp"
   },
   {
     "id": 297,
@@ -2373,7 +2373,7 @@
     "zh": "網購",
     "emoji": "🌐",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22online%20shopping%22%20%28%E7%B6%B2%E8%B3%BC%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=126520&nologo=true&model=flux"
+    "image": "images/words/297.webp"
   },
   {
     "id": 298,
@@ -2381,7 +2381,7 @@
     "zh": "試衣間",
     "emoji": "🪞",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22fitting%20room%22%20%28%E8%A9%A6%E8%A1%A3%E9%96%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=723324&nologo=true&model=flux"
+    "image": "images/words/298.webp"
   },
   {
     "id": 299,
@@ -2389,7 +2389,7 @@
     "zh": "走道",
     "emoji": "➡️",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22aisle%22%20%28%E8%B5%B0%E9%81%93%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=804398&nologo=true&model=flux"
+    "image": "images/words/299.webp"
   },
   {
     "id": 300,
@@ -2397,7 +2397,7 @@
     "zh": "產品",
     "emoji": "🏷️",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22product%22%20%28%E7%94%A2%E5%93%81%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=993609&nologo=true&model=flux"
+    "image": "images/words/300.webp"
   },
   {
     "id": 301,
@@ -2405,7 +2405,7 @@
     "zh": "物品",
     "emoji": "📌",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22item%22%20%28%E7%89%A9%E5%93%81%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=701686&nologo=true&model=flux"
+    "image": "images/words/301.webp"
   },
   {
     "id": 302,
@@ -2413,7 +2413,7 @@
     "zh": "禮物",
     "emoji": "🎁",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22gift%22%20%28%E7%A6%AE%E7%89%A9%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=989318&nologo=true&model=flux"
+    "image": "images/words/302.webp"
   },
   {
     "id": 303,
@@ -2421,7 +2421,7 @@
     "zh": "紀念品",
     "emoji": "🎀",
     "category": "shopping",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22souvenir%22%20%28%E7%B4%80%E5%BF%B5%E5%93%81%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=490631&nologo=true&model=flux"
+    "image": "images/words/303.webp"
   },
   {
     "id": 304,
