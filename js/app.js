@@ -205,12 +205,42 @@
   }
 
   /** Bump this when replacing images so browsers skip stale WebP cache. */
-  const IMAGE_CACHE_VER = '20260922b';
+  const IMAGE_CACHE_VER = '20260922c';
+  /** @type {Map<string, HTMLImageElement>} */
+  const imageWarmCache = new Map();
+  let queuedNextWord = null;
 
   function resolveImageUrl(src) {
     if (!src) return '';
     if (/^https?:\/\//i.test(src) || src.indexOf('data:') === 0) return src;
     return src + (src.indexOf('?') >= 0 ? '&' : '?') + 'v=' + IMAGE_CACHE_VER;
+  }
+
+  function warmImage(word) {
+    if (!word || !word.image) return null;
+    const url = resolveImageUrl(word.image);
+    const hit = imageWarmCache.get(url);
+    if (hit) return hit;
+    const im = new Image();
+    im.decoding = 'async';
+    im.src = url;
+    imageWarmCache.set(url, im);
+    return im;
+  }
+
+  function warmAhead(excludeIds, count) {
+    const seen = new Set(excludeIds || []);
+    for (let i = 0; i < count; i++) {
+      const w = pickRandomWord([...seen]);
+      if (!w) break;
+      seen.add(w.id);
+      warmImage(w);
+    }
+  }
+
+  function imageReady(url) {
+    const im = imageWarmCache.get(url);
+    return !!(im && im.complete && im.naturalWidth > 0);
   }
 
   function resetWordImage(imgEl) {
@@ -265,9 +295,19 @@
       imgEl.removeEventListener('load', onOk);
       imgEl.removeEventListener('error', onErr);
     };
+    const url = resolveImageUrl(word.image);
+    imgEl.fetchPriority = 'high';
+    imgEl.decoding = 'async';
+    if (imageReady(url)) {
+      imgEl.src = url;
+      imgEl.classList.add('loaded');
+      if (wrap) wrap.classList.remove('image-pending', 'image-error');
+      return;
+    }
     imgEl.addEventListener('load', onOk);
     imgEl.addEventListener('error', onErr);
-    imgEl.src = resolveImageUrl(word.image);
+    warmImage(word);
+    imgEl.src = url;
   }
 
   // ——— Speech ———
@@ -374,6 +414,13 @@
     updatePrevButton();
 
     if (autoSpeak.checked) speak(word.word);
+
+    if (!queuedNextWord || queuedNextWord.id === word.id) {
+      queuedNextWord = pickRandomWord(recentFlashIds.concat(word.id));
+    }
+    warmImage(queuedNextWord);
+    if (flashHistory.length) warmImage(flashHistory[flashHistory.length - 1]);
+    warmAhead(recentFlashIds.concat(word.id, queuedNextWord ? queuedNextWord.id : []), 8);
   }
 
   function showEmptyFlashPool() {
@@ -405,7 +452,11 @@
       flashHistory.push(currentFlash);
       if (flashHistory.length > HISTORY_LIMIT) flashHistory.shift();
     }
-    const word = pickRandomWord(recentFlashIds);
+    let word = queuedNextWord;
+    queuedNextWord = null;
+    if (!word || recentFlashIds.includes(word.id)) {
+      word = pickRandomWord(recentFlashIds);
+    }
     if (!word) {
       showEmptyFlashPool();
       return;
@@ -491,7 +542,9 @@
     resultsCard.hidden = true;
 
     const { answer, options } = currentQuestion;
+    warmImage(answer);
     setImage(quizImageEl(), quizEmoji, answer);
+    warmAhead([answer.id], 6);
 
     quizOptions.innerHTML = '';
     options.forEach((opt) => {
@@ -686,6 +739,7 @@
     recentFlashIds = [];
     flashHistory = [];
     currentFlash = null;
+    queuedNextWord = null;
     updatePrevButton();
     if (flashView.classList.contains('active')) {
       nextFlashcard();
@@ -755,6 +809,7 @@
     // Sync size-chip UI with default quizTotal
     applyQuizSize(quizTotal);
     startAnalytics();
+    warmAhead([], 12);
     nextFlashcard();
 
     document.querySelectorAll('.content-btn').forEach((btn) => {
