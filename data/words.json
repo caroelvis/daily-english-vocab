@@ -8149,7 +8149,7 @@
     "zh": "教室",
     "emoji": "🪑",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22classroom%22%20%28%E6%95%99%E5%AE%A4%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=265440&nologo=true&model=flux"
+    "image": "images/words/1019.webp"
   },
   {
     "id": 1020,
@@ -8157,7 +8157,7 @@
     "zh": "課程",
     "emoji": "📒",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22lesson%22%20%28%E8%AA%B2%E7%A8%8B%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=357496&nologo=true&model=flux"
+    "image": "images/words/1020.webp"
   },
   {
     "id": 1021,
@@ -8165,7 +8165,7 @@
     "zh": "作業",
     "emoji": "📓",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22homework%22%20%28%E4%BD%9C%E6%A5%AD%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=787485&nologo=true&model=flux"
+    "image": "images/words/1021.webp"
   },
   {
     "id": 1022,
@@ -8173,7 +8173,7 @@
     "zh": "考試",
     "emoji": "📝",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22exam%22%20%28%E8%80%83%E8%A9%A6%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=513355&nologo=true&model=flux"
+    "image": "images/words/1022.webp"
   },
   {
     "id": 1023,
@@ -8181,7 +8181,7 @@
     "zh": "測驗",
     "emoji": "✏️",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22test%22%20%28%E6%B8%AC%E9%A9%97%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=231188&nologo=true&model=flux"
+    "image": "images/words/1023.webp"
   },
   {
     "id": 1024,
@@ -8189,7 +8189,7 @@
     "zh": "成績",
     "emoji": "📊",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22grade%22%20%28%E6%88%90%E7%B8%BE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=688140&nologo=true&model=flux"
+    "image": "images/words/1024.webp"
   },
   {
     "id": 1025,
@@ -8197,7 +8197,7 @@
     "zh": "文憑",
     "emoji": "🎓",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22diploma%22%20%28%E6%96%87%E6%86%91%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=406181&nologo=true&model=flux"
+    "image": "images/words/1025.webp"
   },
   {
     "id": 1026,
@@ -8205,7 +8205,7 @@
     "zh": "大學",
     "emoji": "🎓",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22university%22%20%28%E5%A4%A7%E5%AD%B8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=407551&nologo=true&model=flux"
+    "image": "images/words/1026.webp"
   },
   {
     "id": 1027,
@@ -8213,7 +8213,7 @@
     "zh": "學院",
     "emoji": "🏫",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22college%22%20%28%E5%AD%B8%E9%99%A2%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=507162&nologo=true&model=flux"
+    "image": "images/words/1027.webp"
   },
   {
     "id": 1028,
@@ -8221,7 +8221,7 @@
     "zh": "圖書館",
     "emoji": "🏛️",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22library%22%20%28%E5%9C%96%E6%9B%B8%E9%A4%A8%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=471840&nologo=true&model=flux"
+    "image": "images/words/1028.webp"
   },
   {
     "id": 1029,
@@ -8229,7 +8229,7 @@
     "zh": "學習",
     "emoji": "📖",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22study%22%20%28%E5%AD%B8%E7%BF%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=378050&nologo=true&model=flux"
+    "image": "images/words/1029.webp"
   },
   {
     "id": 1030,
@@ -8237,7 +8237,7 @@
     "zh": "學會",
     "emoji": "👂",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22learn%22%20%28%E5%AD%B8%E6%9C%83%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=348333&nologo=true&model=flux"
+    "image": "images/words/1030.webp"
   },
   {
     "id": 1031,
@@ -8245,7 +8245,7 @@
     "zh": "練習",
     "emoji": "🔁",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22practice%22%20%28%E7%B7%B4%E7%BF%92%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=539067&nologo=true&model=flux"
+    "image": "images/words/1031.webp"
   },
   {
     "id": 1032,
@@ -8253,7 +8253,7 @@
     "zh": "科目",
     "emoji": "📘",
     "category": "education",
-    "image": "https://image.pollinations.ai/prompt/simple%20educational%20flashcard%20illustration%20of%20the%20English%20word%20%22subject%22%20%28%E7%A7%91%E7%9B%AE%29%2C%20one%20clear%20subject%20only%2C%20centered%2C%20flat%20vector%20style%2C%20clean%20white%20background%2C%20no%20text%2C%20no%20letters%2C%20no%20watermark?width=512&height=512&seed=564410&nologo=true&model=flux"
+    "image": "images/words/1032.webp"
   },
   {
     "id": 1033,
