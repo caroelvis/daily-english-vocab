@@ -204,24 +204,22 @@ body {
 .emoji-fallback {
   position: absolute;
   inset: 0;
-  display: grid;
+  display: none;
   place-items: center;
   font-size: clamp(4.5rem, 22vw, 7.5rem);
   line-height: 1;
-  filter: drop-shadow(0 10px 20px rgba(0,0,0,0.4));
   z-index: 1;
   pointer-events: none;
-  opacity: 1;
-  transition: opacity 0.2s ease;
-}
-.image-wrap img.loaded + .emoji-fallback {
   opacity: 0;
   visibility: hidden;
 }
-.image-wrap.image-error .emoji-fallback,
-.image-wrap.image-pending .emoji-fallback {
+.image-wrap.image-error .emoji-fallback {
+  display: grid;
   opacity: 1;
   visibility: visible;
+}
+.image-wrap.image-pending {
+  background: #f3efe6 !important;
 }
 
 .category-pill {

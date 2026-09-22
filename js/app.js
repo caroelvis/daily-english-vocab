@@ -205,7 +205,7 @@
   }
 
   /** Bump this when replacing images so browsers skip stale WebP cache. */
-  const IMAGE_CACHE_VER = '20260922a';
+  const IMAGE_CACHE_VER = '20260922b';
 
   function resolveImageUrl(src) {
     if (!src) return '';
@@ -229,23 +229,14 @@
   function setImage(imgEl, emojiEl, word) {
     imgEl = resetWordImage(imgEl);
     imgEl.alt = word.word;
-    emojiEl.textContent = word.emoji || '📦';
-    emojiEl.style.display = '';
-    emojiEl.setAttribute('aria-hidden', 'true');
+    if (emojiEl) {
+      emojiEl.textContent = '';
+      emojiEl.setAttribute('aria-hidden', 'true');
+    }
 
-    // Soft category color behind large emoji fallback
     const wrap = imgEl.parentElement;
     if (wrap) {
-      const hues = {
-        home: 210, food: 25, shopping: 280, clothing: 330,
-        transport: 200, weather: 160, health: 0, work: 220,
-        travel: 35, daily: 170, people: 270, basics: 140,
-        money: 45, tech: 195, education: 20, services: 350, leisure: 155,
-        animals: 85,
-      };
-      const h = hues[word.category] ?? 220;
-      wrap.style.background =
-        `linear-gradient(145deg, hsl(${h} 42% 32% / 0.95), hsl(${h} 38% 18% / 0.98))`;
+      wrap.style.background = '#f3efe6';
       wrap.classList.remove('image-error');
       wrap.classList.add('image-pending');
     }
@@ -392,7 +383,7 @@
     flashCategory.textContent = categoryLabel(selectedCategory);
     flashMeta.textContent = '共 0 個單字';
     const emptyImg = resetWordImage(flashImageEl());
-    flashEmoji.textContent = '📭';
+    flashEmoji.textContent = '';
     const wrap = emptyImg && emptyImg.parentElement;
     if (wrap) {
       wrap.classList.remove('image-pending');
@@ -475,7 +466,7 @@
       resultsCard.hidden = true;
       quizOptions.innerHTML = '';
       quizTryHint.hidden = true;
-      quizEmoji.textContent = '📭';
+      quizEmoji.textContent = '';
       const emptyQuizImg = resetWordImage(quizImageEl());
       const wrap = emptyQuizImg && emptyQuizImg.parentElement;
       if (wrap) {
