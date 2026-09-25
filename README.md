@@ -103,3 +103,10 @@ uvicorn main:app --reload --host 127.0.0.1 --port 8000
 
 - 單字：`{ id, word, zh, emoji, category, image }`（約 1300+，含動物等分類）
 - 句子：`{ id, scene, en, zh }`（約 700）
+
+## Audio
+
+Pronunciation uses pre-generated neural TTS clips (Microsoft `en-US-JennyNeural`, rate -10%, mono 32 kbps MP3):
+`audio/words/{id}.mp3` and `audio/sentences/{id}.mp3`. If a clip fails to load, the app falls back to the browser's
+`speechSynthesis` and prefers natural en-US voices. To regenerate, run `pip install edge-tts` (ffmpeg is also required), then
+`python scripts/generate_audio.py` (add `--force` to overwrite existing clips).

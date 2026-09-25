@@ -324,10 +324,9 @@
     else if (lang.startsWith('en')) score += 20;
     // Prefer natural / premium sounding voices by name heuristics
     const preferred = [
-      'google us english', 'google uk english female', 'google uk english male',
-      'samantha', 'karen', 'daniel', 'moira', 'tessa', 'alex',
-      'microsoft aria', 'microsoft jenny', 'microsoft guy', 'microsoft michelle',
-      'natural', 'neural', 'premium', 'enhanced',
+      'natural', 'jenny', 'aria', 'ava', 'samantha', 'google us english',
+      'neural', 'premium', 'enhanced', 'michelle', 'emma', 'allison', 'susan',
+      'zira', 'karen', 'google uk english female', 'moira', 'tessa', 'daniel', 'alex',
     ];
     for (let i = 0; i < preferred.length; i++) {
       if (name.includes(preferred[i])) score += 40 - i;
@@ -356,29 +355,62 @@
     return bestScore >= 0 ? best : null;
   }
 
+  const NEURAL_VOICE_LABEL = 'Jenny（自然語音）';
+
   function refreshPreferredVoice() {
     preferredVoice = pickBestVoice();
-    const info = document.getElementById('voice-info');
-    if (info) {
-      info.textContent = preferredVoice
-        ? ('語音：' + preferredVoice.name.replace(/\s*\(.*?\)\s*/g, ' ').trim())
-        : '語音：系統預設';
-    }
+    updateVoiceInfo();
   }
 
-  function speak(text, opts) {
+  function updateVoiceInfo(usingFile) {
+    const info = document.getElementById('voice-info');
+    if (!info) return;
+    if (usingFile !== false) {
+      info.textContent = '語音：' + NEURAL_VOICE_LABEL;
+      return;
+    }
+    info.textContent = preferredVoice
+      ? ('語音：' + preferredVoice.name.replace(/\s*\(.*?\)\s*/g, ' ').trim())
+      : '語音：系統預設';
+  }
+
+  // Pre-generated neural audio (audio/words/{id}.mp3, audio/sentences/{id}.mp3).
+  // Falls back to speechSynthesis if the file can't be loaded or played.
+  let currentAudio = null;
+  let speakToken = 0;
+
+  function stopSpeaking() {
+    speakToken++;
+    if (currentAudio) {
+      try {
+        currentAudio.pause();
+        currentAudio.removeAttribute('src');
+        currentAudio.load();
+      } catch (e) { /* ignore */ }
+      currentAudio = null;
+    }
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+  }
+
+  function audioUrlFor(opts) {
+    if (!opts || opts.id == null) return null;
+    const dir = opts.kind === 'sentence' ? 'sentences' : 'words';
+    return 'audio/' + dir + '/' + encodeURIComponent(opts.id) + '.mp3';
+  }
+
+  function speakSynth(text, opts) {
     if (!window.speechSynthesis) {
       showToast('此瀏覽器不支援語音朗讀');
       return;
     }
     const rate = (opts && typeof opts.rate === 'number') ? opts.rate : 0.78;
     window.speechSynthesis.cancel();
+    updateVoiceInfo(false);
     // Some browsers need a short tick after cancel before speaking again
     const run = () => {
       if (!preferredVoice) refreshPreferredVoice();
       const u = new SpeechSynthesisUtterance(text);
       u.lang = (preferredVoice && preferredVoice.lang) || 'en-US';
-      // Slower + slightly lower pitch sounds clearer for learners
       u.rate = rate;
       u.pitch = 1.0;
       u.volume = 1;
@@ -386,6 +418,41 @@
       window.speechSynthesis.speak(u);
     };
     setTimeout(run, 40);
+  }
+
+  // opts: { kind: 'word' | 'sentence', id, rate (speechSynthesis fallback),
+  //         playbackRate (audio file speed, default 1) }
+  function speak(text, opts) {
+    stopSpeaking();
+    const url = audioUrlFor(opts);
+    if (!url || typeof Audio === 'undefined') {
+      speakSynth(text, opts);
+      return;
+    }
+    const token = speakToken;
+    const audio = new Audio(url);
+    currentAudio = audio;
+    audio.preload = 'auto';
+    const pr = opts && typeof opts.playbackRate === 'number' ? opts.playbackRate : 1;
+    audio.playbackRate = pr;
+    let fellBack = false;
+    const fallback = () => {
+      if (fellBack || token !== speakToken) return;
+      fellBack = true;
+      if (currentAudio === audio) currentAudio = null;
+      speakSynth(text, opts);
+    };
+    audio.addEventListener('error', fallback);
+    const p = audio.play();
+    if (p && typeof p.then === 'function') {
+      p.then(() => { if (token === speakToken) updateVoiceInfo(true); })
+        .catch((err) => {
+          // Autoplay blocked (NotAllowedError): don't fall back to synth, which would also be blocked.
+          if (err && err.name === 'AbortError') return;
+          if (err && err.name === 'NotAllowedError') return;
+          fallback();
+        });
+    }
   }
 
   // Chrome loads voices async
@@ -413,7 +480,7 @@
     flashMeta.textContent = `共 ${poolLen} 個單字 · #${word.id}`;
     updatePrevButton();
 
-    if (autoSpeak.checked) speak(word.word);
+    if (autoSpeak.checked) speak(word.word, { kind: 'word', id: word.id });
 
     if (!queuedNextWord || queuedNextWord.id === word.id) {
       queuedNextWord = pickRandomWord(recentFlashIds.concat(word.id));
@@ -827,12 +894,12 @@
       btn.addEventListener('click', () => applyQuizSize(btn.dataset.size));
     });
     btnSpeak.addEventListener('click', () => {
-      if (currentFlash) speak(currentFlash.word);
+      if (currentFlash) speak(currentFlash.word, { kind: 'word', id: currentFlash.id });
     });
     if (btnQuizSpeak) {
       btnQuizSpeak.addEventListener('click', () => {
         if (currentQuestion && currentQuestion.answer) {
-          speak(currentQuestion.answer.word);
+          speak(currentQuestion.answer.word, { kind: 'word', id: currentQuestion.answer.id });
         }
       });
     }
@@ -852,13 +919,14 @@
         prevFlashcard();
       } else if (e.key === ' ') {
         e.preventDefault();
-        if (currentFlash) speak(currentFlash.word);
+        if (currentFlash) speak(currentFlash.word, { kind: 'word', id: currentFlash.id });
       }
     });
   }
 
   window.VocabApp = {
     speak: speak,
+    stopSpeaking: stopSpeaking,
     shuffle: shuffle,
     showToast: showToast,
     getContentType: function () { return contentType; },

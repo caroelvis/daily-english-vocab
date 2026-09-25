@@ -57,10 +57,13 @@
     return a;
   }
 
-  function speak(text) {
+  // item: sentence object ({ id, en }) — plays audio/sentences/{id}.mp3
+  function speak(item) {
+    if (!item) return;
+    const text = item.en;
     if (typeof app().speak === 'function') {
-      // Slightly slower for full sentences
-      app().speak(text, { rate: 0.72 });
+      // rate applies only to the speechSynthesis fallback (slightly slower for sentences)
+      app().speak(text, { kind: 'sentence', id: item.id, rate: 0.72 });
       return;
     }
     if (!window.speechSynthesis) return;
@@ -118,7 +121,7 @@
     updatePrevBtn();
 
     const auto = $('#sentence-auto-speak');
-    if (auto && auto.checked) speak(item.en);
+    if (auto && auto.checked) speak(item);
   }
 
   function showEmpty() {
@@ -452,7 +455,7 @@
     const btnSpeak = $('#btn-speak-sentence');
     if (btnSpeak) {
       btnSpeak.addEventListener('click', () => {
-        if (current) speak(current.en);
+        if (current) speak(current);
       });
     }
     const btnPrev = $('#btn-prev-sentence');
@@ -464,7 +467,7 @@
     if (btnQuizSpeak) {
       btnQuizSpeak.addEventListener('click', () => {
         if (currentQuestion && currentQuestion.answer) {
-          speak(currentQuestion.answer.en);
+          speak(currentQuestion.answer);
         }
       });
     }
@@ -483,7 +486,7 @@
         prevSentence();
       } else if (e.key === ' ') {
         e.preventDefault();
-        if (current) speak(current.en);
+        if (current) speak(current);
       }
     });
   }
